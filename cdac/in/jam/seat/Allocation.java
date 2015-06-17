@@ -130,6 +130,52 @@ public class Allocation{
 
 	}
 
+
+	void readLastRoundAllocation(String file, boolean header){
+
+		BufferedReader br = null;
+		try{
+
+			br = new BufferedReader( new FileReader(new File(file) ) );
+			String line = null;
+			while( (line = br.readLine()) != null ){
+				if( header ){
+					header = false;
+					continue;
+				}
+				String[] tokens = line.split(",");
+				String statusId = tokens[6].trim();
+
+				if( statusId.equals("3") ){	
+		
+					// do the allocation;
+
+					String applicationId = tokens[0].trim();
+					String program = tokens[1].trim();
+					String paper = tokens[2].trim();
+					String quota = tokens[3].trim();
+					String auto_upgrade =  tokens[4].trim();
+					String is_provisional = tokens[5].trim();
+
+				}
+
+			}
+
+
+		}catch(Exception e){
+			e.printStackTrace();
+		}finally{
+			try{
+				if( br != null)
+					br.close();
+
+			}catch(Exception e){
+				e.printStackTrace();
+			}
+		}
+
+	}
+
 	void readApplicant(String file, boolean fileHeader){
 
 		BufferedReader br = null;
@@ -339,6 +385,7 @@ public class Allocation{
 
 
 	void detailsAllocation(){
+
 		for(Applicant applicant: applicants){
 
 			if( applicant.isAllocated )
@@ -727,11 +774,13 @@ public class Allocation{
 	private void read(){
 
 		reset();	
+
 		System.out.println("-----------------------Data Reading -----------------------");
 		readCourse("./data/seat-matrix.csv", true);
 		readApplicantRank("./data/ranks.csv", true);
 		readApplicant("./data/applicant-choices.csv", true);
 		SortApplicants();
+		readLastRoundAllocation("./data/lastRoundAllocation.csv", true);
 		System.out.println("-----------------------------------------------------------");
 		System.out.println("Total Seats After Reading: "+totalSeats());
 		System.out.println("-----------------------------------------------------------");

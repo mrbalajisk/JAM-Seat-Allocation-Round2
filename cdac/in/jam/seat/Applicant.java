@@ -79,15 +79,17 @@ public class Applicant{
 	String  category;
 	String  dob; 
 
-	boolean   isPd;
+	boolean isPd;
+	boolean autoUpgrade;
+	boolean isProvisional;
 
 	String originalChoices;
 	String [] validChoices;
 
 	public Map<String,Rank> ranks;
 
-	Quota     allocatedQuota;
-	int 	  allocatedChoice;
+	Quota  allocatedQuota;
+	int    allocatedChoice;
 	boolean   isAllocated; 
 	boolean   isSupernumeri;
 
@@ -98,6 +100,8 @@ public class Applicant{
 		this.allocatedQuota = null;
 		this.isAllocated = false;
 		this.isSupernumeri = false;
+		this.isProvisional = false;
+		this.autoUpgrade = true;
 
 		this.category = StaticData.categorys.get(  category.trim() );	
 
@@ -111,6 +115,7 @@ public class Applicant{
 	
 		String[] orgChociesList = originalChoices.trim().split("#");
 		String[] chociesList = validChoices.trim().split("#");
+
 		/*
 		if( orgChociesList.length != chociesList.length ){
 			System.err.println( originalChoices+" | "+validChoices);

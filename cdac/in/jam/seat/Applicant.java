@@ -79,9 +79,15 @@ public class Applicant{
 	String  category;
 	String  dob; 
 
+	String  acceptancePath;	
+	String  challanPath;
+	String  declarationPath;
+	String  undertakingPath;	
+
 	boolean isPd;
 	boolean autoUpgrade;
 	boolean isProvisional;
+	boolean isSubmitted;
 
 	String originalChoices;
 	String [] validChoices;
@@ -90,6 +96,7 @@ public class Applicant{
 
 	Quota  allocatedQuota;
 	int    allocatedChoice;
+	int    statusId;
 	boolean   isAllocated; 
 	boolean   isSupernumeri;
 
@@ -101,7 +108,13 @@ public class Applicant{
 		this.isAllocated = false;
 		this.isSupernumeri = false;
 		this.isProvisional = false;
-		this.autoUpgrade = true;
+		this.autoUpgrade = true;	
+		this.isSubmitted = false;
+
+		this.acceptancePath = "";	
+		this.challanPath = "";
+		this.declarationPath = "";
+		this.undertakingPath = "";	
 
 		this.category = StaticData.categorys.get(  category.trim() );	
 

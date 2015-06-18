@@ -13,6 +13,7 @@ Eligibale Candidate for: BL is: 664
 Eligibale Candidate for: MA is: 1211
 Eligibale Candidate for: GG is: 273
 Eligibale Candidate for: MS is: 322
+Total allocation accepted form last Round: 1267
 -----------------------------------------------------------
 Total Seats After Reading: GEN: 780, OBC: 411, SC: 232, ST: 124, GEN-PwD: 25, OBC-PwD: 15, SC-PwD: 7, ST-PwD: 4, TOTAL: 1598
 -----------------------------------------------------------
@@ -20,328 +21,10 @@ Global Interation: 1
 All-paper-allocation-Iteration: 1
 All-paper-allocation-Iteration: 2
 All-paper-allocation-Iteration: 3
-PWD-Seat-Conversion
-BT 1802 OBCPWD 1
-CY 1211 STPWD 1
-CY 1212 SCPWD 1
-CY 1401 OBCPWD 1
-CY 1701 OBCPWD 1
-CY 2101 OBCPWD 1
-GG 1208 OBCPWD 1
-MA 1103 GENPWD 1
-MA 1302 SCPWD 1
-MA 1402 SCPWD 1
-MA 1603 SCPWD 1
-MA 1702 OBCPWD 1
-MA 1804 OBCPWD 1
-MA 1902 OBCPWD 1
-MA 2301 OBCPWD 1
-MS 1504 GENPWD 1
-PH 1209 GENPWD 1
-PH 1210 STPWD 1
-PH 1216 STPWD 1
-PH 1303 STPWD 1
-PH 1503 OBCPWD 1
-PH 1604 OBCPWD 1
-PH 1605 GENPWD 1
-PH 1903 SCPWD 1
-PH 2303 SCPWD 1
-All-paper-allocation-Iteration: 1
-All-paper-allocation-Iteration: 2
-All-paper-allocation-Iteration: 3
 All-paper-allocation-Iteration: 4
 All-paper-allocation-Iteration: 5
 All-paper-allocation-Iteration: 6
 All-paper-allocation-Iteration: 7
-------------- Supernumeri cases found in allocation -----------
-M101W39, SC, CY, 2101, 1216
----------------- Seat To Be Reducted for: 1 Courses ---------------
-2101,CY, SC, 1
----------------- Reset the data for reallocation ---------------
------------------------Data Reading -----------------------
-Total Qualified registrationIds: 10579
-Foreign candidate :[M104H15] Not consider for Current Round Allocation
-
-Total Eligibale Candidate for Allocation: 5434
-Candidate with status id 4: 5434
-Candidate with status id 5: 0
-Candidate with status id 6: 0
-Eligibale Candidate for: CY is: 1356
-Eligibale Candidate for: PH is: 1344
-Eligibale Candidate for: BT is: 725
-Eligibale Candidate for: BL is: 664
-Eligibale Candidate for: MA is: 1211
-Eligibale Candidate for: GG is: 273
-Eligibale Candidate for: MS is: 322
------------------------------------------------------------
-Total Seats After Reading: GEN: 780, OBC: 411, SC: 232, ST: 124, GEN-PwD: 25, OBC-PwD: 15, SC-PwD: 7, ST-PwD: 4, TOTAL: 1598
------------------------------------------------------------
-Total Seats After Reduced: GEN: 780, OBC: 411, SC: 231, ST: 124, GEN-PwD: 25, OBC-PwD: 15, SC-PwD: 7, ST-PwD: 4, TOTAL: 1597
------------------------------------------------------------
-Global Interation: 2
-All-paper-allocation-Iteration: 1
-All-paper-allocation-Iteration: 2
-All-paper-allocation-Iteration: 3
-PWD-Seat-Conversion
-BT 1802 OBCPWD 1
-CY 1211 STPWD 1
-CY 1212 SCPWD 1
-CY 1401 OBCPWD 1
-CY 1701 OBCPWD 1
-CY 2101 OBCPWD 1
-GG 1208 OBCPWD 1
-MA 1103 GENPWD 1
-MA 1302 SCPWD 1
-MA 1402 SCPWD 1
-MA 1603 SCPWD 1
-MA 1702 OBCPWD 1
-MA 1804 OBCPWD 1
-MA 1902 OBCPWD 1
-MA 2301 OBCPWD 1
-MS 1504 GENPWD 1
-PH 1209 GENPWD 1
-PH 1210 STPWD 1
-PH 1216 STPWD 1
-PH 1303 STPWD 1
-PH 1503 OBCPWD 1
-PH 1604 OBCPWD 1
-PH 1605 GENPWD 1
-PH 1903 SCPWD 1
-PH 2303 SCPWD 1
-All-paper-allocation-Iteration: 1
-All-paper-allocation-Iteration: 2
-All-paper-allocation-Iteration: 3
-All-paper-allocation-Iteration: 4
-All-paper-allocation-Iteration: 5
-All-paper-allocation-Iteration: 6
-All-paper-allocation-Iteration: 7
-------------- Supernumeri cases found in allocation -----------
-M111R13, GEN, PH, 1805, 201
----------------- Seat To Be Reducted for: 2 Courses ---------------
-1805,PH, GEN, 1
-2101,CY, SC, 1
----------------- Reset the data for reallocation ---------------
------------------------Data Reading -----------------------
-Total Qualified registrationIds: 10579
-Foreign candidate :[M104H15] Not consider for Current Round Allocation
-
-Total Eligibale Candidate for Allocation: 5434
-Candidate with status id 4: 5434
-Candidate with status id 5: 0
-Candidate with status id 6: 0
-Eligibale Candidate for: CY is: 1356
-Eligibale Candidate for: PH is: 1344
-Eligibale Candidate for: BT is: 725
-Eligibale Candidate for: BL is: 664
-Eligibale Candidate for: MA is: 1211
-Eligibale Candidate for: GG is: 273
-Eligibale Candidate for: MS is: 322
------------------------------------------------------------
-Total Seats After Reading: GEN: 780, OBC: 411, SC: 232, ST: 124, GEN-PwD: 25, OBC-PwD: 15, SC-PwD: 7, ST-PwD: 4, TOTAL: 1598
------------------------------------------------------------
-Total Seats After Reduced: GEN: 779, OBC: 411, SC: 231, ST: 124, GEN-PwD: 25, OBC-PwD: 15, SC-PwD: 7, ST-PwD: 4, TOTAL: 1596
------------------------------------------------------------
-Global Interation: 3
-All-paper-allocation-Iteration: 1
-All-paper-allocation-Iteration: 2
-All-paper-allocation-Iteration: 3
-PWD-Seat-Conversion
-BT 1802 OBCPWD 1
-CY 1211 STPWD 1
-CY 1212 SCPWD 1
-CY 1401 OBCPWD 1
-CY 1701 OBCPWD 1
-CY 2101 OBCPWD 1
-GG 1208 OBCPWD 1
-MA 1103 GENPWD 1
-MA 1302 SCPWD 1
-MA 1402 SCPWD 1
-MA 1603 SCPWD 1
-MA 1702 OBCPWD 1
-MA 1804 OBCPWD 1
-MA 1902 OBCPWD 1
-MA 2301 OBCPWD 1
-MS 1504 GENPWD 1
-PH 1209 GENPWD 1
-PH 1210 STPWD 1
-PH 1216 STPWD 1
-PH 1303 STPWD 1
-PH 1503 OBCPWD 1
-PH 1604 OBCPWD 1
-PH 1605 GENPWD 1
-PH 1903 SCPWD 1
-PH 2303 SCPWD 1
-All-paper-allocation-Iteration: 1
-All-paper-allocation-Iteration: 2
-All-paper-allocation-Iteration: 3
-All-paper-allocation-Iteration: 4
-All-paper-allocation-Iteration: 5
-All-paper-allocation-Iteration: 6
-All-paper-allocation-Iteration: 7
-------------- Supernumeri cases found in allocation -----------
-M108U14, GEN, PH, 2402, 267
-M113W66, GEN, PH, 2402, 267
----------------- Seat To Be Reducted for: 3 Courses ---------------
-1805,PH, GEN, 1
-2402,PH, GEN, 2
-2101,CY, SC, 1
----------------- Reset the data for reallocation ---------------
------------------------Data Reading -----------------------
-Total Qualified registrationIds: 10579
-Foreign candidate :[M104H15] Not consider for Current Round Allocation
-
-Total Eligibale Candidate for Allocation: 5434
-Candidate with status id 4: 5434
-Candidate with status id 5: 0
-Candidate with status id 6: 0
-Eligibale Candidate for: CY is: 1356
-Eligibale Candidate for: PH is: 1344
-Eligibale Candidate for: BT is: 725
-Eligibale Candidate for: BL is: 664
-Eligibale Candidate for: MA is: 1211
-Eligibale Candidate for: GG is: 273
-Eligibale Candidate for: MS is: 322
------------------------------------------------------------
-Total Seats After Reading: GEN: 780, OBC: 411, SC: 232, ST: 124, GEN-PwD: 25, OBC-PwD: 15, SC-PwD: 7, ST-PwD: 4, TOTAL: 1598
------------------------------------------------------------
-Total Seats After Reduced: GEN: 777, OBC: 411, SC: 231, ST: 124, GEN-PwD: 25, OBC-PwD: 15, SC-PwD: 7, ST-PwD: 4, TOTAL: 1594
------------------------------------------------------------
-Global Interation: 4
-All-paper-allocation-Iteration: 1
-All-paper-allocation-Iteration: 2
-All-paper-allocation-Iteration: 3
-PWD-Seat-Conversion
-BT 1802 OBCPWD 1
-CY 1211 STPWD 1
-CY 1212 SCPWD 1
-CY 1401 OBCPWD 1
-CY 1701 OBCPWD 1
-CY 2101 OBCPWD 1
-GG 1208 OBCPWD 1
-MA 1103 GENPWD 1
-MA 1302 SCPWD 1
-MA 1402 SCPWD 1
-MA 1603 SCPWD 1
-MA 1702 OBCPWD 1
-MA 1804 OBCPWD 1
-MA 1902 OBCPWD 1
-MA 2301 OBCPWD 1
-MS 1504 GENPWD 1
-PH 1209 GENPWD 1
-PH 1210 STPWD 1
-PH 1216 STPWD 1
-PH 1303 STPWD 1
-PH 1503 OBCPWD 1
-PH 1604 OBCPWD 1
-PH 1605 GENPWD 1
-PH 1903 SCPWD 1
-PH 2303 SCPWD 1
-All-paper-allocation-Iteration: 1
-All-paper-allocation-Iteration: 2
-All-paper-allocation-Iteration: 3
-All-paper-allocation-Iteration: 4
-All-paper-allocation-Iteration: 5
-All-paper-allocation-Iteration: 6
-All-paper-allocation-Iteration: 7
-------------- Supernumeri cases found in allocation -----------
-M107F68, OBC, PH, 2003, 690
----------------- Seat To Be Reducted for: 4 Courses ---------------
-2003,PH, OBC, 1
-1805,PH, GEN, 1
-2402,PH, GEN, 2
-2101,CY, SC, 1
----------------- Reset the data for reallocation ---------------
------------------------Data Reading -----------------------
-Total Qualified registrationIds: 10579
-Foreign candidate :[M104H15] Not consider for Current Round Allocation
-
-Total Eligibale Candidate for Allocation: 5434
-Candidate with status id 4: 5434
-Candidate with status id 5: 0
-Candidate with status id 6: 0
-Eligibale Candidate for: CY is: 1356
-Eligibale Candidate for: PH is: 1344
-Eligibale Candidate for: BT is: 725
-Eligibale Candidate for: BL is: 664
-Eligibale Candidate for: MA is: 1211
-Eligibale Candidate for: GG is: 273
-Eligibale Candidate for: MS is: 322
------------------------------------------------------------
-Total Seats After Reading: GEN: 780, OBC: 411, SC: 232, ST: 124, GEN-PwD: 25, OBC-PwD: 15, SC-PwD: 7, ST-PwD: 4, TOTAL: 1598
------------------------------------------------------------
-Total Seats After Reduced: GEN: 777, OBC: 410, SC: 231, ST: 124, GEN-PwD: 25, OBC-PwD: 15, SC-PwD: 7, ST-PwD: 4, TOTAL: 1593
------------------------------------------------------------
-Global Interation: 5
-All-paper-allocation-Iteration: 1
-All-paper-allocation-Iteration: 2
-All-paper-allocation-Iteration: 3
-PWD-Seat-Conversion
-BT 1802 OBCPWD 1
-CY 1211 STPWD 1
-CY 1212 SCPWD 1
-CY 1401 OBCPWD 1
-CY 1701 OBCPWD 1
-CY 2101 OBCPWD 1
-GG 1208 OBCPWD 1
-MA 1103 GENPWD 1
-MA 1302 SCPWD 1
-MA 1402 SCPWD 1
-MA 1603 SCPWD 1
-MA 1702 OBCPWD 1
-MA 1804 OBCPWD 1
-MA 1902 OBCPWD 1
-MA 2301 OBCPWD 1
-MS 1504 GENPWD 1
-PH 1209 GENPWD 1
-PH 1210 STPWD 1
-PH 1216 STPWD 1
-PH 1303 STPWD 1
-PH 1503 OBCPWD 1
-PH 1604 OBCPWD 1
-PH 1605 GENPWD 1
-PH 1903 SCPWD 1
-PH 2303 SCPWD 1
-All-paper-allocation-Iteration: 1
-All-paper-allocation-Iteration: 2
-All-paper-allocation-Iteration: 3
-All-paper-allocation-Iteration: 4
-All-paper-allocation-Iteration: 5
-All-paper-allocation-Iteration: 6
-All-paper-allocation-Iteration: 7
-------------- Supernumeri cases found in allocation -----------
-M105D50, OBC, PH, 2103, 690
-M107F68, OBC, PH, 2103, 690
----------------- Seat To Be Reducted for: 5 Courses ---------------
-2003,PH, OBC, 1
-1805,PH, GEN, 1
-2103,PH, OBC, 2
-2402,PH, GEN, 2
-2101,CY, SC, 1
----------------- Reset the data for reallocation ---------------
------------------------Data Reading -----------------------
-Total Qualified registrationIds: 10579
-Foreign candidate :[M104H15] Not consider for Current Round Allocation
-
-Total Eligibale Candidate for Allocation: 5434
-Candidate with status id 4: 5434
-Candidate with status id 5: 0
-Candidate with status id 6: 0
-Eligibale Candidate for: CY is: 1356
-Eligibale Candidate for: PH is: 1344
-Eligibale Candidate for: BT is: 725
-Eligibale Candidate for: BL is: 664
-Eligibale Candidate for: MA is: 1211
-Eligibale Candidate for: GG is: 273
-Eligibale Candidate for: MS is: 322
------------------------------------------------------------
-Total Seats After Reading: GEN: 780, OBC: 411, SC: 232, ST: 124, GEN-PwD: 25, OBC-PwD: 15, SC-PwD: 7, ST-PwD: 4, TOTAL: 1598
------------------------------------------------------------
-Total Seats After Reduced: GEN: 777, OBC: 408, SC: 231, ST: 124, GEN-PwD: 25, OBC-PwD: 15, SC-PwD: 7, ST-PwD: 4, TOTAL: 1591
------------------------------------------------------------
-Global Interation: 6
-All-paper-allocation-Iteration: 1
-All-paper-allocation-Iteration: 2
-All-paper-allocation-Iteration: 3
 PWD-Seat-Conversion
 BT 1802 OBCPWD 1
 CY 1211 STPWD 1
@@ -377,13 +60,8 @@ All-paper-allocation-Iteration: 6
 All-paper-allocation-Iteration: 7
 All-paper-allocation-Iteration: 8
 ------------- Supernumeri cases found in allocation -----------
-M107F68, OBC, PH, 2303, 690
----------------- Seat To Be Reducted for: 6 Courses ---------------
-2303,PH, OBC, 1
-2003,PH, OBC, 1
-1805,PH, GEN, 1
-2103,PH, OBC, 2
-2402,PH, GEN, 2
+M101W39, SC, CY, 2101, 1216
+---------------- Seat To Be Reducted for: 1 Courses ---------------
 2101,CY, SC, 1
 ---------------- Reset the data for reallocation ---------------
 -----------------------Data Reading -----------------------
@@ -401,15 +79,20 @@ Eligibale Candidate for: BL is: 664
 Eligibale Candidate for: MA is: 1211
 Eligibale Candidate for: GG is: 273
 Eligibale Candidate for: MS is: 322
+Total allocation accepted form last Round: 1267
 -----------------------------------------------------------
 Total Seats After Reading: GEN: 780, OBC: 411, SC: 232, ST: 124, GEN-PwD: 25, OBC-PwD: 15, SC-PwD: 7, ST-PwD: 4, TOTAL: 1598
 -----------------------------------------------------------
-Total Seats After Reduced: GEN: 777, OBC: 407, SC: 231, ST: 124, GEN-PwD: 25, OBC-PwD: 15, SC-PwD: 7, ST-PwD: 4, TOTAL: 1590
+Total Seats After Reduced: GEN: 780, OBC: 411, SC: 231, ST: 124, GEN-PwD: 25, OBC-PwD: 15, SC-PwD: 7, ST-PwD: 4, TOTAL: 1597
 -----------------------------------------------------------
-Global Interation: 7
+Global Interation: 2
 All-paper-allocation-Iteration: 1
 All-paper-allocation-Iteration: 2
 All-paper-allocation-Iteration: 3
+All-paper-allocation-Iteration: 4
+All-paper-allocation-Iteration: 5
+All-paper-allocation-Iteration: 6
+All-paper-allocation-Iteration: 7
 PWD-Seat-Conversion
 BT 1802 OBCPWD 1
 CY 1211 STPWD 1
@@ -443,290 +126,26 @@ All-paper-allocation-Iteration: 4
 All-paper-allocation-Iteration: 5
 All-paper-allocation-Iteration: 6
 All-paper-allocation-Iteration: 7
+All-paper-allocation-Iteration: 8
 ------------- Supernumeri cases found in allocation -----------
-M101F76, ST, PH, 2303, 3138
----------------- Seat To Be Reducted for: 7 Courses ---------------
-2303,PH, OBC, 1
-2003,PH, OBC, 1
-1805,PH, GEN, 1
-2303,PH, ST, 1
-2103,PH, OBC, 2
-2402,PH, GEN, 2
-2101,CY, SC, 1
----------------- Reset the data for reallocation ---------------
------------------------Data Reading -----------------------
-Total Qualified registrationIds: 10579
-Foreign candidate :[M104H15] Not consider for Current Round Allocation
-
-Total Eligibale Candidate for Allocation: 5434
-Candidate with status id 4: 5434
-Candidate with status id 5: 0
-Candidate with status id 6: 0
-Eligibale Candidate for: CY is: 1356
-Eligibale Candidate for: PH is: 1344
-Eligibale Candidate for: BT is: 725
-Eligibale Candidate for: BL is: 664
-Eligibale Candidate for: MA is: 1211
-Eligibale Candidate for: GG is: 273
-Eligibale Candidate for: MS is: 322
------------------------------------------------------------
-Total Seats After Reading: GEN: 780, OBC: 411, SC: 232, ST: 124, GEN-PwD: 25, OBC-PwD: 15, SC-PwD: 7, ST-PwD: 4, TOTAL: 1598
------------------------------------------------------------
-Total Seats After Reduced: GEN: 777, OBC: 407, SC: 231, ST: 123, GEN-PwD: 25, OBC-PwD: 15, SC-PwD: 7, ST-PwD: 4, TOTAL: 1589
------------------------------------------------------------
-Global Interation: 8
-All-paper-allocation-Iteration: 1
-All-paper-allocation-Iteration: 2
-All-paper-allocation-Iteration: 3
-PWD-Seat-Conversion
-BT 1802 OBCPWD 1
-CY 1211 STPWD 1
-CY 1212 SCPWD 1
-CY 1401 OBCPWD 1
-CY 1701 OBCPWD 1
-CY 2101 OBCPWD 1
-GG 1208 OBCPWD 1
-MA 1103 GENPWD 1
-MA 1302 SCPWD 1
-MA 1402 SCPWD 1
-MA 1603 SCPWD 1
-MA 1702 OBCPWD 1
-MA 1804 OBCPWD 1
-MA 1902 OBCPWD 1
-MA 2301 OBCPWD 1
-MS 1504 GENPWD 1
-PH 1209 GENPWD 1
-PH 1210 STPWD 1
-PH 1216 STPWD 1
-PH 1303 STPWD 1
-PH 1503 OBCPWD 1
-PH 1604 OBCPWD 1
-PH 1605 GENPWD 1
-PH 1903 SCPWD 1
-PH 2303 SCPWD 1
-All-paper-allocation-Iteration: 1
-All-paper-allocation-Iteration: 2
-All-paper-allocation-Iteration: 3
-All-paper-allocation-Iteration: 4
-All-paper-allocation-Iteration: 5
-All-paper-allocation-Iteration: 6
-All-paper-allocation-Iteration: 7
-------------- Supernumeri cases found in allocation -----------
-M102N51, GEN, MA, 1702, 142
----------------- Seat To Be Reducted for: 8 Courses ---------------
-2303,PH, OBC, 1
-2003,PH, OBC, 1
-1805,PH, GEN, 1
-1702,MA, GEN, 1
-2303,PH, ST, 1
-2103,PH, OBC, 2
-2402,PH, GEN, 2
-2101,CY, SC, 1
----------------- Reset the data for reallocation ---------------
------------------------Data Reading -----------------------
-Total Qualified registrationIds: 10579
-Foreign candidate :[M104H15] Not consider for Current Round Allocation
-
-Total Eligibale Candidate for Allocation: 5434
-Candidate with status id 4: 5434
-Candidate with status id 5: 0
-Candidate with status id 6: 0
-Eligibale Candidate for: CY is: 1356
-Eligibale Candidate for: PH is: 1344
-Eligibale Candidate for: BT is: 725
-Eligibale Candidate for: BL is: 664
-Eligibale Candidate for: MA is: 1211
-Eligibale Candidate for: GG is: 273
-Eligibale Candidate for: MS is: 322
------------------------------------------------------------
-Total Seats After Reading: GEN: 780, OBC: 411, SC: 232, ST: 124, GEN-PwD: 25, OBC-PwD: 15, SC-PwD: 7, ST-PwD: 4, TOTAL: 1598
------------------------------------------------------------
-Total Seats After Reduced: GEN: 776, OBC: 407, SC: 231, ST: 123, GEN-PwD: 25, OBC-PwD: 15, SC-PwD: 7, ST-PwD: 4, TOTAL: 1588
------------------------------------------------------------
-Global Interation: 9
-All-paper-allocation-Iteration: 1
-All-paper-allocation-Iteration: 2
-All-paper-allocation-Iteration: 3
-PWD-Seat-Conversion
-BT 1802 OBCPWD 1
-CY 1211 STPWD 1
-CY 1212 SCPWD 1
-CY 1401 OBCPWD 1
-CY 1701 OBCPWD 1
-CY 2101 OBCPWD 1
-GG 1208 OBCPWD 1
-MA 1103 GENPWD 1
-MA 1302 SCPWD 1
-MA 1402 SCPWD 1
-MA 1603 SCPWD 1
-MA 1702 OBCPWD 1
-MA 1804 OBCPWD 1
-MA 1902 OBCPWD 1
-MA 2301 OBCPWD 1
-MS 1504 GENPWD 1
-PH 1209 GENPWD 1
-PH 1210 STPWD 1
-PH 1216 STPWD 1
-PH 1303 STPWD 1
-PH 1503 OBCPWD 1
-PH 1604 OBCPWD 1
-PH 1605 GENPWD 1
-PH 1903 SCPWD 1
-PH 2303 SCPWD 1
-All-paper-allocation-Iteration: 1
-All-paper-allocation-Iteration: 2
-All-paper-allocation-Iteration: 3
-All-paper-allocation-Iteration: 4
-All-paper-allocation-Iteration: 5
-All-paper-allocation-Iteration: 6
-All-paper-allocation-Iteration: 7
-------------- Supernumeri cases found in allocation -----------
-M116F42, OBC, MA, 1902, 455
----------------- Seat To Be Reducted for: 9 Courses ---------------
-2303,PH, OBC, 1
-2003,PH, OBC, 1
-1805,PH, GEN, 1
-1902,MA, OBC, 1
-1702,MA, GEN, 1
-2303,PH, ST, 1
-2103,PH, OBC, 2
-2402,PH, GEN, 2
-2101,CY, SC, 1
----------------- Reset the data for reallocation ---------------
------------------------Data Reading -----------------------
-Total Qualified registrationIds: 10579
-Foreign candidate :[M104H15] Not consider for Current Round Allocation
-
-Total Eligibale Candidate for Allocation: 5434
-Candidate with status id 4: 5434
-Candidate with status id 5: 0
-Candidate with status id 6: 0
-Eligibale Candidate for: CY is: 1356
-Eligibale Candidate for: PH is: 1344
-Eligibale Candidate for: BT is: 725
-Eligibale Candidate for: BL is: 664
-Eligibale Candidate for: MA is: 1211
-Eligibale Candidate for: GG is: 273
-Eligibale Candidate for: MS is: 322
------------------------------------------------------------
-Total Seats After Reading: GEN: 780, OBC: 411, SC: 232, ST: 124, GEN-PwD: 25, OBC-PwD: 15, SC-PwD: 7, ST-PwD: 4, TOTAL: 1598
------------------------------------------------------------
-Total Seats After Reduced: GEN: 776, OBC: 406, SC: 231, ST: 123, GEN-PwD: 25, OBC-PwD: 15, SC-PwD: 7, ST-PwD: 4, TOTAL: 1587
------------------------------------------------------------
-Global Interation: 10
-All-paper-allocation-Iteration: 1
-All-paper-allocation-Iteration: 2
-All-paper-allocation-Iteration: 3
-PWD-Seat-Conversion
-BT 1802 OBCPWD 1
-CY 1211 STPWD 1
-CY 1212 SCPWD 1
-CY 1401 OBCPWD 1
-CY 1701 OBCPWD 1
-CY 2101 OBCPWD 1
-GG 1208 OBCPWD 1
-MA 1103 GENPWD 1
-MA 1302 SCPWD 1
-MA 1402 SCPWD 1
-MA 1603 SCPWD 1
-MA 1702 OBCPWD 1
-MA 1804 OBCPWD 1
-MA 1902 OBCPWD 1
-MA 2301 OBCPWD 1
-MS 1504 GENPWD 1
-PH 1209 GENPWD 1
-PH 1210 STPWD 1
-PH 1216 STPWD 1
-PH 1303 STPWD 1
-PH 1503 OBCPWD 1
-PH 1604 OBCPWD 1
-PH 1605 GENPWD 1
-PH 1903 SCPWD 1
-PH 2303 SCPWD 1
-All-paper-allocation-Iteration: 1
-All-paper-allocation-Iteration: 2
-All-paper-allocation-Iteration: 3
-All-paper-allocation-Iteration: 4
-All-paper-allocation-Iteration: 5
-All-paper-allocation-Iteration: 6
-All-paper-allocation-Iteration: 7
-------------- Supernumeri cases found in allocation -----------
-M107K22, OBC, GG, 1905, 114
----------------- Seat To Be Reducted for: 10 Courses ---------------
-2303,PH, OBC, 1
-2003,PH, OBC, 1
-1805,PH, GEN, 1
-1905,GG, OBC, 1
-1902,MA, OBC, 1
-1702,MA, GEN, 1
-2303,PH, ST, 1
-2103,PH, OBC, 2
-2402,PH, GEN, 2
-2101,CY, SC, 1
----------------- Reset the data for reallocation ---------------
------------------------Data Reading -----------------------
-Total Qualified registrationIds: 10579
-Foreign candidate :[M104H15] Not consider for Current Round Allocation
-
-Total Eligibale Candidate for Allocation: 5434
-Candidate with status id 4: 5434
-Candidate with status id 5: 0
-Candidate with status id 6: 0
-Eligibale Candidate for: CY is: 1356
-Eligibale Candidate for: PH is: 1344
-Eligibale Candidate for: BT is: 725
-Eligibale Candidate for: BL is: 664
-Eligibale Candidate for: MA is: 1211
-Eligibale Candidate for: GG is: 273
-Eligibale Candidate for: MS is: 322
------------------------------------------------------------
-Total Seats After Reading: GEN: 780, OBC: 411, SC: 232, ST: 124, GEN-PwD: 25, OBC-PwD: 15, SC-PwD: 7, ST-PwD: 4, TOTAL: 1598
------------------------------------------------------------
-Total Seats After Reduced: GEN: 776, OBC: 405, SC: 231, ST: 123, GEN-PwD: 25, OBC-PwD: 15, SC-PwD: 7, ST-PwD: 4, TOTAL: 1586
------------------------------------------------------------
-Global Interation: 11
-All-paper-allocation-Iteration: 1
-All-paper-allocation-Iteration: 2
-All-paper-allocation-Iteration: 3
-PWD-Seat-Conversion
-BT 1802 OBCPWD 1
-CY 1211 STPWD 1
-CY 1212 SCPWD 1
-CY 1401 OBCPWD 1
-CY 1701 OBCPWD 1
-CY 2101 OBCPWD 1
-GG 1208 OBCPWD 1
-MA 1103 GENPWD 1
-MA 1302 SCPWD 1
-MA 1402 SCPWD 1
-MA 1603 SCPWD 1
-MA 1702 OBCPWD 1
-MA 1804 OBCPWD 1
-MA 1902 OBCPWD 1
-MA 2301 OBCPWD 1
-MS 1504 GENPWD 1
-PH 1209 GENPWD 1
-PH 1210 STPWD 1
-PH 1216 STPWD 1
-PH 1303 STPWD 1
-PH 1503 OBCPWD 1
-PH 1604 OBCPWD 1
-PH 1605 GENPWD 1
-PH 1903 SCPWD 1
-PH 2303 SCPWD 1
-All-paper-allocation-Iteration: 1
-All-paper-allocation-Iteration: 2
-All-paper-allocation-Iteration: 3
-All-paper-allocation-Iteration: 4
-All-paper-allocation-Iteration: 5
-All-paper-allocation-Iteration: 6
-All-paper-allocation-Iteration: 7
-------------- Supernumeri cases found in allocation -----------
-Total Seats After Reduced: GEN: 780, OBC: 416, SC: 237, ST: 127, GEN-PwD: 21, OBC-PwD: 4, SC-PwD: 1, ST-PwD: 0, TOTAL: 1586
+Total Seats After Reduced: GEN: 784, OBC: 422, SC: 237, ST: 128, GEN-PwD: 21, OBC-PwD: 4, SC-PwD: 1, ST-PwD: 0, TOTAL: 1597
 -----------------------------------------------------------
 ------------------- Allocation Verification ----------------
 Sr.No, ApplicationId, Paper, ProgramCode, Program-Quota, Program-Closing Rank, Applicant-Rank
-------------------- No case found --------------
+1. M112Y64, PH, 1215, GEN, 142, 99
+2. M107H49, PH, 1215, GEN, 142, 114
+3. M101S47, PH, 1215, GEN, 142, 120
+4. M101U33, PH, 2003, GEN, 246, 180
+5. M101N64, PH, 2103, GEN, 240, 235
+6. M101N64, PH, 2003, GEN, 246, 235
+7. M114Y59, PH, 2003, OBC, 690, 690
+8. M107D25, PH, 1903, SC, 1467, 1467
+9. M121Y93, PH, 2303, ST, 3138, 3138
+10. M106Q75, MA, 2403, GEN, 271, 271
+11. M116F42, MA, 1902, OBC, 455, 455
+12. M106V81, MA, 2403, OBC, 485, 485
+13. M105V35, MA, 2403, OBC, 485, 485
+14. M107K47, GG, 1905, OBC, 114, 114
 -----------------------------------------------------------
 PaperCode, ProgramCode, Aaspirant, GEN-Quota, OBC-Quota, SC-Quota, ST-Quota, GEN-Pd-Quota, OBC-Pd-Quota, SC-Pd-Quota, ST-Pd-Quota
 BL, 1101, 0, BL#4#4#1-5#0, BL#2#2#18-30#0, BL#1#1#23-23#0, BL#1#1#357-357#0, BL#0#0#0-0#0, BL#0#0#0-0#0, BL#0#0#0-0#0, BL#0#0#0-0#0
@@ -737,31 +156,31 @@ BT, 1210, 0, BT#2#2#24-26#0, BT#1#0#0-0#0, BT#0#0#0-0#0, BT#0#0#0-0#0, BT#0#0#0-
 BT, 1213, 0, BT#3#2#40-95#0, BT#1#0#0-0#0, BT#0#0#0-0#0, BT#1#0#0-0#0, BT#0#0#0-0#0, BT#0#0#0-0#0, BT#0#0#0-0#0, BT#0#0#0-0#0
 BT, 1802, 0, BT#18#18#7-44#0, BT#10#10#45-174#0, BT#6#6#130-409#0, BT#3#3#596-626#0, BT#0#0#0-0#0, BT#1#0#0-0#0, BT#0#0#0-0#0, BT#0#0#0-0#0
 CY, 1102, 0, CY#8#8#3-51#0, CY#4#4#103-199#0, CY#2#2#177-566#0, CY#1#1#1627-1627#0, CY#0#0#0-0#0, CY#0#0#0-0#0, CY#0#0#0-0#0, CY#0#0#0-0#0
-CY, 1205, 0, CY#19#19#1-51#0, CY#11#11#59-308#0, CY#6#6#269-592#0, CY#3#3#980-2951#0, CY#1#1#661-661#0, CY#0#0#0-0#0, CY#0#0#0-0#0, CY#0#0#0-0#0
+CY, 1205, 0, CY#19#19#1-51#0, CY#11#11#59-308#0, CY#6#6#269-592#0, CY#3#3#980-2965#0, CY#1#1#661-661#0, CY#0#0#0-0#0, CY#0#0#0-0#0, CY#0#0#0-0#0
 CY, 1210, 0, CY#0#0#0-0#0, CY#0#0#0-0#0, CY#1#0#0-0#0, CY#0#0#0-0#0, CY#0#0#0-0#0, CY#0#0#0-0#0, CY#0#0#0-0#0, CY#0#0#0-0#0
 CY, 1211, 0, CY#3#3#83-127#0, CY#1#1#216-216#0, CY#1#1#537-537#0, CY#1#1#3616-3616#0, CY#0#0#0-0#0, CY#0#0#0-0#0, CY#0#0#0-0#0, CY#1#0#0-0#0
 CY, 1212, 0, CY#4#4#241-360#0, CY#2#1#1192-1192#0, CY#1#1#2337-2337#0, CY#0#0#0-0#0, CY#0#0#0-0#0, CY#0#0#0-0#0, CY#1#0#0-0#0, CY#0#0#0-0#0
 CY, 1213, 0, CY#1#1#472-472#0, CY#1#0#0-0#0, CY#0#0#0-0#0, CY#0#0#0-0#0, CY#0#0#0-0#0, CY#0#0#0-0#0, CY#0#0#0-0#0, CY#0#0#0-0#0
 CY, 1301, 0, CY#26#26#46-122#0, CY#14#14#142-428#0, CY#8#8#178-593#0, CY#4#4#1495-2497#0, CY#1#1#577-577#0, CY#1#1#1653-1653#0, CY#0#0#0-0#0, CY#0#0#0-0#0
-CY, 1401, 0, CY#24#24#109-182#0, CY#13#13#402-602#0, CY#7#7#602-1092#0, CY#4#4#840-3201#0, CY#0#0#0-0#0, CY#1#0#0-0#0, CY#0#0#0-0#0, CY#0#0#0-0#0
-CY, 1501, 0, CY#19#19#2-29#0, CY#11#11#65-416#0, CY#6#6#30-398#0, CY#3#3#2768-2965#0, CY#1#1#939-939#0, CY#0#0#0-0#0, CY#0#0#0-0#0, CY#0#0#0-0#0
+CY, 1401, 0, CY#24#24#109-182#0, CY#13#13#402-602#0, CY#7#7#602-1092#0, CY#4#4#840-3852#0, CY#0#0#0-0#0, CY#1#0#0-0#0, CY#0#0#0-0#0, CY#0#0#0-0#0
+CY, 1501, 0, CY#19#19#2-29#0, CY#11#11#65-416#0, CY#6#6#30-398#0, CY#3#3#2768-3201#0, CY#1#1#939-939#0, CY#0#0#0-0#0, CY#0#0#0-0#0, CY#0#0#0-0#0
 CY, 1601, 0, CY#22#22#8-100#0, CY#12#12#163-416#0, CY#7#7#185-478#0, CY#4#4#1927-2884#0, CY#1#1#991-991#0, CY#0#0#0-0#0, CY#0#0#0-0#0, CY#0#0#0-0#0
 CY, 1701, 0, CY#26#26#59-144#0, CY#15#15#219-537#0, CY#8#8#332-991#0, CY#4#4#2403-4407#0, CY#1#1#2228-2228#0, CY#1#0#0-0#0, CY#0#0#0-0#0, CY#0#0#0-0#0
 CY, 1803, 0, CY#13#13#96-157#0, CY#5#5#442-470#0, CY#4#4#701-945#0, CY#2#2#3048-3563#0, CY#0#0#0-0#0, CY#1#1#3760-3760#0, CY#0#0#0-0#0, CY#0#0#0-0#0
-CY, 1901, 0, CY#9#9#148-219#0, CY#5#5#597-686#0, CY#3#3#586-1175#0, CY#2#2#2934-3852#0, CY#1#1#3971-3971#0, CY#0#0#0-0#0, CY#0#0#0-0#0, CY#0#0#0-0#0
+CY, 1901, 0, CY#9#9#148-219#0, CY#5#5#597-686#0, CY#3#3#586-1175#0, CY#2#2#2934-4010#0, CY#1#1#3971-3971#0, CY#0#0#0-0#0, CY#0#0#0-0#0, CY#0#0#0-0#0
 CY, 1905, 0, CY#1#1#216-216#0, CY#1#1#784-784#0, CY#1#1#1340-1340#0, CY#1#1#3823-3823#0, CY#0#0#0-0#0, CY#0#0#0-0#0, CY#0#0#0-0#0, CY#0#0#0-0#0
 CY, 2001, 0, CY#10#10#204-229#0, CY#5#5#484-649#0, CY#3#3#1009-1132#0, CY#2#2#3940-4261#0, CY#0#0#0-0#0, CY#0#0#0-0#0, CY#0#0#0-0#0, CY#0#0#0-0#0
 CY, 2101, 0, CY#15#15#184-203#0, CY#8#8#537-637#0, CY#5#4#1100-1208#0, CY#2#2#3971-4488#0, CY#0#0#0-0#0, CY#1#0#0-0#0, CY#0#0#0-0#0, CY#0#0#0-0#0
-CY, 2201, 0, CY#6#6#185-237#0, CY#3#3#652-682#0, CY#2#2#1216-1236#0, CY#1#1#4524-4524#0, CY#0#0#0-0#0, CY#0#0#0-0#0, CY#0#0#0-0#0, CY#0#0#0-0#0
-CY, 2302, 0, CY#5#5#196-244#0, CY#3#3#507-674#0, CY#2#2#918-968#0, CY#1#0#0-0#0, CY#1#1#4030-4030#0, CY#0#0#0-0#0, CY#0#0#0-0#0, CY#0#0#0-0#0
-CY, 2401, 0, CY#5#5#232-245#0, CY#2#2#597-675#0, CY#1#1#1117-1117#0, CY#1#1#4010-4010#0, CY#1#1#4111-4111#0, CY#0#0#0-0#0, CY#0#0#0-0#0, CY#0#0#0-0#0
+CY, 2201, 0, CY#6#6#185-237#0, CY#3#3#652-682#0, CY#2#2#1216-1236#0, CY#1#1#2647-2647#0, CY#0#0#0-0#0, CY#0#0#0-0#0, CY#0#0#0-0#0, CY#0#0#0-0#0
+CY, 2302, 0, CY#5#5#196-244#0, CY#3#3#507-674#0, CY#2#2#918-968#0, CY#1#1#4524-4524#0, CY#1#1#4030-4030#0, CY#0#0#0-0#0, CY#0#0#0-0#0, CY#0#0#0-0#0
+CY, 2401, 0, CY#5#5#232-245#0, CY#2#2#597-675#0, CY#1#1#1117-1117#0, CY#1#1#4499-4499#0, CY#1#1#4111-4111#0, CY#0#0#0-0#0, CY#0#0#0-0#0, CY#0#0#0-0#0
 GG, 1201, 0, GG#15#15#1-16#0, GG#8#8#17-52#0, GG#5#5#60-163#0, GG#2#2#352-521#0, GG#0#0#0-0#0, GG#0#0#0-0#0, GG#0#0#0-0#0, GG#0#0#0-0#0
 GG, 1208, 0, GG#2#2#21-23#0, GG#1#1#55-55#0, GG#1#0#0-0#0, GG#0#0#0-0#0, GG#0#0#0-0#0, GG#1#0#0-0#0, GG#0#0#0-0#0, GG#0#0#0-0#0
 GG, 1602, 0, GG#14#14#6-37#0, GG#8#8#53-72#0, GG#5#5#135-217#0, GG#2#2#568-589#0, GG#1#1#297-297#0, GG#0#0#0-0#0, GG#0#0#0-0#0, GG#0#0#0-0#0
 GG, 1605, 0, GG#6#6#43-90#0, GG#3#3#121-147#0, GG#2#2#348-370#0, GG#1#1#641-641#0, GG#0#0#0-0#0, GG#0#0#0-0#0, GG#0#0#0-0#0, GG#0#0#0-0#0
 GG, 1801, 0, GG#8#8#22-43#0, GG#3#3#79-80#0, GG#2#2#224-225#0, GG#1#1#556-556#0, GG#0#0#0-0#0, GG#1#1#363-363#0, GG#0#0#0-0#0, GG#0#0#0-0#0
 GG, 1904, 0, GG#10#10#48-67#0, GG#5#5#85-99#0, GG#3#3#247-261#0, GG#2#2#673-786#0, GG#0#0#0-0#0, GG#0#0#0-0#0, GG#0#0#0-0#0, GG#0#0#0-0#0
-GG, 1905, 0, GG#3#3#83-85#0, GG#1#0#0-0#0, GG#0#0#0-0#0, GG#0#0#0-0#0, GG#0#0#0-0#0, GG#0#0#0-0#0, GG#0#0#0-0#0, GG#0#0#0-0#0
+GG, 1905, 0, GG#3#3#83-85#0, GG#1#1#114-114#0, GG#0#0#0-0#0, GG#0#0#0-0#0, GG#0#0#0-0#0, GG#0#0#0-0#0, GG#0#0#0-0#0, GG#0#0#0-0#0
 MA, 1103, 0, MA#6#6#5-48#0, MA#3#0#0-0#0, MA#2#0#0-0#0, MA#1#0#0-0#0, MA#1#0#0-0#0, MA#0#0#0-0#0, MA#0#0#0-0#0, MA#0#0#0-0#0
 MA, 1206, 0, MA#15#15#2-25#0, MA#8#8#35-136#0, MA#5#5#32-202#0, MA#2#2#179-1018#0, MA#0#0#0-0#0, MA#0#0#0-0#0, MA#0#0#0-0#0, MA#0#0#0-0#0
 MA, 1212, 0, MA#1#1#497-497#0, MA#2#1#998-998#0, MA#1#0#0-0#0, MA#0#0#0-0#0, MA#0#0#0-0#0, MA#0#0#0-0#0, MA#0#0#0-0#0, MA#0#0#0-0#0
@@ -771,43 +190,43 @@ MA, 1302, 0, MA#26#26#1-92#0, MA#15#15#121-263#0, MA#8#8#181-562#0, MA#4#4#128-9
 MA, 1402, 0, MA#23#23#112-211#0, MA#13#13#333-427#0, MA#7#7#1030-1280#0, MA#4#4#1521-2204#0, MA#1#1#3094-3094#0, MA#0#0#0-0#0, MA#1#0#0-0#0, MA#0#0#0-0#0
 MA, 1502, 0, MA#20#20#27-80#0, MA#11#11#140-229#0, MA#5#5#157-350#0, MA#3#3#1030-1487#0, MA#0#0#0-0#0, MA#0#0#0-0#0, MA#1#1#1214-1214#0, MA#0#0#0-0#0
 MA, 1603, 0, MA#15#15#39-171#0, MA#8#8#295-370#0, MA#5#5#183-873#0, MA#2#2#1126-1153#0, MA#0#0#0-0#0, MA#0#0#0-0#0, MA#1#0#0-0#0, MA#0#0#0-0#0
-MA, 1702, 0, MA#26#25#51-141#0, MA#15#15#256-368#0, MA#8#8#370-998#0, MA#4#4#1119-2803#0, MA#1#1#1321-1321#0, MA#1#0#0-0#0, MA#0#0#0-0#0, MA#0#0#0-0#0
+MA, 1702, 0, MA#26#26#51-141#0, MA#15#15#256-368#0, MA#8#8#370-998#0, MA#4#4#1119-2803#0, MA#1#1#1321-1321#0, MA#1#0#0-0#0, MA#0#0#0-0#0, MA#0#0#0-0#0
 MA, 1804, 0, MA#16#16#96-185#0, MA#8#8#268-327#0, MA#4#4#730-839#0, MA#2#2#1645-1747#0, MA#0#0#0-0#0, MA#1#0#0-0#0, MA#0#0#0-0#0, MA#0#0#0-0#0
-MA, 1902, 0, MA#10#10#129-259#0, MA#5#4#332-438#0, MA#3#3#398-1099#0, MA#2#2#1207-1605#0, MA#0#0#0-0#0, MA#1#0#0-0#0, MA#0#0#0-0#0, MA#0#0#0-0#0
+MA, 1902, 0, MA#10#10#129-259#0, MA#5#5#332-455#0, MA#3#3#398-1099#0, MA#2#2#1207-1605#0, MA#0#0#0-0#0, MA#1#0#0-0#0, MA#0#0#0-0#0, MA#0#0#0-0#0
 MA, 1905, 0, MA#2#2#281-283#0, MA#1#1#497-497#0, MA#1#1#1506-1506#0, MA#0#0#0-0#0, MA#0#0#0-0#0, MA#0#0#0-0#0, MA#0#0#0-0#0, MA#0#0#0-0#0
 MA, 2002, 0, MA#9#9#85-244#0, MA#5#5#415-447#0, MA#3#3#1066-1207#0, MA#2#2#1645-2238#0, MA#1#1#1939-1939#0, MA#0#0#0-0#0, MA#0#0#0-0#0, MA#0#0#0-0#0
 MA, 2102, 0, MA#7#7#151-238#0, MA#4#4#370-443#0, MA#2#2#1347-1390#0, MA#1#1#2463-2463#0, MA#1#1#3189-3189#0, MA#0#0#0-0#0, MA#0#0#0-0#0, MA#0#0#0-0#0
-MA, 2203, 0, MA#6#6#198-268#0, MA#3#3#451-461#0, MA#2#2#1146-1184#0, MA#1#1#2557-2557#0, MA#0#0#0-0#0, MA#0#0#0-0#0, MA#0#0#0-0#0, MA#0#0#0-0#0
-MA, 2301, 0, MA#5#5#20-251#0, MA#3#3#370-455#0, MA#1#1#886-886#0, MA#1#1#3282-3282#0, MA#0#0#0-0#0, MA#1#0#0-0#0, MA#0#0#0-0#0, MA#0#0#0-0#0
-MA, 2403, 0, MA#5#5#232-268#0, MA#2#2#467-468#0, MA#1#1#1120-1120#0, MA#1#1#1539-1539#0, MA#1#1#2285-2285#0, MA#0#0#0-0#0, MA#0#0#0-0#0, MA#0#0#0-0#0
+MA, 2203, 0, MA#6#6#198-268#0, MA#3#3#451-468#0, MA#2#2#1146-1184#0, MA#1#1#2557-2557#0, MA#0#0#0-0#0, MA#0#0#0-0#0, MA#0#0#0-0#0, MA#0#0#0-0#0
+MA, 2301, 0, MA#5#5#20-259#0, MA#3#3#370-455#0, MA#1#1#886-886#0, MA#1#1#3282-3282#0, MA#0#0#0-0#0, MA#1#0#0-0#0, MA#0#0#0-0#0, MA#0#0#0-0#0
+MA, 2403, 0, MA#5#5#232-271#0, MA#2#2#467-485#0, MA#1#1#1120-1120#0, MA#1#1#1539-1539#0, MA#1#1#2285-2285#0, MA#0#0#0-0#0, MA#0#0#0-0#0, MA#0#0#0-0#0
 MS, 1203, 0, MS#18#18#3-45#0, MS#10#10#180-308#0, MS#5#5#60-233#0, MS#3#1#240-240#0, MS#1#1#763-763#0, MS#0#0#0-0#0, MS#0#0#0-0#0, MS#0#0#0-0#0
 MS, 1214, 0, MS#3#3#49-51#0, MS#2#2#260-276#0, MS#1#1#303-303#0, MS#0#0#0-0#0, MS#0#0#0-0#0, MS#0#0#0-0#0, MS#0#0#0-0#0, MS#0#0#0-0#0
 MS, 1504, 0, MS#25#25#1-46#0, MS#14#14#50-293#0, MS#7#7#144-541#0, MS#4#4#665-918#0, MS#1#0#0-0#0, MS#0#0#0-0#0, MS#0#0#0-0#0, MS#0#0#0-0#0
 MS, 1905, 0, MS#1#1#56-56#0, MS#1#1#324-324#0, MS#1#1#467-467#0, MS#1#0#0-0#0, MS#0#0#0-0#0, MS#0#0#0-0#0, MS#0#0#0-0#0, MS#0#0#0-0#0
 PH, 1104, 0, PH#6#6#16-50#0, PH#3#1#201-201#0, PH#2#1#191-191#0, PH#1#0#0-0#0, PH#0#0#0-0#0, PH#0#0#0-0#0, PH#0#0#0-0#0, PH#0#0#0-0#0
-PH, 1202, 0, PH#8#8#33-127#0, PH#5#5#139-285#0, PH#2#2#367-499#0, PH#1#1#2586-2586#0, PH#0#0#0-0#0, PH#0#0#0-0#0, PH#0#0#0-0#0, PH#0#0#0-0#0
+PH, 1202, 0, PH#8#8#33-124#0, PH#5#5#139-285#0, PH#2#2#367-499#0, PH#1#1#2586-2586#0, PH#0#0#0-0#0, PH#0#0#0-0#0, PH#0#0#0-0#0, PH#0#0#0-0#0
 PH, 1207, 0, PH#15#15#4-46#0, PH#8#8#138-310#0, PH#5#5#533-877#0, PH#3#3#1885-2374#0, PH#1#1#3261-3261#0, PH#0#0#0-0#0, PH#0#0#0-0#0, PH#0#0#0-0#0
 PH, 1209, 0, PH#2#0#0-0#0, PH#1#0#0-0#0, PH#1#0#0-0#0, PH#0#0#0-0#0, PH#1#0#0-0#0, PH#0#0#0-0#0, PH#0#0#0-0#0, PH#0#0#0-0#0
 PH, 1210, 0, PH#0#0#0-0#0, PH#0#0#0-0#0, PH#0#0#0-0#0, PH#1#0#0-0#0, PH#0#0#0-0#0, PH#0#0#0-0#0, PH#0#0#0-0#0, PH#1#0#0-0#0
 PH, 1212, 0, PH#4#4#305-347#0, PH#1#0#0-0#0, PH#1#1#2440-2440#0, PH#1#0#0-0#0, PH#0#0#0-0#0, PH#0#0#0-0#0, PH#0#0#0-0#0, PH#0#0#0-0#0
 PH, 1213, 0, PH#1#1#373-373#0, PH#1#0#0-0#0, PH#0#0#0-0#0, PH#0#0#0-0#0, PH#0#0#0-0#0, PH#0#0#0-0#0, PH#0#0#0-0#0, PH#0#0#0-0#0
-PH, 1215, 0, PH#4#4#39-99#0, PH#2#2#147-219#0, PH#1#1#313-313#0, PH#1#1#2633-2633#0, PH#0#0#0-0#0, PH#0#0#0-0#0, PH#0#0#0-0#0, PH#0#0#0-0#0
+PH, 1215, 0, PH#4#4#39-142#0, PH#2#2#147-219#0, PH#1#1#313-313#0, PH#1#1#2633-2633#0, PH#0#0#0-0#0, PH#0#0#0-0#0, PH#0#0#0-0#0, PH#0#0#0-0#0
 PH, 1216, 0, PH#4#4#50-210#0, PH#2#2#305-425#0, PH#1#1#1033-1033#0, PH#1#1#1390-1390#0, PH#0#0#0-0#0, PH#0#0#0-0#0, PH#0#0#0-0#0, PH#1#0#0-0#0
-PH, 1303, 0, PH#26#26#15-118#0, PH#15#15#165-398#0, PH#8#8#301-952#0, PH#4#4#1198-2351#0, PH#1#1#3294-3294#0, PH#0#0#0-0#0, PH#0#0#0-0#0, PH#1#0#0-0#0
-PH, 1403, 0, PH#23#23#111-208#0, PH#13#13#543-631#0, PH#7#7#607-1209#0, PH#4#4#2479-3023#0, PH#1#1#1840-1840#0, PH#0#0#0-0#0, PH#0#0#0-0#0, PH#0#0#0-0#0
+PH, 1303, 0, PH#26#26#15-118#0, PH#15#15#165-398#0, PH#8#8#301-961#0, PH#4#4#1198-2351#0, PH#1#1#3294-3294#0, PH#0#0#0-0#0, PH#0#0#0-0#0, PH#1#0#0-0#0
+PH, 1403, 0, PH#23#23#111-208#0, PH#13#13#543-631#0, PH#7#7#607-1220#0, PH#4#4#2479-3023#0, PH#1#1#1840-1840#0, PH#0#0#0-0#0, PH#0#0#0-0#0, PH#0#0#0-0#0
 PH, 1503, 0, PH#15#15#1-36#0, PH#8#8#73-131#0, PH#5#5#93-414#0, PH#2#2#1554-2266#0, PH#0#0#0-0#0, PH#1#0#0-0#0, PH#0#0#0-0#0, PH#0#0#0-0#0
 PH, 1505, 0, PH#7#7#68-162#0, PH#4#1#166-166#0, PH#2#0#0-0#0, PH#1#0#0-0#0, PH#0#0#0-0#0, PH#0#0#0-0#0, PH#0#0#0-0#0, PH#0#0#0-0#0
 PH, 1604, 0, PH#23#23#20-130#0, PH#12#12#217-472#0, PH#7#7#133-852#0, PH#4#4#393-2464#0, PH#0#0#0-0#0, PH#1#0#0-0#0, PH#0#0#0-0#0, PH#0#0#0-0#0
-PH, 1605, 0, PH#6#6#131-230#0, PH#3#3#631-663#0, PH#2#2#420-776#0, PH#1#1#2400-2400#0, PH#1#0#0-0#0, PH#0#0#0-0#0, PH#0#0#0-0#0, PH#0#0#0-0#0
-PH, 1703, 0, PH#21#21#34-166#0, PH#12#12#246-538#0, PH#7#7#999-1243#0, PH#3#3#2466-2580#0, PH#1#1#1349-1349#0, PH#0#0#0-0#0, PH#0#0#0-0#0, PH#0#0#0-0#0
-PH, 1805, 0, PH#13#12#147-200#0, PH#5#5#219-454#0, PH#4#4#339-1221#0, PH#2#2#2479-2682#0, PH#0#0#0-0#0, PH#1#1#1222-1222#0, PH#0#0#0-0#0, PH#0#0#0-0#0
-PH, 1903, 0, PH#10#10#142-252#0, PH#5#5#478-647#0, PH#3#3#1349-1449#0, PH#2#2#3091-3138#0, PH#0#0#0-0#0, PH#0#0#0-0#0, PH#1#0#0-0#0, PH#0#0#0-0#0
+PH, 1605, 0, PH#6#6#131-230#0, PH#3#3#631-663#0, PH#2#2#420-952#0, PH#1#1#2400-2400#0, PH#1#0#0-0#0, PH#0#0#0-0#0, PH#0#0#0-0#0, PH#0#0#0-0#0
+PH, 1703, 0, PH#21#21#34-166#0, PH#12#12#246-538#0, PH#7#7#999-1282#0, PH#3#3#2466-2580#0, PH#1#1#1349-1349#0, PH#0#0#0-0#0, PH#0#0#0-0#0, PH#0#0#0-0#0
+PH, 1805, 0, PH#13#13#147-200#0, PH#5#5#219-454#0, PH#4#4#339-1221#0, PH#2#2#2479-2682#0, PH#0#0#0-0#0, PH#1#1#1222-1222#0, PH#0#0#0-0#0, PH#0#0#0-0#0
+PH, 1903, 0, PH#10#10#210-256#0, PH#5#5#478-647#0, PH#3#3#1413-1467#0, PH#2#2#3091-3138#0, PH#0#0#0-0#0, PH#0#0#0-0#0, PH#1#0#0-0#0, PH#0#0#0-0#0
 PH, 1905, 0, PH#3#3#296-320#0, PH#1#1#595-595#0, PH#0#0#0-0#0, PH#0#0#0-0#0, PH#0#0#0-0#0, PH#0#0#0-0#0, PH#0#0#0-0#0, PH#0#0#0-0#0
-PH, 2003, 0, PH#4#4#135-180#0, PH#3#2#561-630#0, PH#2#2#1467-1467#0, PH#1#1#3261-3261#0, PH#0#0#0-0#0, PH#0#0#0-0#0, PH#0#0#0-0#0, PH#0#0#0-0#0
-PH, 2103, 0, PH#10#10#187-235#0, PH#5#3#410-663#0, PH#3#3#1066-1282#0, PH#2#2#2715-2997#0, PH#0#0#0-0#0, PH#0#0#0-0#0, PH#0#0#0-0#0, PH#0#0#0-0#0
-PH, 2202, 0, PH#6#6#217-254#0, PH#3#3#641-647#0, PH#2#2#1334-1463#0, PH#1#1#3032-3032#0, PH#0#0#0-0#0, PH#0#0#0-0#0, PH#0#0#0-0#0, PH#0#0#0-0#0
-PH, 2303, 0, PH#5#5#201-258#0, PH#3#2#647-663#0, PH#1#1#1438-1438#0, PH#1#0#0-0#0, PH#0#0#0-0#0, PH#0#0#0-0#0, PH#1#0#0-0#0, PH#0#0#0-0#0
-PH, 2402, 0, PH#5#3#246-265#0, PH#2#2#552-651#0, PH#1#1#1278-1278#0, PH#1#1#3138-3138#0, PH#1#1#3692-3692#0, PH#0#0#0-0#0, PH#0#0#0-0#0, PH#0#0#0-0#0
+PH, 2003, 0, PH#4#4#135-246#0, PH#3#3#561-690#0, PH#2#2#1463-1467#0, PH#1#1#3261-3261#0, PH#0#0#0-0#0, PH#0#0#0-0#0, PH#0#0#0-0#0, PH#0#0#0-0#0
+PH, 2103, 0, PH#10#10#187-240#0, PH#5#5#410-690#0, PH#3#3#1066-1349#0, PH#2#2#2715-2997#0, PH#0#0#0-0#0, PH#0#0#0-0#0, PH#0#0#0-0#0, PH#0#0#0-0#0
+PH, 2202, 0, PH#6#6#217-261#0, PH#3#3#641-647#0, PH#2#2#1334-1438#0, PH#1#1#3032-3032#0, PH#0#0#0-0#0, PH#0#0#0-0#0, PH#0#0#0-0#0, PH#0#0#0-0#0
+PH, 2303, 0, PH#5#5#201-265#0, PH#3#3#647-690#0, PH#1#1#776-776#0, PH#1#1#3138-3138#0, PH#0#0#0-0#0, PH#0#0#0-0#0, PH#1#0#0-0#0, PH#0#0#0-0#0
+PH, 2402, 0, PH#5#5#246-267#0, PH#2#2#552-651#0, PH#1#1#1278-1278#0, PH#1#1#3294-3294#0, PH#1#1#3692-3692#0, PH#0#0#0-0#0, PH#0#0#0-0#0, PH#0#0#0-0#0
 -----------------------------------------------------------
 -----------------------------------------------------------
 ApplicationId, Allocated-Paper, Allocated-Program, Allocated-Quota, Allocated-Program-Choice, Allocated-Paper-Rank, Allocated-Paper-Mark,  Category, PwD-status, Reg1-ID, Reg1-Rank, Reg1-Marks, Reg2-ID, Reg2-Rank2,  Reg2-Marks,  ValidChoices, Original-Choice
@@ -1282,7 +701,7 @@ M107H38, GG, 1904, OBC, 4, 97, 58.33, OBC, false, GG405363-M2, 97, 58.33, --, --
 M104S65, PH, 1503, OBC, 1, 97, 42.67, OBC, false, PH611095-M1, 97, 42.67, --, --, --, 1503-1207-1303-1604-1703-1403, PH:IITK:1503#PH:IITB:1207#PH:IITD:1303#PH:IITKgp:1604#PH:IITM:1703#PH:IITG:1403
 M111V91, PH, 1604, GEN, 3, 98, 42.67, GEN, false, PH612246-M1, 98, 42.67, --, --, --, XXXX-1503-1604-1703-XXXX-1207-1303-2003-1805-2202-1403-2103-2303-2402-1903, PH:IISc:1104#PH:IITK:1503#PH:IITKgp:1604#PH:IITM:1703#PH:IITK:1505#PH:IITB:1207#PH:IITD:1303#PH:IITGN:2003#PH:IITR:1805#PH:IITI:2202#PH:IITG:1403#PH:IITH:2103#PH:IITRPR:2303#PH:IITJ:2402#PH:IITBBS:1903
 M108D85, CY, 1601, GEN, 1, 98, 61.67, GEN, false, CY611218-M2, 98, 61.67, --, --, --, 1601-1205-1701-2101-1401-1102-1803, CY:IITKgp:1601#CY:IITB:1205#CY:IITM:1701#CY:IITH:2101#CY:IITG:1401#CY:IISc:1102#CY:IITR:1803
-M112Y64, PH, 1215, GEN, 2, 99, 42.67, GEN, false, PH305232-M1, 99, 42.67, --, --, --, 1104-1215-XXXX-XXXX-1503-1202-1207-1216-XXXX-1303-XXXX-1903-1905-1605-2303-1604-2003-2402-1403-1805-1703, PH:IISc:1104#PH:IITB:1215#PH:IITB:1209#PH:IITK:1505#PH:IITK:1503#PH:IITB:1202#PH:IITB:1207#PH:IITB:1216#PH:IITB:1212#PH:IITD:1303#PH:IITB:1213#PH:IITBBS:1903#PH:IITBBS:1905#PH:IITKgp:1605#PH:IITRPR:2303#PH:IITKgp:1604#PH:IITGN:2003#PH:IITJ:2402#PH:IITG:1403#PH:IITR:1805#PH:IITM:1703
+M112Y64, PH, 1202, GEN, 6, 99, 42.67, GEN, false, PH305232-M1, 99, 42.67, --, --, --, 1104-1215-XXXX-XXXX-1503-1202-1207-1216-XXXX-1303-XXXX-1903-1905-1605-2303-1604-2003-2402-1403-1805-1703, PH:IISc:1104#PH:IITB:1215#PH:IITB:1209#PH:IITK:1505#PH:IITK:1503#PH:IITB:1202#PH:IITB:1207#PH:IITB:1216#PH:IITB:1212#PH:IITD:1303#PH:IITB:1213#PH:IITBBS:1903#PH:IITBBS:1905#PH:IITKgp:1605#PH:IITRPR:2303#PH:IITKgp:1604#PH:IITGN:2003#PH:IITJ:2402#PH:IITG:1403#PH:IITR:1805#PH:IITM:1703
 M109A29, MA, 1804, GEN, 3, 99, 44.33, GEN, false, MA323187-M1, 99, 44.33, --, --, --, 1502-1302-1804-1206-1702-1603-1402-2102-XXXX-2002-1902-2203-2403-2301, MA:IITK:1502#MA:IITD:1302#MA:IITR:1804#MA:IITB:1206#MA:IITM:1702#MA:IITKgp:1603#MA:IITG:1402#MA:IITH:2102#MA:IISc:1103#MA:IITGN:2002#MA:IITBBS:1902#MA:IITI:2203#MA:IITJ:2403#MA:IITRPR:2301
 M105F52, GG, 1904, OBC, 4, 99, 58, OBC, false, GG605120-M2, 99, 58, --, --, --, 1201-1602-1801-1904, GG:IITB:1201#GG:IITKgp:1602#GG:IITR:1801#GG:IITBBS:1904
 M107D86, CY, 1601, GEN, 1, 99, 61.33, GEN, false, CY608096-M2, 99, 61.33, --, --, --, 1601-1701-1501-1301-1401-1211-1901-1803, CY:IITKgp:1601#CY:IITM:1701#CY:IITK:1501#CY:IITD:1301#CY:IITG:1401#CY:IITB:1211#CY:IITBBS:1901#CY:IITR:1803
@@ -1294,7 +713,7 @@ M101Y66, CY, 1301, GEN, 4, 100, 61.33, GEN, false, CY507074-M2, 100, 61.33, --, 
 M110U71, MA, 1804, GEN, 4, 101, 44, GEN, false, MA501054-M1, 101, 44, --, --, --, XXXX-1302-1502-1804-1206-1603-1402-2203-1702-1902-2403-2301, MA:IISc:1103#MA:IITD:1302#MA:IITK:1502#MA:IITR:1804#MA:IITB:1206#MA:IITKgp:1603#MA:IITG:1402#MA:IITI:2203#MA:IITM:1702#MA:IITBBS:1902#MA:IITJ:2403#MA:IITRPR:2301
 M112B61, PH, 1303, GEN, 4, 101, 42.67, GEN, false, PH327286-M1, 101, 42.67, --, --, --, XXXX-1503-1207-1303-1604-1805-XXXX-1703-1215-1403-1202-1216, PH:IISc:1104#PH:IITK:1503#PH:IITB:1207#PH:IITD:1303#PH:IITKgp:1604#PH:IITR:1805#PH:IITK:1505#PH:IITM:1703#PH:IITB:1215#PH:IITG:1403#PH:IITB:1202#PH:IITB:1216
 M106R96, MA, 1702, GEN, 3, 101, 44, GEN, false, MA323064-M1, 101, 44, --, --, --, 1302-XXXX-1702-1206, MA:IITD:1302#MA:IISc:1103#MA:IITM:1702#MA:IITB:1206
-M106N88, MA, 2301, GEN, 5, 101, 44, GEN, false, MA807088-M1, 101, 44, --, --, --, XXXX-1206-1302-1502-2301-1702-1804, MA:IISc:1103#MA:IITB:1206#MA:IITD:1302#MA:IITK:1502#MA:IITRPR:2301#MA:IITM:1702#MA:IITR:1804
+M106N88, MA, 1702, GEN, 6, 101, 44, GEN, false, MA807088-M1, 101, 44, --, --, --, XXXX-1206-1302-1502-2301-1702-1804, MA:IISc:1103#MA:IITB:1206#MA:IITD:1302#MA:IITK:1502#MA:IITRPR:2301#MA:IITM:1702#MA:IITR:1804
 M106P35, PH, 1604, GEN, 1, 102, 42.33, GEN, false, PH608035-M1, 102, 42.33, --, --, --, 1604-1303-1403-1207-1503-1703-1805-1903, PH:IITKgp:1604#PH:IITD:1303#PH:IITG:1403#PH:IITB:1207#PH:IITK:1503#PH:IITM:1703#PH:IITR:1805#PH:IITBBS:1903
 M106R37, PH, 1503, OBC, 1, 102, 42.33, OBC, false, PH611231-M1, 102, 42.33, --, --, --, 1503-1207-1604-1303-1403-1703, PH:IITK:1503#PH:IITB:1207#PH:IITKgp:1604#PH:IITD:1303#PH:IITG:1403#PH:IITM:1703
 M105U20, CY, 1102, OBC, 1, 103, 61, OBC, false, CY611075-M2, 103, 61, --, --, --, 1102-1501-1205-1701-1601-1401-1301-2201-2101-2401-1803-1901-2001, CY:IISc:1102#CY:IITK:1501#CY:IITB:1205#CY:IITM:1701#CY:IITKgp:1601#CY:IITG:1401#CY:IITD:1301#CY:IITI:2201#CY:IITH:2101#CY:IITJ:2401#CY:IITR:1803#CY:IITBBS:1901#CY:IITGN:2001
@@ -1333,6 +752,7 @@ M102J72, PH, 1604, GEN, 1, 113, 41.67, GEN, false, PH605149-M1, 113, 41.67, --, 
 M105E27, GG, 1201, SC, 1, 113, 56, SC, false, GG608011-M2, 113, 56, --, --, --, 1201-1801-1602-XXXX-1904-1905-1605, GG:IITB:1201#GG:IITR:1801#GG:IITKgp:1602#GG:IITB:1208#GG:IITBBS:1904#GG:IITBBS:1905#GG:IITKgp:1605
 M107M34, PH, 1703, GEN, 2, 114, 41.33, GEN, false, PH608068-M1, 114, 41.33, --, --, --, 1207-1703-1604-1303-1403-1805-XXXX-1215, PH:IITB:1207#PH:IITM:1703#PH:IITKgp:1604#PH:IITD:1303#PH:IITG:1403#PH:IITR:1805#PH:IITK:1505#PH:IITB:1215
 M104W79, CY, 1701, GEN, 3, 114, 60.33, GEN, false, CY403169-M2, 114, 60.33, --, --, --, 1601-1501-1701-1205-1301-1401-1803-1901-2401-1211-1102, CY:IITKgp:1601#CY:IITK:1501#CY:IITM:1701#CY:IITB:1205#CY:IITD:1301#CY:IITG:1401#CY:IITR:1803#CY:IITBBS:1901#CY:IITJ:2401#CY:IITB:1211#CY:IISc:1102
+M107K22, GG, 1905, OBC, 5, 114, 56, OBC, false, GG603281-M2, 114, 56, --, --, --, 1201-1602-1801-1904-1905, GG:IITB:1201#GG:IITKgp:1602#GG:IITR:1801#GG:IITBBS:1904#GG:IITBBS:1905
 M110U12, CY, 1701, GEN, 4, 114, 60.33, GEN, false, CY612047-M2, 114, 60.33, --, --, --, 1501-1205-1601-1701-1401-1301-1803-1102-1901-2001-1211-2401, CY:IITK:1501#CY:IITB:1205#CY:IITKgp:1601#CY:IITM:1701#CY:IITG:1401#CY:IITD:1301#CY:IITR:1803#CY:IISc:1102#CY:IITBBS:1901#CY:IITGN:2001#CY:IITB:1211#CY:IITJ:2401
 M103W43, CY, 1301, GEN, 1, 114, 60.33, OBC, false, CY301368-M2, 114, 60.33, --, --, --, 1301-1205-1102-1501-1601-1701-1803-1401, CY:IITD:1301#CY:IITB:1205#CY:IISc:1102#CY:IITK:1501#CY:IITKgp:1601#CY:IITM:1701#CY:IITR:1803#CY:IITG:1401
 M107H49, PH, 1604, GEN, 5, 114, 41.33, GEN, false, PH305048-M1, 114, 41.33, --, --, --, XXXX-1215-XXXX-1207-1604-1503-1303-1805-1703-1403-1903-2202-2003-2303-2402, PH:IISc:1104#PH:IITB:1215#PH:IITK:1505#PH:IITB:1207#PH:IITKgp:1604#PH:IITK:1503#PH:IITD:1303#PH:IITR:1805#PH:IITM:1703#PH:IITG:1403#PH:IITBBS:1903#PH:IITI:2202#PH:IITGN:2003#PH:IITRPR:2303#PH:IITJ:2402
@@ -1372,7 +792,7 @@ M113Z70, MA, 1302, OBC, 1, 126, 41.67, OBC, false, MA315044-M1, 126, 41.67, --, 
 M108R24, MA, 1702, GEN, 2, 126, 41.67, GEN, false, MA612068-M1, 126, 41.67, --, --, --, 1502-1702-1302-2002-1603, MA:IITK:1502#MA:IITM:1702#MA:IITD:1302#MA:IITGN:2002#MA:IITKgp:1603
 M104A48, PH, 1505, GEN, 1, 126, 40.67, GEN, false, PH326097-M1, 126, 40.67, --, --, --, 1505-1604-1303-1703-1403-1207-1805-1903-2103-2003-1905-2202-2303-XXXX-XXXX-1216-1202-1605-2402, PH:IITK:1505#PH:IITKgp:1604#PH:IITD:1303#PH:IITM:1703#PH:IITG:1403#PH:IITB:1207#PH:IITR:1805#PH:IITBBS:1903#PH:IITH:2103#PH:IITGN:2003#PH:IITBBS:1905#PH:IITI:2202#PH:IITRPR:2303#PH:IITB:1212#PH:IITB:1213#PH:IITB:1216#PH:IITB:1202#PH:IITKgp:1605#PH:IITJ:2402
 M101D42, CY, 1211, GEN, 2, 127, 59, GEN, false, CY511019-M2, 127, 59, --, --, --, 1102-1211-1301-1601-1701-1803-1401-XXXX, CY:IISc:1102#CY:IITB:1211#CY:IITD:1301#CY:IITKgp:1601#CY:IITM:1701#CY:IITR:1803#CY:IITG:1401#CY:IITB:1212
-M106Q70, PH, 1202, GEN, 1, 127, 40.67, GEN, false, PH327020-M1, 127, 40.67, --, --, --, 1202-1303-1207-1703-XXXX-1503-1805-1403-1215-XXXX-XXXX-1216-XXXX-XXXX-1605-1604-2303-1905-1903-2103-2202, PH:IITB:1202#PH:IITD:1303#PH:IITB:1207#PH:IITM:1703#PH:IISc:1104#PH:IITK:1503#PH:IITR:1805#PH:IITG:1403#PH:IITB:1215#PH:IITB:1209#PH:IITB:1213#PH:IITB:1216#PH:IITB:1212#PH:IITK:1505#PH:IITKgp:1605#PH:IITKgp:1604#PH:IITRPR:2303#PH:IITBBS:1905#PH:IITBBS:1903#PH:IITH:2103#PH:IITI:2202
+M106Q70, PH, 1703, GEN, 4, 127, 40.67, GEN, false, PH327020-M1, 127, 40.67, --, --, --, 1202-1303-1207-1703-XXXX-1503-1805-1403-1215-XXXX-XXXX-1216-XXXX-XXXX-1605-1604-2303-1905-1903-2103-2202, PH:IITB:1202#PH:IITD:1303#PH:IITB:1207#PH:IITM:1703#PH:IISc:1104#PH:IITK:1503#PH:IITR:1805#PH:IITG:1403#PH:IITB:1215#PH:IITB:1209#PH:IITB:1213#PH:IITB:1216#PH:IITB:1212#PH:IITK:1505#PH:IITKgp:1605#PH:IITKgp:1604#PH:IITRPR:2303#PH:IITBBS:1905#PH:IITBBS:1903#PH:IITH:2103#PH:IITI:2202
 M102Z51, PH, 1703, GEN, 3, 127, 40.67, GEN, false, PH610300-M1, 127, 40.67, --, --, --, 1503-1207-1703-1604-1303-XXXX-1403-1215-1202-1805, PH:IITK:1503#PH:IITB:1207#PH:IITM:1703#PH:IITKgp:1604#PH:IITD:1303#PH:IISc:1104#PH:IITG:1403#PH:IITB:1215#PH:IITB:1202#PH:IITR:1805
 M106T75, MS, 1504, OBC, 1, 127, 36.67, OBC, false, MS102013-M2, 127, 36.67, --, --, --, 1504-1203-1214-1905-XXXX, MS:IITK:1504#MS:IITB:1203#MS:IITB:1214#MS:IITBBS:1905#MS:IISc:1103
 M111F58, MA, 1302, ST, 1, 128, 41.67, ST, false, MA314247-M1, 128, 41.67, --, --, --, 1302-1206-1502-1402-1804-2002-2102-1702, MA:IITD:1302#MA:IITB:1206#MA:IITK:1502#MA:IITG:1402#MA:IITR:1804#MA:IITGN:2002#MA:IITH:2102#MA:IITM:1702
@@ -1422,7 +842,7 @@ M108G26, MA, 1702, GEN, 4, 141, 41, GEN, false, MA327105-M1, 141, 41, --, --, --
 M102M59, CY, 1701, GEN, 1, 141, 58.33, GEN, false, CY607037-M2, 141, 58.33, --, --, --, 1701-1205-1401, CY:IITM:1701#CY:IITB:1205#CY:IITG:1401
 M101K47, PH, 2003, GEN, 8, 142, 40, GEN, false, PH102165-M1, 142, 40, --, --, --, XXXX-1207-1503-1303-XXXX-XXXX-XXXX-2003-2202-2103-2402-1215-XXXX-1604-1903-2303, PH:IITM:1703#PH:IITB:1207#PH:IITK:1503#PH:IITD:1303#PH:IITG:1403#PH:IITR:1805#PH:IISc:1104#PH:IITGN:2003#PH:IITI:2202#PH:IITH:2103#PH:IITJ:2402#PH:IITB:1215#PH:IITK:1505#PH:IITKgp:1604#PH:IITBBS:1903#PH:IITRPR:2303
 M104V74, CY, 1701, GEN, 4, 142, 58, GEN, false, CY611002-M2, 142, 58, --, --, --, 1501-1205-1601-1701-1301-1401-1102-1803-2101, CY:IITK:1501#CY:IITB:1205#CY:IITKgp:1601#CY:IITM:1701#CY:IITD:1301#CY:IITG:1401#CY:IISc:1102#CY:IITR:1803#CY:IITH:2101
-M106F38, PH, 1903, GEN, 5, 142, 40, GEN, false, PH305005-M1, 142, 40, --, --, --, 1215-1604-XXXX-1303-1903-1403-1805-2202-2003, PH:IITB:1215#PH:IITKgp:1604#PH:IITK:1505#PH:IITD:1303#PH:IITBBS:1903#PH:IITG:1403#PH:IITR:1805#PH:IITI:2202#PH:IITGN:2003
+M106F38, PH, 1215, GEN, 1, 142, 40, GEN, false, PH305005-M1, 142, 40, --, --, --, 1215-1604-XXXX-1303-1903-1403-1805-2202-2003, PH:IITB:1215#PH:IITKgp:1604#PH:IITK:1505#PH:IITD:1303#PH:IITBBS:1903#PH:IITG:1403#PH:IITR:1805#PH:IITI:2202#PH:IITGN:2003
 M107X44, CY, 1301, OBC, 1, 142, 58, OBC, false, CY309091-M2, 142, 58, --, --, --, 1301-1205-2101-2401-1803-1401-2001-1501-1701, CY:IITD:1301#CY:IITB:1205#CY:IITH:2101#CY:IITJ:2401#CY:IITR:1803#CY:IITG:1401#CY:IITGN:2001#CY:IITK:1501#CY:IITM:1701
 M102N51, MA, 1804, GEN, 6, 142, 41, GEN, false, MA322027-M1, 142, 41, --, --, --, XXXX-1206-1502-1302-1702-1804-1402-1603-2002-1902, MA:IISc:1103#MA:IITB:1206#MA:IITK:1502#MA:IITD:1302#MA:IITM:1702#MA:IITR:1804#MA:IITG:1402#MA:IITKgp:1603#MA:IITGN:2002#MA:IITBBS:1902
 M108B37, GG, 1605, OBC, 4, 142, 53, OBC, false, GG514026-M2, 142, 53, --, --, --, 1201-1602-1801-1605-1904, GG:IITB:1201#GG:IITKgp:1602#GG:IITR:1801#GG:IITKgp:1605#GG:IITBBS:1904
@@ -1490,7 +910,7 @@ M105E10, MA, 1804, GEN, 5, 159, 40, GEN, false, MA311130-M1, 159, 40, --, --, --
 M105D57, MA, 1804, GEN, 1, 159, 40, GEN, false, MA308145-M1, 159, 40, --, --, --, 1804-1302-1402-1603-2102, MA:IITR:1804#MA:IITD:1302#MA:IITG:1402#MA:IITKgp:1603#MA:IITH:2102
 M105Q21, MS, 1203, SC, 1, 159, 33, SC, false, MA304052-M0, 3565, 11.33, MS304052-M0, 159, 33, 1203-1214-1206-1214-1302-1804-1504-XXXX-1502-XXXX-1402-1603-1905-2102-2203, MS:IITB:1203#MS:IITB:1214#MA:IITB:1206#MA:IITB:1214#MA:IITD:1302#MA:IITR:1804#MS:IITK:1504#MS:IISc:1103#MA:IITK:1502#MA:IISc:1103#MA:IITG:1402#MA:IITKgp:1603#MS:IITBBS:1905#MA:IITH:2102#MA:IITI:2203
 M106D45, BT, 1802, OBC, 2, 160, 28.67, OBC, false, BL606047-M0, 130, 44, BT606047-M0, 160, 28.67, 1101-1802-1204-1101-XXXX-XXXX-1102, BL:IISc:1101#BT:IITR:1802#BT:IITB:1204#BT:IISc:1101#BL:IITB:1210#BT:IITB:1210#BL:IISc:1102
-M103T31, PH, 1703, GEN, 6, 161, 39, GEN, false, PH611018-M1, 161, 39, --, --, --, XXXX-XXXX-1604-1215-1303-1703-1805-1403-1216-2103-2003-1903-2202-2402, PH:IISc:1104#PH:IITK:1505#PH:IITKgp:1604#PH:IITB:1215#PH:IITD:1303#PH:IITM:1703#PH:IITR:1805#PH:IITG:1403#PH:IITB:1216#PH:IITH:2103#PH:IITGN:2003#PH:IITBBS:1903#PH:IITI:2202#PH:IITJ:2402
+M103T31, PH, 1805, GEN, 7, 161, 39, GEN, false, PH611018-M1, 161, 39, --, --, --, XXXX-XXXX-1604-1215-1303-1703-1805-1403-1216-2103-2003-1903-2202-2402, PH:IISc:1104#PH:IITK:1505#PH:IITKgp:1604#PH:IITB:1215#PH:IITD:1303#PH:IITM:1703#PH:IITR:1805#PH:IITG:1403#PH:IITB:1216#PH:IITH:2103#PH:IITGN:2003#PH:IITBBS:1903#PH:IITI:2202#PH:IITJ:2402
 M101P71, MA, 1603, GEN, 6, 161, 40, GEN, false, MA509060-M1, 161, 40, --, --, --, XXXX-1206-1502-1302-1214-1603-1804-1905-1702-1402-2002-1902-2102-XXXX-XXXX-2203-2301-2403, MA:IISc:1103#MA:IITB:1206#MA:IITK:1502#MA:IITD:1302#MA:IITB:1214#MA:IITKgp:1603#MA:IITR:1804#MA:IITBBS:1905#MA:IITM:1702#MA:IITG:1402#MA:IITGN:2002#MA:IITBBS:1902#MA:IITH:2102#MA:IITB:1213#MA:IITB:1212#MA:IITI:2203#MA:IITRPR:2301#MA:IITJ:2403
 M102E95, CY, 1401, GEN, 6, 161, 56.67, GEN, false, CY323269-M2, 161, 56.67, --, --, --, 1301-1205-1501-1803-1701-1401, CY:IITD:1301#CY:IITB:1205#CY:IITK:1501#CY:IITR:1803#CY:IITM:1701#CY:IITG:1401
 M111N30, PH, 1505, GEN, 3, 162, 39, GEN, false, PH313251-M1, 162, 39, --, --, --, 1215-1303-1505-XXXX-XXXX-XXXX-1212-1216-1703-1805-1604-1403-2303-XXXX-1605-1202-2202-1207-1503-2402-1903-1905-2003-2103, PH:IITB:1215#PH:IITD:1303#PH:IITK:1505#PH:IITB:1209#PH:IITB:1213#PH:IITB:1210#PH:IITB:1212#PH:IITB:1216#PH:IITM:1703#PH:IITR:1805#PH:IITKgp:1604#PH:IITG:1403#PH:IITRPR:2303#PH:IISc:1104#PH:IITKgp:1605#PH:IITB:1202#PH:IITI:2202#PH:IITB:1207#PH:IITK:1503#PH:IITJ:2402#PH:IITBBS:1903#PH:IITBBS:1905#PH:IITGN:2003#PH:IITH:2103
@@ -1551,7 +971,6 @@ M111V15, PH, 1403, GEN, 7, 178, 38.33, GEN, false, PH609029-M1, 178, 38.33, --, 
 M101W74, MA, 1206, ST, 1, 179, 39, ST, false, MA313117-M1, 179, 39, --, --, --, 1206-1302-1502-1804-1603-1702, MA:IITB:1206#MA:IITD:1302#MA:IITK:1502#MA:IITR:1804#MA:IITKgp:1603#MA:IITM:1702
 M106N95, CY, 1205, OBC, 1, 179, 55.33, OBC, false, CY313300-M2, 179, 55.33, --, --, --, 1205-1301-1501-1401-1803-1701-2001-2401-2101-2302-2201-1601, CY:IITB:1205#CY:IITD:1301#CY:IITK:1501#CY:IITG:1401#CY:IITR:1803#CY:IITM:1701#CY:IITGN:2001#CY:IITJ:2401#CY:IITH:2101#CY:IITRPR:2302#CY:IITI:2201#CY:IITKgp:1601
 M107V32, CY, 1401, GEN, 1, 179, 55.33, GEN, false, CY608119-M2, 179, 55.33, --, --, --, 1401-1701-1601, CY:IITG:1401#CY:IITM:1701#CY:IITKgp:1601
-M101U33, PH, 2003, GEN, 4, 180, 38.33, GEN, false, PH205171-M1, 180, 38.33, --, --, --, 1207-1303-XXXX-2003-1215, PH:IITB:1207#PH:IITD:1303#PH:IISc:1104#PH:IITGN:2003#PH:IITB:1215
 M106B32, MA, 1402, GEN, 7, 180, 39, GEN, false, MA323030-M1, 180, 39, --, --, --, XXXX-1206-1502-1302-1702-1603-1402-1804-1214-2102-2203-1902-2002-2403-2301-XXXX-XXXX-1101, MA:IISc:1103#MA:IITB:1206#MA:IITK:1502#MA:IITD:1302#MA:IITM:1702#MA:IITKgp:1603#MA:IITG:1402#MA:IITR:1804#MA:IITB:1214#MA:IITH:2102#MA:IITI:2203#MA:IITBBS:1902#MA:IITGN:2002#MA:IITJ:2403#MA:IITRPR:2301#MA:IITB:1212#MA:IITB:1213#MA:IISc:1101
 M119V63, MS, 1203, OBC, 1, 180, 31, OBC, false, MS514176-M2, 180, 31, --, --, --, 1203-1504-1214-XXXX, MS:IITB:1203#MS:IITK:1504#MS:IITB:1214#MS:IISc:1103
 M109F36, MA, 1804, GEN, 4, 181, 38.67, GEN, false, MA325017-M0, 181, 38.67, MS325017-M0, 256, 25.67, 1206-1502-1302-1804-2002-1702-2102-2301-2403-1402, MA:IITB:1206#MA:IITK:1502#MA:IITD:1302#MA:IITR:1804#MA:IITGN:2002#MA:IITM:1702#MA:IITH:2102#MA:IITRPR:2301#MA:IITJ:2403#MA:IITG:1402
@@ -1719,7 +1138,7 @@ M116X10, CY, 1501, OBC, 1, 232, 52.33, OBC, false, CY514142-M2, 232, 52.33, --, 
 M101P81, CY, 2401, GEN, 8, 232, 52.33, GEN, false, CY301315-M2, 232, 52.33, --, --, --, 1102-1301-1803-1401-1701-2101-2001-2401-1601-2201-2302-1901, CY:IISc:1102#CY:IITD:1301#CY:IITR:1803#CY:IITG:1401#CY:IITM:1701#CY:IITH:2101#CY:IITGN:2001#CY:IITJ:2401#CY:IITKgp:1601#CY:IITI:2201#CY:IITRPR:2302#CY:IITBBS:1901
 M106K59, MA, 2002, GEN, 10, 232, 36.67, GEN, false, MA603122-M0, 232, 36.67, MS603104-M0, 119, 37.33, 1203-1214-1504-1214-1302-1402-1603-1804-1702-2002-2102-1905-1905-1902-2203, MS:IITB:1203#MS:IITB:1214#MS:IITK:1504#MA:IITB:1214#MA:IITD:1302#MA:IITG:1402#MA:IITKgp:1603#MA:IITR:1804#MA:IITM:1702#MA:IITGN:2002#MA:IITH:2102#MS:IITBBS:1905#MA:IITBBS:1905#MA:IITBBS:1902#MA:IITI:2203
 M105R20, MS, 1203, SC, 1, 233, 27.33, SC, false, MS611069-M2, 233, 27.33, --, --, --, 1203-1504-1214, MS:IITB:1203#MS:IITK:1504#MS:IITB:1214
-M101N64, PH, 2103, GEN, 9, 235, 36, GEN, false, PH513257-M1, 235, 36, --, --, --, 1303-XXXX-1207-1503-1703-1403-XXXX-1805-2103-1216-1604-1202-2003-XXXX-1215-2303-XXXX-1605-1101-1102-XXXX-XXXX-1903-1905-2202, PH:IITD:1303#PH:IISc:1104#PH:IITB:1207#PH:IITK:1503#PH:IITM:1703#PH:IITG:1403#PH:IITK:1505#PH:IITR:1805#PH:IITH:2103#PH:IITB:1216#PH:IITKgp:1604#PH:IITB:1202#PH:IITGN:2003#PH:IITB:1212#PH:IITB:1215#PH:IITRPR:2303#PH:IITB:1209#PH:IITKgp:1605#PH:IISc:1101#PH:IISc:1102#PH:IITB:1210#PH:IITB:1213#PH:IITBBS:1903#PH:IITBBS:1905#PH:IITI:2202
+M101N64, PH, 2303, GEN, 16, 235, 36, GEN, false, PH513257-M1, 235, 36, --, --, --, 1303-XXXX-1207-1503-1703-1403-XXXX-1805-2103-1216-1604-1202-2003-XXXX-1215-2303-XXXX-1605-1101-1102-XXXX-XXXX-1903-1905-2202, PH:IITD:1303#PH:IISc:1104#PH:IITB:1207#PH:IITK:1503#PH:IITM:1703#PH:IITG:1403#PH:IITK:1505#PH:IITR:1805#PH:IITH:2103#PH:IITB:1216#PH:IITKgp:1604#PH:IITB:1202#PH:IITGN:2003#PH:IITB:1212#PH:IITB:1215#PH:IITRPR:2303#PH:IITB:1209#PH:IITKgp:1605#PH:IISc:1101#PH:IISc:1102#PH:IITB:1210#PH:IITB:1213#PH:IITBBS:1903#PH:IITBBS:1905#PH:IITI:2202
 M110E47, PH, 2202, GEN, 8, 235, 36, GEN, false, PH612169-M1, 235, 36, --, --, --, 1503-1303-1403-1703-1604-XXXX-1207-2202-2003-1805, PH:IITK:1503#PH:IITD:1303#PH:IITG:1403#PH:IITM:1703#PH:IITKgp:1604#PH:IISc:1104#PH:IITB:1207#PH:IITI:2202#PH:IITGN:2003#PH:IITR:1805
 M122B31, PH, 2303, GEN, 14, 235, 36, GEN, false, PH328186-M1, 235, 36, --, --, --, 1505-1215-XXXX-1605-1604-1202-1503-1303-1703-1805-1216-1207-1403-2303-2103-1903-2003-1905-2402, PH:IITK:1505#PH:IITB:1215#PH:IITB:1209#PH:IITKgp:1605#PH:IITKgp:1604#PH:IITB:1202#PH:IITK:1503#PH:IITD:1303#PH:IITM:1703#PH:IITR:1805#PH:IITB:1216#PH:IITB:1207#PH:IITG:1403#PH:IITRPR:2303#PH:IITH:2103#PH:IITBBS:1903#PH:IITGN:2003#PH:IITBBS:1905#PH:IITJ:2402
 M102G80, PH, 1903, GEN, 7, 235, 36, GEN, false, PH610252-M1, 235, 36, --, --, --, 1207-1703-1303-1604-1403-1805-1903-2103, PH:IITB:1207#PH:IITM:1703#PH:IITD:1303#PH:IITKgp:1604#PH:IITG:1403#PH:IITR:1805#PH:IITBBS:1903#PH:IITH:2103
@@ -1734,7 +1153,7 @@ M108M26, MA, 2403, GEN, 5, 239, 36.33, GEN, false, MA327119-M1, 239, 36.33, --, 
 M102H91, MA, 1902, GEN, 8, 239, 36.33, GEN, false, MA322015-M1, 239, 36.33, --, --, --, 1302-1804-1402-1702-1502-1603-2102-1902-2203-2002-2403-2301-1214-1206, MA:IITD:1302#MA:IITR:1804#MA:IITG:1402#MA:IITM:1702#MA:IITK:1502#MA:IITKgp:1603#MA:IITH:2102#MA:IITBBS:1902#MA:IITI:2203#MA:IITGN:2002#MA:IITJ:2403#MA:IITRPR:2301#MA:IITB:1214#MA:IITB:1206
 M105P15, MS, 1203, ST, 1, 240, 27, ST, false, MS321075-M2, 240, 27, --, --, --, 1203-1504-XXXX-1214-1905, MS:IITB:1203#MS:IITK:1504#MS:IISc:1103#MS:IITB:1214#MS:IITBBS:1905
 M108U21, CY, 2302, GEN, 9, 240, 52, GEN, false, CY322052-M2, 240, 52, --, --, --, 1205-1501-1301-1803-1401-2201-2001-1701-2302-2101-1102-2401-1601-1901, CY:IITB:1205#CY:IITK:1501#CY:IITD:1301#CY:IITR:1803#CY:IITG:1401#CY:IITI:2201#CY:IITGN:2001#CY:IITM:1701#CY:IITRPR:2302#CY:IITH:2101#CY:IISc:1102#CY:IITJ:2401#CY:IITKgp:1601#CY:IITBBS:1901
-M111N80, PH, 2202, GEN, 11, 240, 36, GEN, false, PH314254-M1, 240, 36, --, --, --, XXXX-1215-1216-1207-XXXX-1303-1403-1604-1805-2103-2202-1903-2003-2402-2303-1503-XXXX-1703, PH:IISc:1104#PH:IITB:1215#PH:IITB:1216#PH:IITB:1207#PH:IITB:1213#PH:IITD:1303#PH:IITG:1403#PH:IITKgp:1604#PH:IITR:1805#PH:IITH:2103#PH:IITI:2202#PH:IITBBS:1903#PH:IITGN:2003#PH:IITJ:2402#PH:IITRPR:2303#PH:IITK:1503#PH:IITK:1505#PH:IITM:1703
+M111N80, PH, 2103, GEN, 10, 240, 36, GEN, false, PH314254-M1, 240, 36, --, --, --, XXXX-1215-1216-1207-XXXX-1303-1403-1604-1805-2103-2202-1903-2003-2402-2303-1503-XXXX-1703, PH:IISc:1104#PH:IITB:1215#PH:IITB:1216#PH:IITB:1207#PH:IITB:1213#PH:IITD:1303#PH:IITG:1403#PH:IITKgp:1604#PH:IITR:1805#PH:IITH:2103#PH:IITI:2202#PH:IITBBS:1903#PH:IITGN:2003#PH:IITJ:2402#PH:IITRPR:2303#PH:IITK:1503#PH:IITK:1505#PH:IITM:1703
 M116Q55, CY, 2401, GEN, 7, 241, 52, GEN, false, CY323091-M2, 241, 52, --, --, --, 1301-1205-1102-1501-1601-1803-2401-2001-2201-1901, CY:IITD:1301#CY:IITB:1205#CY:IISc:1102#CY:IITK:1501#CY:IITKgp:1601#CY:IITR:1803#CY:IITJ:2401#CY:IITGN:2001#CY:IITI:2201#CY:IITBBS:1901
 M105A93, MA, 1302, OBC, 3, 241, 36.33, OBC, false, MA304257-M1, 241, 36.33, --, --, --, 1502-XXXX-1302-1206-1603-1804-1702-1402-2301-2102-1902-2203-2002-2403, MA:IITK:1502#MA:IISc:1103#MA:IITD:1302#MA:IITB:1206#MA:IITKgp:1603#MA:IITR:1804#MA:IITM:1702#MA:IITG:1402#MA:IITRPR:2301#MA:IITH:2102#MA:IITBBS:1902#MA:IITI:2203#MA:IITGN:2002#MA:IITJ:2403
 M112A25, MA, 1302, OBC, 4, 241, 36.33, OBC, false, MA304056-M0, 241, 36.33, MS304056-M0, 356, 21.67, XXXX-1214-1206-1302-1502-1804-1603-1402-1702-2002-2403-2301-1902-2102-2203, MA:IISc:1103#MA:IITB:1214#MA:IITB:1206#MA:IITD:1302#MA:IITK:1502#MA:IITR:1804#MA:IITKgp:1603#MA:IITG:1402#MA:IITM:1702#MA:IITGN:2002#MA:IITJ:2403#MA:IITRPR:2301#MA:IITBBS:1902#MA:IITH:2102#MA:IITI:2203
@@ -1749,7 +1168,7 @@ M122G13, MA, 1302, SC, 1, 244, 36.33, SC, false, MA316095-M1, 244, 36.33, --, --
 M111T61, CY, 2401, GEN, 13, 245, 52, GEN, false, CY404020-M2, 245, 52, --, --, --, 1401-1803-2101-1901-1205-1301-2302-2001-2201-1501-1601-1701-2401-1102, CY:IITG:1401#CY:IITR:1803#CY:IITH:2101#CY:IITBBS:1901#CY:IITB:1205#CY:IITD:1301#CY:IITRPR:2302#CY:IITGN:2001#CY:IITI:2201#CY:IITK:1501#CY:IITKgp:1601#CY:IITM:1701#CY:IITJ:2401#CY:IISc:1102
 M104A43, PH, 2402, GEN, 8, 246, 35.67, GEN, false, PH301405-M1, 246, 35.67, --, --, --, 1805-XXXX-1216-XXXX-1605-1303-1703-2402-1403-2202-2103-2003-1905-1903-2303, PH:IITR:1805#PH:IISc:1104#PH:IITB:1216#PH:IITK:1505#PH:IITKgp:1605#PH:IITD:1303#PH:IITM:1703#PH:IITJ:2402#PH:IITG:1403#PH:IITI:2202#PH:IITH:2103#PH:IITGN:2003#PH:IITBBS:1905#PH:IITBBS:1903#PH:IITRPR:2303
 M102K63, PH, 1703, OBC, 1, 246, 35.67, OBC, false, PH111070-M1, 246, 35.67, --, --, --, 1703-2103-1207-1303, PH:IITM:1703#PH:IITH:2103#PH:IITB:1207#PH:IITD:1303
-M106Q11, PH, 2202, GEN, 8, 246, 35.67, GEN, false, PH305021-M1, 246, 35.67, --, --, --, 1216-1805-1303-1703-1403-2103-2003-2202-XXXX-XXXX-1503-1207-1604-1202-XXXX-XXXX-1215, PH:IITB:1216#PH:IITR:1805#PH:IITD:1303#PH:IITM:1703#PH:IITG:1403#PH:IITH:2103#PH:IITGN:2003#PH:IITI:2202#PH:IITK:1505#PH:IISc:1104#PH:IITK:1503#PH:IITB:1207#PH:IITKgp:1604#PH:IITB:1202#PH:IITB:1212#PH:IITB:1213#PH:IITB:1215
+M106Q11, PH, 2003, GEN, 7, 246, 35.67, GEN, false, PH305021-M1, 246, 35.67, --, --, --, 1216-1805-1303-1703-1403-2103-2003-2202-XXXX-XXXX-1503-1207-1604-1202-XXXX-XXXX-1215, PH:IITB:1216#PH:IITR:1805#PH:IITD:1303#PH:IITM:1703#PH:IITG:1403#PH:IITH:2103#PH:IITGN:2003#PH:IITI:2202#PH:IITK:1505#PH:IISc:1104#PH:IITK:1503#PH:IITB:1207#PH:IITKgp:1604#PH:IITB:1202#PH:IITB:1212#PH:IITB:1213#PH:IITB:1215
 M102U90, PH, 2202, GEN, 10, 246, 35.67, GEN, false, PH610288-M1, 246, 35.67, --, --, --, XXXX-1503-1207-1604-1703-1403-1303-1805-2103-2202-2402-1903-2303-2003, PH:IISc:1104#PH:IITK:1503#PH:IITB:1207#PH:IITKgp:1604#PH:IITM:1703#PH:IITG:1403#PH:IITD:1303#PH:IITR:1805#PH:IITH:2103#PH:IITI:2202#PH:IITJ:2402#PH:IITBBS:1903#PH:IITRPR:2303#PH:IITGN:2003
 M103J34, CY, 1601, OBC, 1, 246, 51.67, OBC, false, CY403140-M2, 246, 51.67, --, --, --, 1601-1205-1501-1701-1401-1301-2201-1803-2101-1901-2001-2401-2302, CY:IITKgp:1601#CY:IITB:1205#CY:IITK:1501#CY:IITM:1701#CY:IITG:1401#CY:IITD:1301#CY:IITI:2201#CY:IITR:1803#CY:IITH:2101#CY:IITBBS:1901#CY:IITGN:2001#CY:IITJ:2401#CY:IITRPR:2302
 M105G95, PH, 1207, OBC, 3, 246, 35.67, OBC, false, PH410072-M1, 246, 35.67, --, --, --, 1503-XXXX-1207-1604-1303-1805-1703-1403, PH:IITK:1503#PH:IISc:1104#PH:IITB:1207#PH:IITKgp:1604#PH:IITD:1303#PH:IITR:1805#PH:IITM:1703#PH:IITG:1403
@@ -1772,30 +1191,35 @@ M108J95, GG, 1904, SC, 4, 254, 45, SC, false, GG514033-M2, 254, 45, --, --, --, 
 M111Y49, MA, 1902, GEN, 6, 255, 36, GEN, false, MA327278-M1, 255, 36, --, --, --, 1302-1206-1502-1702-1804-1902-1603-1402-2301-2403-2203-2002-2102-1214-XXXX-1101, MA:IITD:1302#MA:IITB:1206#MA:IITK:1502#MA:IITM:1702#MA:IITR:1804#MA:IITBBS:1902#MA:IITKgp:1603#MA:IITG:1402#MA:IITRPR:2301#MA:IITJ:2403#MA:IITI:2203#MA:IITGN:2002#MA:IITH:2102#MA:IITB:1214#MA:IISc:1103#MA:IISc:1101
 M105J57, PH, 1202, OBC, 1, 256, 35.33, OBC, false, PH411155-M1, 256, 35.33, --, --, --, 1202-1605-XXXX-1604-1207-1905-1216-XXXX-1703-1805-1503-XXXX-1303-2003-2103-2202-2303-2402-XXXX-1903-1403-XXXX, PH:IITB:1202#PH:IITKgp:1605#PH:IITB:1209#PH:IITKgp:1604#PH:IITB:1207#PH:IITBBS:1905#PH:IITB:1216#PH:IITB:1210#PH:IITM:1703#PH:IITR:1805#PH:IITK:1503#PH:IISc:1104#PH:IITD:1303#PH:IITGN:2003#PH:IITH:2103#PH:IITI:2202#PH:IITRPR:2303#PH:IITJ:2402#PH:IITB:1213#PH:IITBBS:1903#PH:IITG:1403#PH:IITK:1505
 M108Q93, MA, 1702, OBC, 2, 256, 36, OBC, false, MA612063-M1, 256, 36, --, --, --, 1502-1702-1302-2002, MA:IITK:1502#MA:IITM:1702#MA:IITD:1302#MA:IITGN:2002
-M103C40, PH, 2303, GEN, 14, 256, 35.33, GEN, false, PH607095-M1, 256, 35.33, --, --, --, 1604-1303-1903-1503-1403-1703-2103-1805-2202-1207-1215-XXXX-2003-2303-2402-1216, PH:IITKgp:1604#PH:IITD:1303#PH:IITBBS:1903#PH:IITK:1503#PH:IITG:1403#PH:IITM:1703#PH:IITH:2103#PH:IITR:1805#PH:IITI:2202#PH:IITB:1207#PH:IITB:1215#PH:IISc:1104#PH:IITGN:2003#PH:IITRPR:2303#PH:IITJ:2402#PH:IITB:1216
+M103C40, PH, 1903, GEN, 3, 256, 35.33, GEN, false, PH607095-M1, 256, 35.33, --, --, --, 1604-1303-1903-1503-1403-1703-2103-1805-2202-1207-1215-XXXX-2003-2303-2402-1216, PH:IITKgp:1604#PH:IITD:1303#PH:IITBBS:1903#PH:IITK:1503#PH:IITG:1403#PH:IITM:1703#PH:IITH:2103#PH:IITR:1805#PH:IITI:2202#PH:IITB:1207#PH:IITB:1215#PH:IISc:1104#PH:IITGN:2003#PH:IITRPR:2303#PH:IITJ:2402#PH:IITB:1216
 M110S90, MS, 1504, OBC, 1, 257, 25.67, OBC, false, MS513067-M2, 257, 25.67, --, --, --, 1504-1203-1214-1905-XXXX, MS:IITK:1504#MS:IITB:1203#MS:IITB:1214#MS:IITBBS:1905#MS:IISc:1103
 M106T10, MA, 1302, OBC, 1, 257, 36, OBC, false, BT324059-M0, 1051, 17, MA324376-M0, 257, 36, 1302-1206-1502-1214-1603-1902-1702-1402-2102-1804-2403-2301, MA:IITD:1302#MA:IITB:1206#MA:IITK:1502#MA:IITB:1214#MA:IITKgp:1603#MA:IITBBS:1902#MA:IITM:1702#MA:IITG:1402#MA:IITH:2102#MA:IITR:1804#MA:IITJ:2403#MA:IITRPR:2301
-M107X67, PH, 2303, GEN, 15, 258, 35.33, GEN, false, PH608085-M1, 258, 35.33, --, --, --, 1604-1403-XXXX-1703-1903-1207-1503-1215-XXXX-1303-2003-1805-2103-2202-2303-2402, PH:IITKgp:1604#PH:IITG:1403#PH:IISc:1104#PH:IITM:1703#PH:IITBBS:1903#PH:IITB:1207#PH:IITK:1503#PH:IITB:1215#PH:IITK:1505#PH:IITD:1303#PH:IITGN:2003#PH:IITR:1805#PH:IITH:2103#PH:IITI:2202#PH:IITRPR:2303#PH:IITJ:2402
+M107X67, PH, 2202, GEN, 14, 258, 35.33, GEN, false, PH608085-M1, 258, 35.33, --, --, --, 1604-1403-XXXX-1703-1903-1207-1503-1215-XXXX-1303-2003-1805-2103-2202-2303-2402, PH:IITKgp:1604#PH:IITG:1403#PH:IISc:1104#PH:IITM:1703#PH:IITBBS:1903#PH:IITB:1207#PH:IITK:1503#PH:IITB:1215#PH:IITK:1505#PH:IITD:1303#PH:IITGN:2003#PH:IITR:1805#PH:IITH:2103#PH:IITI:2202#PH:IITRPR:2303#PH:IITJ:2402
 M104A44, PH, 1604, OBC, 1, 258, 35.33, OBC, false, PH326095-M1, 258, 35.33, --, --, --, 1604-1207-1503-1303-1703-1403-1805-1216-1903-2103-1202-1605-XXXX, PH:IITKgp:1604#PH:IITB:1207#PH:IITK:1503#PH:IITD:1303#PH:IITM:1703#PH:IITG:1403#PH:IITR:1805#PH:IITB:1216#PH:IITBBS:1903#PH:IITH:2103#PH:IITB:1202#PH:IITKgp:1605#PH:IITK:1505
 M108V16, MA, 1302, OBC, 4, 258, 35.67, OBC, false, MA327137-M1, 258, 35.67, --, --, --, XXXX-1206-1502-1302-1804-1603-2203-2403-1702-2301-1902-2002-1402, MA:IISc:1103#MA:IITB:1206#MA:IITK:1502#MA:IITD:1302#MA:IITR:1804#MA:IITKgp:1603#MA:IITI:2203#MA:IITJ:2403#MA:IITM:1702#MA:IITRPR:2301#MA:IITBBS:1902#MA:IITGN:2002#MA:IITG:1402
 M110Q61, MA, 1302, OBC, 2, 259, 35.67, OBC, false, MA309102-M1, 259, 35.67, --, --, --, 1206-1302-1502-1804-1702-2403-2002, MA:IITB:1206#MA:IITD:1302#MA:IITK:1502#MA:IITR:1804#MA:IITM:1702#MA:IITJ:2403#MA:IITGN:2002
-M111H43, MA, 2403, GEN, 10, 259, 35.67, GEN, false, MA320090-M0, 259, 35.67, MS320087-M0, 268, 25, 1302-1502-1206-1804-2002-1702-1402-2102-2301-2403-2203, MA:IITD:1302#MA:IITK:1502#MA:IITB:1206#MA:IITR:1804#MA:IITGN:2002#MA:IITM:1702#MA:IITG:1402#MA:IITH:2102#MA:IITRPR:2301#MA:IITJ:2403#MA:IITI:2203
+M111H43, MA, 2301, GEN, 9, 259, 35.67, GEN, false, MA320090-M0, 259, 35.67, MS320087-M0, 268, 25, 1302-1502-1206-1804-2002-1702-1402-2102-2301-2403-2203, MA:IITD:1302#MA:IITK:1502#MA:IITB:1206#MA:IITR:1804#MA:IITGN:2002#MA:IITM:1702#MA:IITG:1402#MA:IITH:2102#MA:IITRPR:2301#MA:IITJ:2403#MA:IITI:2203
 M102V68, MA, 1902, GEN, 3, 259, 35.67, GEN, false, MA410032-M1, 259, 35.67, --, --, --, 1302-1603-1902-1402-2102-2002-2403-1804-2301-2203-1702-1206-1502-XXXX-1214-1905, MA:IITD:1302#MA:IITKgp:1603#MA:IITBBS:1902#MA:IITG:1402#MA:IITH:2102#MA:IITGN:2002#MA:IITJ:2403#MA:IITR:1804#MA:IITRPR:2301#MA:IITI:2203#MA:IITM:1702#MA:IITB:1206#MA:IITK:1502#MA:IISc:1103#MA:IITB:1214#MA:IITBBS:1905
 M104M99, MS, 1214, OBC, 2, 260, 25.33, OBC, false, MS616135-M0, 260, 25.33, --, --, --, XXXX-1214-1203-1905-XXXX, MS:IITK:1504#MS:IITB:1214#MS:IITB:1203#MS:IITBBS:1905#MS:IISc:1103
 M101D44, GG, 1904, SC, 4, 261, 44.67, SC, false, GG809130-M2, 261, 44.67, --, --, --, 1801-1201-1602-1904, GG:IITR:1801#GG:IITB:1201#GG:IITKgp:1602#GG:IITBBS:1904
 M106Y41, PH, 1303, OBC, 1, 261, 35.33, OBC, false, PH305033-M1, 261, 35.33, --, --, --, 1303-1207-1503-1202-1805-1605, PH:IITD:1303#PH:IITB:1207#PH:IITK:1503#PH:IITB:1202#PH:IITR:1805#PH:IITKgp:1605
+M111J36, PH, 2202, GEN, 8, 261, 35.33, GEN, false, PH302179-M1, 261, 35.33, --, --, --, 1503-1207-1303-1805-1703-1403-1604-2202-2003-2103-XXXX-1215-XXXX-1216, PH:IITK:1503#PH:IITB:1207#PH:IITD:1303#PH:IITR:1805#PH:IITM:1703#PH:IITG:1403#PH:IITKgp:1604#PH:IITI:2202#PH:IITGN:2003#PH:IITH:2103#PH:IISc:1104#PH:IITB:1215#PH:IITK:1505#PH:IITB:1216
 M102A61, PH, 2402, GEN, 23, 263, 35.33, GEN, false, PH501129-M1, 263, 35.33, --, --, --, XXXX-XXXX-XXXX-1605-XXXX-XXXX-1216-1102-1101-XXXX-1604-1805-1303-1403-2103-2003-1703-1207-1202-1503-2202-1903-2402-2303-1905, PH:IISc:1104#PH:IITK:1505#PH:IITB:1209#PH:IITKgp:1605#PH:IITB:1212#PH:IITB:1213#PH:IITB:1216#PH:IISc:1102#PH:IISc:1101#PH:IITB:1210#PH:IITKgp:1604#PH:IITR:1805#PH:IITD:1303#PH:IITG:1403#PH:IITH:2103#PH:IITGN:2003#PH:IITM:1703#PH:IITB:1207#PH:IITB:1202#PH:IITK:1503#PH:IITI:2202#PH:IITBBS:1903#PH:IITJ:2402#PH:IITRPR:2303#PH:IITBBS:1905
 M108M99, MA, 1302, OBC, 2, 263, 35.67, OBC, false, MA314183-M1, 263, 35.67, --, --, --, 1206-1302-1502-1804-1702-1603, MA:IITB:1206#MA:IITD:1302#MA:IITK:1502#MA:IITR:1804#MA:IITM:1702#MA:IITKgp:1603
 M106W33, MA, 2203, GEN, 11, 263, 35.67, GEN, false, MA323075-M1, 263, 35.67, --, --, --, 1302-1502-1214-1206-1702-1804-1402-1902-1603-2002-2203-2102-XXXX-2403-2301, MA:IITD:1302#MA:IITK:1502#MA:IITB:1214#MA:IITB:1206#MA:IITM:1702#MA:IITR:1804#MA:IITG:1402#MA:IITBBS:1902#MA:IITKgp:1603#MA:IITGN:2002#MA:IITI:2203#MA:IITH:2102#MA:IISc:1103#MA:IITJ:2403#MA:IITRPR:2301
 M105H80, PH, 1303, OBC, 1, 263, 35.33, OBC, false, PH304051-M0, 263, 35.33, --, --, --, 1303-1207-1805-1503-1403-2202-2103-2003-1703-2402, PH:IITD:1303#PH:IITB:1207#PH:IITR:1805#PH:IITK:1503#PH:IITG:1403#PH:IITI:2202#PH:IITH:2103#PH:IITGN:2003#PH:IITM:1703#PH:IITJ:2402
-M105B46, PH, 2402, GEN, 10, 265, 35, GEN, false, PH605210-M1, 265, 35, --, --, --, 1604-1207-1303-1703-1403-1805-1903-2103-2303-2402-2202, PH:IITKgp:1604#PH:IITB:1207#PH:IITD:1303#PH:IITM:1703#PH:IITG:1403#PH:IITR:1805#PH:IITBBS:1903#PH:IITH:2103#PH:IITRPR:2303#PH:IITJ:2402#PH:IITI:2202
+M105B46, PH, 2303, GEN, 9, 265, 35, GEN, false, PH605210-M1, 265, 35, --, --, --, 1604-1207-1303-1703-1403-1805-1903-2103-2303-2402-2202, PH:IITKgp:1604#PH:IITB:1207#PH:IITD:1303#PH:IITM:1703#PH:IITG:1403#PH:IITR:1805#PH:IITBBS:1903#PH:IITH:2103#PH:IITRPR:2303#PH:IITJ:2402#PH:IITI:2202
 M103H55, PH, 1202, OBC, 2, 267, 35, OBC, false, PH411135-M1, 267, 35, --, --, --, XXXX-1202-1207-XXXX-1303-1604-1805-1703-1605-1403, PH:IISc:1104#PH:IITB:1202#PH:IITB:1207#PH:IITK:1505#PH:IITD:1303#PH:IITKgp:1604#PH:IITR:1805#PH:IITM:1703#PH:IITKgp:1605#PH:IITG:1403
+M113W66, PH, 2402, GEN, 14, 267, 35, GEN, false, PH605292-M1, 267, 35, --, --, --, XXXX-XXXX-1215-1604-1303-1403-1703-2103-1903-2003-2202-1805-2303-2402, PH:IISc:1104#PH:IITK:1505#PH:IITB:1215#PH:IITKgp:1604#PH:IITD:1303#PH:IITG:1403#PH:IITM:1703#PH:IITH:2103#PH:IITBBS:1903#PH:IITGN:2003#PH:IITI:2202#PH:IITR:1805#PH:IITRPR:2303#PH:IITJ:2402
 M108H85, MA, 2203, GEN, 6, 267, 35.67, GEN, false, MA610085-M0, 267, 35.67, MS610045-M0, 235, 27.33, XXXX-1206-1603-1502-1902-2203-1702, MA:IISc:1103#MA:IITB:1206#MA:IITKgp:1603#MA:IITK:1502#MA:IITBBS:1902#MA:IITI:2203#MA:IITM:1702
+M108U14, PH, 2402, GEN, 17, 267, 35, GEN, false, PH305094-M1, 267, 35, --, --, --, XXXX-1303-1403-2003-1202-XXXX-1215-1703-1805-2202-XXXX-2103-1216-1903-1604-1605-2402-2303, PH:IISc:1104#PH:IITD:1303#PH:IITG:1403#PH:IITGN:2003#PH:IITB:1202#PH:IITK:1505#PH:IITB:1215#PH:IITM:1703#PH:IITR:1805#PH:IITI:2202#PH:IITB:1209#PH:IITH:2103#PH:IITB:1216#PH:IITBBS:1903#PH:IITKgp:1604#PH:IITKgp:1605#PH:IITJ:2402#PH:IITRPR:2303
+M111G77, PH, 2402, GEN, 5, 267, 35, GEN, false, PH327246-M1, 267, 35, --, --, --, 1403-2202-2103-2003-2402-1805-1703-1303-1207-1503, PH:IITG:1403#PH:IITI:2202#PH:IITH:2103#PH:IITGN:2003#PH:IITJ:2402#PH:IITR:1805#PH:IITM:1703#PH:IITD:1303#PH:IITB:1207#PH:IITK:1503
 M106T29, PH, 1303, OBC, 2, 267, 35, OBC, false, PH608038-M1, 267, 35, --, --, --, XXXX-1303-1207-1703-1503-1805-1215-1604-XXXX-1216-1202-XXXX-2103-2202-1403-1605-2003-1903-1905-2303-2402, PH:IISc:1104#PH:IITD:1303#PH:IITB:1207#PH:IITM:1703#PH:IITK:1503#PH:IITR:1805#PH:IITB:1215#PH:IITKgp:1604#PH:IITK:1505#PH:IITB:1216#PH:IITB:1202#PH:IITB:1212#PH:IITH:2103#PH:IITI:2202#PH:IITG:1403#PH:IITKgp:1605#PH:IITGN:2003#PH:IITBBS:1903#PH:IITBBS:1905#PH:IITRPR:2303#PH:IITJ:2402
 M106K82, MA, 1804, OBC, 4, 268, 35.33, OBC, false, MA323054-M1, 268, 35.33, --, --, --, 1206-1302-1502-1804-1402-2102, MA:IITB:1206#MA:IITD:1302#MA:IITK:1502#MA:IITR:1804#MA:IITG:1402#MA:IITH:2102
 M102N50, MA, 2203, GEN, 14, 268, 35.33, GEN, false, MA319031-M0, 268, 35.33, MS319031-M0, 353, 21.67, XXXX-1206-1214-1502-1702-1603-1402-1302-1804-2002-1902-2102-2301-2203-2403-1101-XXXX-XXXX, MA:IISc:1103#MA:IITB:1206#MA:IITB:1214#MA:IITK:1502#MA:IITM:1702#MA:IITKgp:1603#MA:IITG:1402#MA:IITD:1302#MA:IITR:1804#MA:IITGN:2002#MA:IITBBS:1902#MA:IITH:2102#MA:IITRPR:2301#MA:IITI:2203#MA:IITJ:2403#MA:IISc:1101#MA:IITB:1212#MA:IITB:1213
 M117E47, MA, 2403, GEN, 15, 268, 35.33, GEN, false, MA411112-M0, 268, 35.33, --, --, --, XXXX-1302-1502-1206-1214-1603-1804-1702-1402-2102-2002-XXXX-2301-2203-2403-1902-XXXX-1905, MA:IISc:1103#MA:IITD:1302#MA:IITK:1502#MA:IITB:1206#MA:IITB:1214#MA:IITKgp:1603#MA:IITR:1804#MA:IITM:1702#MA:IITG:1402#MA:IITH:2102#MA:IITGN:2002#MA:IITB:1212#MA:IITRPR:2301#MA:IITI:2203#MA:IITJ:2403#MA:IITBBS:1902#MA:IITB:1213#MA:IITBBS:1905
 M104N83, CY, 1205, SC, 1, 269, 50.67, SC, false, CY610247-M2, 269, 50.67, --, --, --, 1205-1102-1501-1601-1701, CY:IITB:1205#CY:IISc:1102#CY:IITK:1501#CY:IITKgp:1601#CY:IITM:1701
+M110G70, MA, 2403, GEN, 8, 271, 35.33, GEN, false, MA307073-M1, 271, 35.33, --, --, --, 2102-1402-1804-2002-2203-1603-1502-2403-1702-1902-1302-XXXX, MA:IITH:2102#MA:IITG:1402#MA:IITR:1804#MA:IITGN:2002#MA:IITI:2203#MA:IITKgp:1603#MA:IITK:1502#MA:IITJ:2403#MA:IITM:1702#MA:IITBBS:1902#MA:IITD:1302#MA:IISc:1103
 M105D61, MS, 1504, SC, 2, 272, 25, SC, false, MS608008-M2, 272, 25, --, --, --, 1203-1504-1214, MS:IITB:1203#MS:IITK:1504#MS:IITB:1214
 M104V47, PH, 1503, SC, 1, 273, 34.67, SC, false, PH611104-M1, 273, 34.67, --, --, --, 1503-1207-1703-1303-1604-1403-XXXX-1805-2103-2003-1903-2202-2402-2303, PH:IITK:1503#PH:IITB:1207#PH:IITM:1703#PH:IITD:1303#PH:IITKgp:1604#PH:IITG:1403#PH:IISc:1104#PH:IITR:1805#PH:IITH:2103#PH:IITGN:2003#PH:IITBBS:1903#PH:IITI:2202#PH:IITJ:2402#PH:IITRPR:2303
 M103C30, MA, 1804, OBC, 2, 275, 35.33, OBC, false, MA322064-M1, 275, 35.33, --, --, --, 1302-1804-1502-1603-1206-1702-1402-2403, MA:IITD:1302#MA:IITR:1804#MA:IITK:1502#MA:IITKgp:1603#MA:IITB:1206#MA:IITM:1702#MA:IITG:1402#MA:IITJ:2403
@@ -1989,14 +1413,14 @@ M102A24, CY, 1601, SC, 1, 451, 45.33, SC, false, CY610138-M2, 451, 45.33, --, --
 M105Z82, PH, 1703, OBC, 3, 453, 29.67, OBC, false, PH514038-M1, 453, 29.67, --, --, --, 1503-1207-1703-1303-1805-1403-1604-1216-1215-2003, PH:IITK:1503#PH:IITB:1207#PH:IITM:1703#PH:IITD:1303#PH:IITR:1805#PH:IITG:1403#PH:IITKgp:1604#PH:IITB:1216#PH:IITB:1215#PH:IITGN:2003
 M112H62, PH, 1805, OBC, 4, 454, 29.67, OBC, false, PH205142-M0, 454, 29.67, --, --, --, 1503-1207-1303-1805-XXXX-1215-XXXX-1703-1604-1403-2202-2103-2003-2402-1903-2303, PH:IITK:1503#PH:IITB:1207#PH:IITD:1303#PH:IITR:1805#PH:IITK:1505#PH:IITB:1215#PH:IISc:1104#PH:IITM:1703#PH:IITKgp:1604#PH:IITG:1403#PH:IITI:2202#PH:IITH:2103#PH:IITGN:2003#PH:IITJ:2402#PH:IITBBS:1903#PH:IITRPR:2303
 M116F42, MA, 2301, OBC, 6, 455, 31, OBC, false, MA509247-M0, 455, 31, --, --, --, 1902-1603-1302-1502-1804-2301-1206-2002-2102-1905-XXXX-1702-XXXX-1214-1402, MA:IITBBS:1902#MA:IITKgp:1603#MA:IITD:1302#MA:IITK:1502#MA:IITR:1804#MA:IITRPR:2301#MA:IITB:1206#MA:IITGN:2002#MA:IITH:2102#MA:IITBBS:1905#MA:IITB:1213#MA:IITM:1702#MA:IITB:1212#MA:IITB:1214#MA:IITG:1402
-M117Y95, MA, 2203, OBC, 7, 455, 31, OBC, false, MA511235-M1, 455, 31, --, --, --, 1206-1302-1804-1502-1902-XXXX-2203-1603-1702-2301-2102-2403-2002, MA:IITB:1206#MA:IITD:1302#MA:IITR:1804#MA:IITK:1502#MA:IITBBS:1902#MA:IISc:1103#MA:IITI:2203#MA:IITKgp:1603#MA:IITM:1702#MA:IITRPR:2301#MA:IITH:2102#MA:IITJ:2403#MA:IITGN:2002
+M117Y95, MA, 1902, OBC, 5, 455, 31, OBC, false, MA511235-M1, 455, 31, --, --, --, 1206-1302-1804-1502-1902-XXXX-2203-1603-1702-2301-2102-2403-2002, MA:IITB:1206#MA:IITD:1302#MA:IITR:1804#MA:IITK:1502#MA:IITBBS:1902#MA:IISc:1103#MA:IITI:2203#MA:IITKgp:1603#MA:IITM:1702#MA:IITRPR:2301#MA:IITH:2102#MA:IITJ:2403#MA:IITGN:2002
 M112H77, MA, 2203, OBC, 10, 461, 31, OBC, false, MA616145-M0, 461, 31, MS616147-M0, 283, 24.67, 1206-1502-1302-1603-1702-1804-1402-2102-2002-2203-2301-1902, MA:IITB:1206#MA:IITK:1502#MA:IITD:1302#MA:IITKgp:1603#MA:IITM:1702#MA:IITR:1804#MA:IITG:1402#MA:IITH:2102#MA:IITGN:2002#MA:IITI:2203#MA:IITRPR:2301#MA:IITBBS:1902
 M109P45, CY, 1701, OBC, 4, 463, 45, OBC, false, CY403225-M2, 463, 45, --, --, --, 1601-1205-1501-1701-1401-1301-2201-1803-2101-1901-2001-2302-2401, CY:IITKgp:1601#CY:IITB:1205#CY:IITK:1501#CY:IITM:1701#CY:IITG:1401#CY:IITD:1301#CY:IITI:2201#CY:IITR:1803#CY:IITH:2101#CY:IITBBS:1901#CY:IITGN:2001#CY:IITRPR:2302#CY:IITJ:2401
 M115D29, CY, 1803, OBC, 7, 466, 45, OBC, false, CY503088-M2, 466, 45, --, --, --, 1102-1211-1205-1601-1301-1501-1803-1401-2001-1701-2101-2201-2302-2401, CY:IISc:1102#CY:IITB:1211#CY:IITB:1205#CY:IITKgp:1601#CY:IITD:1301#CY:IITK:1501#CY:IITR:1803#CY:IITG:1401#CY:IITGN:2001#CY:IITM:1701#CY:IITH:2101#CY:IITI:2201#CY:IITRPR:2302#CY:IITJ:2401
 M101H53, CY, 1803, OBC, 5, 466, 45, OBC, false, CY323246-M2, 466, 45, --, --, --, 1102-1205-1501-1301-1803-1601-2001-1901-2201-2101-1401-2302, CY:IISc:1102#CY:IITB:1205#CY:IITK:1501#CY:IITD:1301#CY:IITR:1803#CY:IITKgp:1601#CY:IITGN:2001#CY:IITBBS:1901#CY:IITI:2201#CY:IITH:2101#CY:IITG:1401#CY:IITRPR:2302
 M115V31, MS, 1905, SC, 4, 467, 18.67, SC, false, MS610082-M0, 467, 18.67, --, --, --, XXXX-1214-1203-1905-1504, MS:IISc:1103#MS:IITB:1214#MS:IITB:1203#MS:IITBBS:1905#MS:IITK:1504
 M102X98, MA, 2403, OBC, 10, 467, 31, OBC, false, MA304157-M1, 467, 31, --, --, --, 1302-1502-1206-1804-1402-2102-1702-2002-2301-2403-2203-1603-1902-1905-XXXX-XXXX-1214, MA:IITD:1302#MA:IITK:1502#MA:IITB:1206#MA:IITR:1804#MA:IITG:1402#MA:IITH:2102#MA:IITM:1702#MA:IITGN:2002#MA:IITRPR:2301#MA:IITJ:2403#MA:IITI:2203#MA:IITKgp:1603#MA:IITBBS:1902#MA:IITBBS:1905#MA:IITB:1212#MA:IITB:1213#MA:IITB:1214
-M101Q92, MA, 2403, OBC, 14, 468, 30.67, OBC, false, MA610197-M1, 468, 30.67, --, --, --, XXXX-1206-1502-1603-1702-1402-1302-1804-2102-1902-2002-2203-2301-2403, MA:IISc:1103#MA:IITB:1206#MA:IITK:1502#MA:IITKgp:1603#MA:IITM:1702#MA:IITG:1402#MA:IITD:1302#MA:IITR:1804#MA:IITH:2102#MA:IITBBS:1902#MA:IITGN:2002#MA:IITI:2203#MA:IITRPR:2301#MA:IITJ:2403
+M101Q92, MA, 2203, OBC, 12, 468, 30.67, OBC, false, MA610197-M1, 468, 30.67, --, --, --, XXXX-1206-1502-1603-1702-1402-1302-1804-2102-1902-2002-2203-2301-2403, MA:IISc:1103#MA:IITB:1206#MA:IITK:1502#MA:IITKgp:1603#MA:IITM:1702#MA:IITG:1402#MA:IITD:1302#MA:IITR:1804#MA:IITH:2102#MA:IITBBS:1902#MA:IITGN:2002#MA:IITI:2203#MA:IITRPR:2301#MA:IITJ:2403
 M108K81, PH, 1604, OBC, 6, 470, 29.67, OBC, false, PH314182-M1, 470, 29.67, --, --, --, XXXX-1303-1503-1207-1805-1604-1403-2103-2003-1703-2202-1903-2303-2402, PH:IISc:1104#PH:IITD:1303#PH:IITK:1503#PH:IITB:1207#PH:IITR:1805#PH:IITKgp:1604#PH:IITG:1403#PH:IITH:2103#PH:IITGN:2003#PH:IITM:1703#PH:IITI:2202#PH:IITBBS:1903#PH:IITRPR:2303#PH:IITJ:2402
 M120U11, CY, 1803, OBC, 2, 470, 45, OBC, false, CY303056-M2, 470, 45, --, --, --, 1301-1803-1205-1701-1401, CY:IITD:1301#CY:IITR:1803#CY:IITB:1205#CY:IITM:1701#CY:IITG:1401
 M104J52, PH, 1703, OBC, 5, 471, 29.67, OBC, false, PH703181-M1, 471, 29.67, --, --, --, 1207-XXXX-1503-1303-1703-1604-1805-1403-2103-2202-1216-2003-1605-1903, PH:IITB:1207#PH:IISc:1104#PH:IITK:1503#PH:IITD:1303#PH:IITM:1703#PH:IITKgp:1604#PH:IITR:1805#PH:IITG:1403#PH:IITH:2103#PH:IITI:2202#PH:IITB:1216#PH:IITGN:2003#PH:IITKgp:1605#PH:IITBBS:1903
@@ -2009,6 +1433,7 @@ M105H81, CY, 1701, OBC, 3, 482, 44.33, OBC, false, CY611044-M2, 482, 44.33, --, 
 M107Q46, CY, 1205, SC, 3, 484, 44.33, SC, false, CY403203-M2, 484, 44.33, --, --, --, 1501-1601-1205-1301-1701-1401-1803-2001-2201-2101, CY:IITK:1501#CY:IITKgp:1601#CY:IITB:1205#CY:IITD:1301#CY:IITM:1701#CY:IITG:1401#CY:IITR:1803#CY:IITGN:2001#CY:IITI:2201#CY:IITH:2101
 M105G82, CY, 2001, OBC, 6, 484, 44.33, OBC, false, CY323354-M2, 484, 44.33, --, --, --, 1205-1301-1803-1501-1102-2001-2201-2101-1401-1601-2302-2401, CY:IITB:1205#CY:IITD:1301#CY:IITR:1803#CY:IITK:1501#CY:IISc:1102#CY:IITGN:2001#CY:IITI:2201#CY:IITH:2101#CY:IITG:1401#CY:IITKgp:1601#CY:IITRPR:2302#CY:IITJ:2401
 M103B57, CY, 1301, SC, 1, 484, 44.33, SC, false, CY303226-M2, 484, 44.33, --, --, --, 1301-1803, CY:IITD:1301#CY:IITR:1803
+M114S87, MA, 2403, OBC, 10, 485, 30.33, OBC, false, MA511175-M1, 485, 30.33, --, --, --, 1206-1302-1502-1804-2002-1702-1402-2203-2301-2403-2102-1603, MA:IITB:1206#MA:IITD:1302#MA:IITK:1502#MA:IITR:1804#MA:IITGN:2002#MA:IITM:1702#MA:IITG:1402#MA:IITI:2203#MA:IITRPR:2301#MA:IITJ:2403#MA:IITH:2102#MA:IITKgp:1603
 M101D85, PH, 1703, OBC, 3, 493, 29, OBC, false, PH403126-M1, 493, 29, --, --, --, 1604-1303-1703-1403-2103-1215-1805-1903-2202-2003-2402-2303, PH:IITKgp:1604#PH:IITD:1303#PH:IITM:1703#PH:IITG:1403#PH:IITH:2103#PH:IITB:1215#PH:IITR:1805#PH:IITBBS:1903#PH:IITI:2202#PH:IITGN:2003#PH:IITJ:2402#PH:IITRPR:2303
 M107G75, PH, 1703, OBC, 3, 493, 29, OBC, false, PH302032-M1, 493, 29, --, --, --, 1303-1207-1703-1805-XXXX-1215-XXXX-1604-XXXX-2103-1403-1903-2003-2303, PH:IITD:1303#PH:IITB:1207#PH:IITM:1703#PH:IITR:1805#PH:IITK:1505#PH:IITB:1215#PH:IITB:1212#PH:IITKgp:1604#PH:IITB:1209#PH:IITH:2103#PH:IITG:1403#PH:IITBBS:1903#PH:IITGN:2003#PH:IITRPR:2303
 M106D95, CY, 1701, OBC, 3, 494, 44.33, OBC, false, CY608064-M2, 494, 44.33, --, --, --, 1601-1501-1701-1205-1211-1401-1301-1803-1102-1901-2101-2201-2001-2302-2401, CY:IITKgp:1601#CY:IITK:1501#CY:IITM:1701#CY:IITB:1205#CY:IITB:1211#CY:IITG:1401#CY:IITD:1301#CY:IITR:1803#CY:IISc:1102#CY:IITBBS:1901#CY:IITH:2101#CY:IITI:2201#CY:IITGN:2001#CY:IITRPR:2302#CY:IITJ:2401
@@ -2133,6 +1558,10 @@ M117S91, CY, 2201, OBC, 6, 682, 40, OBC, false, CY325159-M2, 682, 40, --, --, --
 M110R46, PH, 1303, SC, 1, 682, 26, SC, false, GG325026-M0, 917, 18.67, PH325026-M0, 682, 26, 1303-1503-1805-1207-1216-1703-1403-2402-1604-XXXX-1903-2202-2003-2103, PH:IITD:1303#PH:IITK:1503#PH:IITR:1805#PH:IITB:1207#PH:IITB:1216#PH:IITM:1703#PH:IITG:1403#PH:IITJ:2402#PH:IITKgp:1604#PH:IISc:1104#PH:IITBBS:1903#PH:IITI:2202#PH:IITGN:2003#PH:IITH:2103
 M110R28, CY, 1901, OBC, 11, 686, 40, OBC, false, CY322120-M2, 686, 40, --, --, --, 1301-1102-1205-1211-1803-1501-1601-2001-1701-2101-1901-2201-2302-2401, CY:IITD:1301#CY:IISc:1102#CY:IITB:1205#CY:IITB:1211#CY:IITR:1803#CY:IITK:1501#CY:IITKgp:1601#CY:IITGN:2001#CY:IITM:1701#CY:IITH:2101#CY:IITBBS:1901#CY:IITI:2201#CY:IITRPR:2302#CY:IITJ:2401
 M105U50, MS, 1504, ST, 3, 686, 14, ST, false, MA806007-M0, 2099, 16.67, MS806005-M0, 686, 14, 1302-1206-1504-1203-1214-1214-2102-1502-1702-1902-1603-1804-2301-1402-2002-2203-2403, MA:IITD:1302#MA:IITB:1206#MS:IITK:1504#MS:IITB:1203#MS:IITB:1214#MA:IITB:1214#MA:IITH:2102#MA:IITK:1502#MA:IITM:1702#MA:IITBBS:1902#MA:IITKgp:1603#MA:IITR:1804#MA:IITRPR:2301#MA:IITG:1402#MA:IITGN:2002#MA:IITI:2203#MA:IITJ:2403
+M107F68, PH, 2003, OBC, 11, 690, 26, OBC, false, PH403201-M1, 690, 26, --, --, --, 1207-1303-1604-1703-1403-XXXX-XXXX-1215-1903-1805-2003-2103-2202-2402-1216-2303-1202-XXXX-1605, PH:IITB:1207#PH:IITD:1303#PH:IITKgp:1604#PH:IITM:1703#PH:IITG:1403#PH:IISc:1104#PH:IITK:1505#PH:IITB:1215#PH:IITBBS:1903#PH:IITR:1805#PH:IITGN:2003#PH:IITH:2103#PH:IITI:2202#PH:IITJ:2402#PH:IITB:1216#PH:IITRPR:2303#PH:IITB:1202#PH:IITB:1209#PH:IITKgp:1605
+M114Y59, PH, 2303, OBC, 11, 690, 26, OBC, false, PH305277-M1, 690, 26, --, --, --, 1805-1403-1703-1303-2003-2402-1604-2202-1503-1207-2303-1903-1102-2103, PH:IITR:1805#PH:IITG:1403#PH:IITM:1703#PH:IITD:1303#PH:IITGN:2003#PH:IITJ:2402#PH:IITKgp:1604#PH:IITI:2202#PH:IITK:1503#PH:IITB:1207#PH:IITRPR:2303#PH:IITBBS:1903#PH:IISc:1102#PH:IITH:2103
+M105D50, PH, 2103, OBC, 6, 690, 26, OBC, false, PH114125-M1, 690, 26, --, --, --, 1805-1403-1303-2202-1903-2103-2003-2402, PH:IITR:1805#PH:IITG:1403#PH:IITD:1303#PH:IITI:2202#PH:IITBBS:1903#PH:IITH:2103#PH:IITGN:2003#PH:IITJ:2402
+M103E70, PH, 2103, OBC, 11, 690, 26, OBC, false, PH610319-M1, 690, 26, --, --, --, 1605-1202-XXXX-1604-1215-1303-1703-1805-1403-1903-2103-2303-2003, PH:IITKgp:1605#PH:IITB:1202#PH:IITB:1209#PH:IITKgp:1604#PH:IITB:1215#PH:IITD:1303#PH:IITM:1703#PH:IITR:1805#PH:IITG:1403#PH:IITBBS:1903#PH:IITH:2103#PH:IITRPR:2303#PH:IITGN:2003
 M112Y51, CY, 1803, SC, 5, 701, 39.67, SC, false, CY324226-M2, 701, 39.67, --, --, --, 1301-1205-1501-1102-1803-1401-1701-1101-2401-2101-XXXX, CY:IITD:1301#CY:IITB:1205#CY:IITK:1501#CY:IISc:1102#CY:IITR:1803#CY:IITG:1401#CY:IITM:1701#CY:IISc:1101#CY:IITJ:2401#CY:IITH:2101#CY:IITB:1213
 M107V99, CY, 1401, SC, 3, 708, 39.67, SC, false, CY605030-M2, 708, 39.67, --, --, --, 1501-1601-1401-1701, CY:IITK:1501#CY:IITKgp:1601#CY:IITG:1401#CY:IITM:1701
 M121R18, MA, 1603, SC, 2, 718, 27, SC, false, MA805086-M1, 718, 27, --, --, --, 1302-1603-1702-1206-1502-2002-1402, MA:IITD:1302#MA:IITKgp:1603#MA:IITM:1702#MA:IITB:1206#MA:IITK:1502#MA:IITGN:2002#MA:IITG:1402
@@ -2145,7 +1574,7 @@ M104S44, PH, 1604, SC, 2, 737, 25.33, SC, false, PH611093-M1, 737, 25.33, --, --
 M104G26, MA, 1804, SC, 5, 737, 26.67, SC, false, MA326106-M1, 737, 26.67, --, --, --, XXXX-1206-1302-1502-1804-1402-1603-2102-2002-1702, MA:IISc:1103#MA:IITB:1206#MA:IITD:1302#MA:IITK:1502#MA:IITR:1804#MA:IITG:1402#MA:IITKgp:1603#MA:IITH:2102#MA:IITGN:2002#MA:IITM:1702
 M109Z44, MS, 1203, GEN-PwD, 1, 763, 12.67, GEN, true, MS510002-M2, 763, 12.67, --, --, --, 1203-1214-1504-XXXX, MS:IITB:1203#MS:IITB:1214#MS:IITK:1504#MS:IISc:1103
 M112B10, MA, 1804, SC, 4, 775, 26, SC, false, MA327283-M1, 775, 26, --, --, --, 1206-1302-1502-1804-1603-1402-1702, MA:IITB:1206#MA:IITD:1302#MA:IITK:1502#MA:IITR:1804#MA:IITKgp:1603#MA:IITG:1402#MA:IITM:1702
-M118D80, PH, 1605, SC, 14, 776, 25, SC, false, PH511238-M1, 776, 25, --, --, --, 1101-XXXX-XXXX-1215-XXXX-XXXX-XXXX-1102-1202-XXXX-XXXX-XXXX-XXXX-1605-2303-1703-1303-1403-1805-1503-2402-2202-2103, PH:IISc:1101#PH:IISc:1104#PH:IITB:1216#PH:IITB:1215#PH:IITB:1213#PH:IITB:1212#PH:IITB:1207#PH:IISc:1102#PH:IITB:1202#PH:IITB:1209#PH:IITK:1505#PH:IITB:1210#PH:IITKgp:1604#PH:IITKgp:1605#PH:IITRPR:2303#PH:IITM:1703#PH:IITD:1303#PH:IITG:1403#PH:IITR:1805#PH:IITK:1503#PH:IITJ:2402#PH:IITI:2202#PH:IITH:2103
+M118D80, PH, 2303, SC, 15, 776, 25, SC, false, PH511238-M1, 776, 25, --, --, --, 1101-XXXX-XXXX-1215-XXXX-XXXX-XXXX-1102-1202-XXXX-XXXX-XXXX-XXXX-1605-2303-1703-1303-1403-1805-1503-2402-2202-2103, PH:IISc:1101#PH:IISc:1104#PH:IITB:1216#PH:IITB:1215#PH:IITB:1213#PH:IITB:1212#PH:IITB:1207#PH:IISc:1102#PH:IITB:1202#PH:IITB:1209#PH:IITK:1505#PH:IITB:1210#PH:IITKgp:1604#PH:IITKgp:1605#PH:IITRPR:2303#PH:IITM:1703#PH:IITD:1303#PH:IITG:1403#PH:IITR:1805#PH:IITK:1503#PH:IITJ:2402#PH:IITI:2202#PH:IITH:2103
 M109V85, CY, 1905, OBC, 4, 784, 38.33, OBC, false, CY324160-M2, 784, 38.33, --, --, --, 1701-2001-2101-1905-2302-1901-1101-1102-1205-XXXX-1211-XXXX-XXXX-1301-1401-2201-1501-1601-1803-2401, CY:IITM:1701#CY:IITGN:2001#CY:IITH:2101#CY:IITBBS:1905#CY:IITRPR:2302#CY:IITBBS:1901#CY:IISc:1101#CY:IISc:1102#CY:IITB:1205#CY:IITB:1210#CY:IITB:1211#CY:IITB:1212#CY:IITB:1213#CY:IITD:1301#CY:IITG:1401#CY:IITI:2201#CY:IITK:1501#CY:IITKgp:1601#CY:IITR:1803#CY:IITJ:2401
 M101Q38, GG, 1904, ST, 2, 786, 22.33, ST, false, GG616169-M2, 786, 22.33, --, --, --, 1605-1904-1602-1905-XXXX-1201-1801, GG:IITKgp:1605#GG:IITBBS:1904#GG:IITKgp:1602#GG:IITBBS:1905#GG:IITB:1208#GG:IITB:1201#GG:IITR:1801
 M106W66, MA, 1603, SC, 2, 791, 26, SC, false, MA608043-M1, 791, 26, --, --, --, XXXX-1603-1402-1206-1502-1302-1702-1902-1804-2002-2301-2403-2203, MA:IISc:1103#MA:IITKgp:1603#MA:IITG:1402#MA:IITB:1206#MA:IITK:1502#MA:IITD:1302#MA:IITM:1702#MA:IITBBS:1902#MA:IITR:1804#MA:IITGN:2002#MA:IITRPR:2301#MA:IITJ:2403#MA:IITI:2203
@@ -2177,8 +1606,8 @@ M113W58, CY, 1701, SC, 3, 939, 36, SC, false, CY404034-M2, 939, 36, --, --, --, 
 M104V89, CY, 1501, GEN-PwD, 2, 939, 36, GEN, true, CY320002-M2, 939, 36, --, --, --, 1205-1501-1301-1701-1601-1901-2302-1102-1803-2101-1211-XXXX-XXXX-XXXX-2201-1401-2401-2001, CY:IITB:1205#CY:IITK:1501#CY:IITD:1301#CY:IITM:1701#CY:IITKgp:1601#CY:IITBBS:1901#CY:IITRPR:2302#CY:IISc:1102#CY:IITR:1803#CY:IITH:2101#CY:IITB:1211#CY:IITB:1212#CY:IITB:1210#CY:IITB:1213#CY:IITI:2201#CY:IITG:1401#CY:IITJ:2401#CY:IITGN:2001
 M114Y61, CY, 1803, SC, 3, 945, 35.67, SC, false, CY325119-M2, 945, 35.67, --, --, --, 1301-1102-1803-1211-1501-1601, CY:IITD:1301#CY:IISc:1102#CY:IITR:1803#CY:IITB:1211#CY:IITK:1501#CY:IITKgp:1601
 M111G44, PH, 1303, SC, 2, 952, 23, SC, false, PH314250-M1, 952, 23, --, --, --, XXXX-1303-1215-1805-1604-XXXX-2003-1403-2103-2202-1903-2303, PH:IISc:1104#PH:IITD:1303#PH:IITB:1215#PH:IITR:1805#PH:IITKgp:1604#PH:IITK:1505#PH:IITGN:2003#PH:IITG:1403#PH:IITH:2103#PH:IITI:2202#PH:IITBBS:1903#PH:IITRPR:2303
-M102D76, PH, 1303, SC, 4, 952, 23, SC, false, PH304131-M1, 952, 23, --, --, --, 1202-XXXX-1605-1303-XXXX-1503-1207-1805-1703-1403-1604-1216-2103-1903-XXXX-1215-2202-2003-2303-2402-1905-XXXX-XXXX-1102, PH:IITB:1202#PH:IITB:1209#PH:IITKgp:1605#PH:IITD:1303#PH:IISc:1104#PH:IITK:1503#PH:IITB:1207#PH:IITR:1805#PH:IITM:1703#PH:IITG:1403#PH:IITKgp:1604#PH:IITB:1216#PH:IITH:2103#PH:IITBBS:1903#PH:IITK:1505#PH:IITB:1215#PH:IITI:2202#PH:IITGN:2003#PH:IITRPR:2303#PH:IITJ:2402#PH:IITBBS:1905#PH:IITB:1212#PH:IITB:1213#PH:IISc:1102
-M113Z20, PH, 1403, SC, 5, 961, 23, SC, false, PH413048-M1, 961, 23, --, --, --, 1202-1207-1303-1503-1403-1216-1805-1604-2103-1605-2003-1903-1703-1905-2303, PH:IITB:1202#PH:IITB:1207#PH:IITD:1303#PH:IITK:1503#PH:IITG:1403#PH:IITB:1216#PH:IITR:1805#PH:IITKgp:1604#PH:IITH:2103#PH:IITKgp:1605#PH:IITGN:2003#PH:IITBBS:1903#PH:IITM:1703#PH:IITBBS:1905#PH:IITRPR:2303
+M102D76, PH, 1605, SC, 3, 952, 23, SC, false, PH304131-M1, 952, 23, --, --, --, 1202-XXXX-1605-1303-XXXX-1503-1207-1805-1703-1403-1604-1216-2103-1903-XXXX-1215-2202-2003-2303-2402-1905-XXXX-XXXX-1102, PH:IITB:1202#PH:IITB:1209#PH:IITKgp:1605#PH:IITD:1303#PH:IISc:1104#PH:IITK:1503#PH:IITB:1207#PH:IITR:1805#PH:IITM:1703#PH:IITG:1403#PH:IITKgp:1604#PH:IITB:1216#PH:IITH:2103#PH:IITBBS:1903#PH:IITK:1505#PH:IITB:1215#PH:IITI:2202#PH:IITGN:2003#PH:IITRPR:2303#PH:IITJ:2402#PH:IITBBS:1905#PH:IITB:1212#PH:IITB:1213#PH:IISc:1102
+M113Z20, PH, 1303, SC, 3, 961, 23, SC, false, PH413048-M1, 961, 23, --, --, --, 1202-1207-1303-1503-1403-1216-1805-1604-2103-1605-2003-1903-1703-1905-2303, PH:IITB:1202#PH:IITB:1207#PH:IITD:1303#PH:IITK:1503#PH:IITG:1403#PH:IITB:1216#PH:IITR:1805#PH:IITKgp:1604#PH:IITH:2103#PH:IITKgp:1605#PH:IITGN:2003#PH:IITBBS:1903#PH:IITM:1703#PH:IITBBS:1905#PH:IITRPR:2303
 M108X34, CY, 1701, SC, 5, 965, 35.33, SC, false, CY611235-M2, 965, 35.33, --, --, --, 1501-1205-1601-1102-1701-1301-1401-1803-2101-1901-2201-2302, CY:IITK:1501#CY:IITB:1205#CY:IITKgp:1601#CY:IISc:1102#CY:IITM:1701#CY:IITD:1301#CY:IITG:1401#CY:IITR:1803#CY:IITH:2101#CY:IITBBS:1901#CY:IITI:2201#CY:IITRPR:2302
 M102G68, CY, 2302, SC, 2, 968, 35.33, SC, false, CY610148-M2, 968, 35.33, --, --, --, 1211-2302-1301-1803-1701-2101-2001-1901, CY:IITB:1211#CY:IITRPR:2302#CY:IITD:1301#CY:IITR:1803#CY:IITM:1701#CY:IITH:2101#CY:IITGN:2001#CY:IITBBS:1901
 M116P79, CY, 1205, ST, 2, 980, 35.33, ST, false, CY102057-M2, 980, 35.33, --, --, --, XXXX-1205-1701-1301, CY:IITK:1501#CY:IITB:1205#CY:IITM:1701#CY:IITD:1301
@@ -2231,7 +1660,7 @@ M115G16, CY, 2101, SC, 3, 1208, 32, SC, false, CY412034-M2, 1208, 32, --, --, --
 M110V72, PH, 1403, SC, 1, 1209, 21, SC, false, PH612196-M1, 1209, 21, --, --, --, 1403-1703-2103-1805-2402-1207-1216, PH:IITG:1403#PH:IITM:1703#PH:IITH:2103#PH:IITR:1805#PH:IITJ:2402#PH:IITB:1207#PH:IITB:1216
 M118J67, MA, 1502, SC-PwD, 3, 1214, 22, SC, true, MA312001-M1, 1214, 22, --, --, --, XXXX-1206-1502-1302-2203-1603-1702-1402-1902-2002-1804-2403-2301-2102, MA:IISc:1103#MA:IITB:1206#MA:IITK:1502#MA:IITD:1302#MA:IITI:2203#MA:IITKgp:1603#MA:IITM:1702#MA:IITG:1402#MA:IITBBS:1902#MA:IITGN:2002#MA:IITR:1804#MA:IITJ:2403#MA:IITRPR:2301#MA:IITH:2102
 M101W39, CY, 2201, SC, 14, 1216, 32, SC, false, CY804042-M2, 1216, 32, --, --, --, 1301-1803-1205-1102-1501-1601-1401-1701-1211-XXXX-1901-XXXX-2101-2201, CY:IITD:1301#CY:IITR:1803#CY:IITB:1205#CY:IISc:1102#CY:IITK:1501#CY:IITKgp:1601#CY:IITG:1401#CY:IITM:1701#CY:IITB:1211#CY:IITB:1212#CY:IITBBS:1901#CY:IITB:1213#CY:IITH:2101#CY:IITI:2201
-M105U73, PH, 1703, SC, 11, 1220, 21, SC, false, PH304289-M1, 1220, 21, --, --, --, XXXX-1207-1202-XXXX-XXXX-XXXX-1303-1503-XXXX-1403-1703-1215-1805-1604-1605-2402-2303-2103-2202-XXXX-2003-1905-1903, PH:IISc:1104#PH:IITB:1207#PH:IITB:1202#PH:IITB:1209#PH:IITB:1212#PH:IITB:1213#PH:IITD:1303#PH:IITK:1503#PH:IITK:1505#PH:IITG:1403#PH:IITM:1703#PH:IITB:1215#PH:IITR:1805#PH:IITKgp:1604#PH:IITKgp:1605#PH:IITJ:2402#PH:IITRPR:2303#PH:IITH:2103#PH:IITI:2202#PH:IITB:1210#PH:IITGN:2003#PH:IITBBS:1905#PH:IITBBS:1903
+M105U73, PH, 1403, SC, 10, 1220, 21, SC, false, PH304289-M1, 1220, 21, --, --, --, XXXX-1207-1202-XXXX-XXXX-XXXX-1303-1503-XXXX-1403-1703-1215-1805-1604-1605-2402-2303-2103-2202-XXXX-2003-1905-1903, PH:IISc:1104#PH:IITB:1207#PH:IITB:1202#PH:IITB:1209#PH:IITB:1212#PH:IITB:1213#PH:IITD:1303#PH:IITK:1503#PH:IITK:1505#PH:IITG:1403#PH:IITM:1703#PH:IITB:1215#PH:IITR:1805#PH:IITKgp:1604#PH:IITKgp:1605#PH:IITJ:2402#PH:IITRPR:2303#PH:IITH:2103#PH:IITI:2202#PH:IITB:1210#PH:IITGN:2003#PH:IITBBS:1905#PH:IITBBS:1903
 M105Z92, PH, 1805, SC, 4, 1221, 21, SC, false, PH314125-M1, 1221, 21, --, --, --, 1503-1207-1303-1805-2003-2202-2402-1703-2103-1403-2303-1903, PH:IITK:1503#PH:IITB:1207#PH:IITD:1303#PH:IITR:1805#PH:IITGN:2003#PH:IITI:2202#PH:IITJ:2402#PH:IITM:1703#PH:IITH:2103#PH:IITG:1403#PH:IITRPR:2303#PH:IITBBS:1903
 M111F39, PH, 1703, SC, 6, 1222, 20.67, SC, false, PH612211-M1, 1222, 20.67, --, --, --, 1207-1216-1503-1303-1805-1703-1403-2103-1604-2003, PH:IITB:1207#PH:IITB:1216#PH:IITK:1503#PH:IITD:1303#PH:IITR:1805#PH:IITM:1703#PH:IITG:1403#PH:IITH:2103#PH:IITKgp:1604#PH:IITGN:2003
 M104U29, PH, 1703, SC, 7, 1222, 20.67, SC, false, PH403176-M1, 1222, 20.67, --, --, --, 1604-1503-1403-1303-1207-1805-1703-2103, PH:IITKgp:1604#PH:IITK:1503#PH:IITG:1403#PH:IITD:1303#PH:IITB:1207#PH:IITR:1805#PH:IITM:1703#PH:IITH:2103
@@ -2244,22 +1673,22 @@ M118R93, MA, 1502, ST, 3, 1265, 21.67, ST, false, MA201172-M1, 1265, 21.67, --, 
 M122C63, PH, 2402, SC, 5, 1278, 20.67, SC, false, PH511306-M1, 1278, 20.67, --, --, --, 1503-XXXX-1303-1805-2402-2303-2202-2003-1403-1903-2103-1604-1605-XXXX-1703-1215, PH:IITK:1503#PH:IITK:1505#PH:IITD:1303#PH:IITR:1805#PH:IITJ:2402#PH:IITRPR:2303#PH:IITI:2202#PH:IITGN:2003#PH:IITG:1403#PH:IITBBS:1903#PH:IITH:2103#PH:IITKgp:1604#PH:IITKgp:1605#PH:IISc:1104#PH:IITM:1703#PH:IITB:1215
 M103D72, MA, 1402, SC, 1, 1280, 21.33, SC, false, MA412136-M1, 1280, 21.33, --, --, --, 1402-1702-2102-1902-2002-1603-1804-2203-2403-2301, MA:IITG:1402#MA:IITM:1702#MA:IITH:2102#MA:IITBBS:1902#MA:IITGN:2002#MA:IITKgp:1603#MA:IITR:1804#MA:IITI:2203#MA:IITJ:2403#MA:IITRPR:2301
 M102U72, MA, 1402, SC, 6, 1280, 21.33, SC, false, MA605165-M1, 1280, 21.33, --, --, --, 1603-1902-1502-1702-1302-1402-2102, MA:IITKgp:1603#MA:IITBBS:1902#MA:IITK:1502#MA:IITM:1702#MA:IITD:1302#MA:IITG:1402#MA:IITH:2102
-M110Q44, PH, 2103, SC, 3, 1282, 20.33, SC, false, PH612180-M1, 1282, 20.33, --, --, --, 1403-1703-2103-1207-1303-2003, PH:IITG:1403#PH:IITM:1703#PH:IITH:2103#PH:IITB:1207#PH:IITD:1303#PH:IITGN:2003
+M110Q44, PH, 1703, SC, 2, 1282, 20.33, SC, false, PH612180-M1, 1282, 20.33, --, --, --, 1403-1703-2103-1207-1303-2003, PH:IITG:1403#PH:IITM:1703#PH:IITH:2103#PH:IITB:1207#PH:IITD:1303#PH:IITGN:2003
 M106D65, MA, 1702, GEN-PwD, 2, 1321, 21.33, GEN, true, MA701001-M1, 1321, 21.33, --, --, --, XXXX-1702-1302-1603-1502-2102-2002, MA:IISc:1103#MA:IITM:1702#MA:IITD:1302#MA:IITKgp:1603#MA:IITK:1502#MA:IITH:2102#MA:IITGN:2002
 M114X25, PH, 2202, SC, 6, 1334, 20, SC, false, PH315072-M1, 1334, 20, --, --, --, XXXX-1207-1303-1403-1805-2202-2003-2402-2303-1703-2103-1903-1102-1101-1905-1212-XXXX-XXXX-1216-XXXX-1503-1215-1604, PH:IISc:1104#PH:IITB:1207#PH:IITD:1303#PH:IITG:1403#PH:IITR:1805#PH:IITI:2202#PH:IITGN:2003#PH:IITJ:2402#PH:IITRPR:2303#PH:IITM:1703#PH:IITH:2103#PH:IITBBS:1903#PH:IISc:1102#PH:IISc:1101#PH:IITBBS:1905#PH:IITB:1212#PH:IITB:1209#PH:IITB:1210#PH:IITB:1216#PH:IITK:1505#PH:IITK:1503#PH:IITB:1215#PH:IITKgp:1604
 M109G46, PH, 1303, ST, 1, 1334, 20, ST, false, PH323195-M1, 1334, 20, --, --, --, 1303-1101-XXXX-1503-1805-1216-2103-2402-2003-1903-2202-XXXX-1703-2303, PH:IITD:1303#PH:IISc:1101#PH:IISc:1104#PH:IITK:1503#PH:IITR:1805#PH:IITB:1216#PH:IITH:2103#PH:IITJ:2402#PH:IITGN:2003#PH:IITBBS:1903#PH:IITI:2202#PH:IITK:1505#PH:IITM:1703#PH:IITRPR:2303
 M114C18, CY, 1905, SC, 9, 1340, 30.67, SC, false, CY412098-M2, 1340, 30.67, --, --, --, 1701-1401-1601-2101-1803-1901-1301-1211-1905, CY:IITM:1701#CY:IITG:1401#CY:IITKgp:1601#CY:IITH:2101#CY:IITR:1803#CY:IITBBS:1901#CY:IITD:1301#CY:IITB:1211#CY:IITBBS:1905
 M115D50, MA, 2102, SC, 6, 1347, 21, SC, false, MA413062-M1, 1347, 21, --, --, --, 1206-1302-1502-1402-2002-2102-1804-2301-1902-1702-1603-2403, MA:IITB:1206#MA:IITD:1302#MA:IITK:1502#MA:IITG:1402#MA:IITGN:2002#MA:IITH:2102#MA:IITR:1804#MA:IITRPR:2301#MA:IITBBS:1902#MA:IITM:1702#MA:IITKgp:1603#MA:IITJ:2403
-M115F17, PH, 1903, SC, 2, 1349, 20, SC, true, PH501001-M1, 1349, 20, --, --, --, 2103-1903-2303-2202-2402-2003-1403-1805-XXXX-1703-1503-1604, PH:IITH:2103#PH:IITBBS:1903#PH:IITRPR:2303#PH:IITI:2202#PH:IITJ:2402#PH:IITGN:2003#PH:IITG:1403#PH:IITR:1805#PH:IITB:1212#PH:IITM:1703#PH:IITK:1503#PH:IITKgp:1604
+M115F17, PH, 2103, SC, 1, 1349, 20, SC, true, PH501001-M1, 1349, 20, --, --, --, 2103-1903-2303-2202-2402-2003-1403-1805-XXXX-1703-1503-1604, PH:IITH:2103#PH:IITBBS:1903#PH:IITRPR:2303#PH:IITI:2202#PH:IITJ:2402#PH:IITGN:2003#PH:IITG:1403#PH:IITR:1805#PH:IITB:1212#PH:IITM:1703#PH:IITK:1503#PH:IITKgp:1604
 M110W96, PH, 1703, GEN-PwD, 1, 1349, 20, GEN, true, PH612001-M1, 1349, 20, --, --, --, 1703-1207-1303-1403-1503-2402-2303-2003, PH:IITM:1703#PH:IITB:1207#PH:IITD:1303#PH:IITG:1403#PH:IITK:1503#PH:IITJ:2402#PH:IITRPR:2303#PH:IITGN:2003
 M110P72, CY, 1401, ST, 1, 1368, 30.33, ST, false, CY406024-M2, 1368, 30.33, --, --, --, 1401-1102-1205-1501-2101-1301-1601-1901-1701-2401, CY:IITG:1401#CY:IISc:1102#CY:IITB:1205#CY:IITK:1501#CY:IITH:2101#CY:IITD:1301#CY:IITKgp:1601#CY:IITBBS:1901#CY:IITM:1701#CY:IITJ:2401
 M102C49, MA, 2102, SC, 4, 1390, 20.67, SC, false, MA607028-M1, 1390, 20.67, --, --, --, 1603-1402-1902-2102-1502-1702-2002-1804-2203-1206-1302-2403, MA:IITKgp:1603#MA:IITG:1402#MA:IITBBS:1902#MA:IITH:2102#MA:IITK:1502#MA:IITM:1702#MA:IITGN:2002#MA:IITR:1804#MA:IITI:2203#MA:IITB:1206#MA:IITD:1302#MA:IITJ:2403
 M111S52, PH, 1216, ST, 2, 1390, 19.67, ST, false, PH802145-M1, 1390, 19.67, --, --, --, XXXX-1216-1215-1207-1303-1403-XXXX-1503-1703-1805-1604-1605-1903-1905-2003-2103-2202-2303-2402, PH:IISc:1104#PH:IITB:1216#PH:IITB:1215#PH:IITB:1207#PH:IITD:1303#PH:IITG:1403#PH:IITK:1505#PH:IITK:1503#PH:IITM:1703#PH:IITR:1805#PH:IITKgp:1604#PH:IITKgp:1605#PH:IITBBS:1903#PH:IITBBS:1905#PH:IITGN:2003#PH:IITH:2103#PH:IITI:2202#PH:IITRPR:2303#PH:IITJ:2402
 M108D41, PH, 1903, SC, 12, 1413, 19.67, SC, false, PH412170-M1, 1413, 19.67, --, --, --, XXXX-1503-1207-1303-1403-1604-1703-2103-1805-XXXX-1215-1903-2202-2003-2402-1905-2303-1605-XXXX-1216-XXXX-1202-XXXX-XXXX-1102-1101, PH:IISc:1104#PH:IITK:1503#PH:IITB:1207#PH:IITD:1303#PH:IITG:1403#PH:IITKgp:1604#PH:IITM:1703#PH:IITH:2103#PH:IITR:1805#PH:IITK:1505#PH:IITB:1215#PH:IITBBS:1903#PH:IITI:2202#PH:IITGN:2003#PH:IITJ:2402#PH:IITBBS:1905#PH:IITRPR:2303#PH:IITKgp:1605#PH:IITB:1212#PH:IITB:1216#PH:IITB:1209#PH:IITB:1202#PH:IITB:1210#PH:IITB:1213#PH:IISc:1102#PH:IISc:1101
-M113F85, PH, 2303, SC, 3, 1438, 19.33, SC, false, PH501067-M1, 1438, 19.33, --, --, --, 1503-1805-2303-2202-2402-XXXX-2003-1303, PH:IITK:1503#PH:IITR:1805#PH:IITRPR:2303#PH:IITI:2202#PH:IITJ:2402#PH:IISc:1104#PH:IITGN:2003#PH:IITD:1303
+M113F85, PH, 2202, SC, 4, 1438, 19.33, SC, false, PH501067-M1, 1438, 19.33, --, --, --, 1503-1805-2303-2202-2402-XXXX-2003-1303, PH:IITK:1503#PH:IITR:1805#PH:IITRPR:2303#PH:IITI:2202#PH:IITJ:2402#PH:IISc:1104#PH:IITGN:2003#PH:IITD:1303
 M116C24, PH, 1903, SC, 9, 1449, 19.33, SC, false, PH404048-M1, 1449, 19.33, --, --, --, XXXX-1503-1604-1703-1215-1207-1303-1403-1903-2103-1805-2202-2003-2303-2402, PH:IITK:1505#PH:IITK:1503#PH:IITKgp:1604#PH:IITM:1703#PH:IITB:1215#PH:IITB:1207#PH:IITD:1303#PH:IITG:1403#PH:IITBBS:1903#PH:IITH:2103#PH:IITR:1805#PH:IITI:2202#PH:IITGN:2003#PH:IITRPR:2303#PH:IITJ:2402
-M104S59, PH, 2202, SC, 6, 1463, 19.33, SC, false, PH511044-M1, 1463, 19.33, --, --, --, 1216-1207-1403-XXXX-1703-2202-1303-1604-2003-1503-2103-1805-1215-XXXX-1202-XXXX, PH:IITB:1216#PH:IITB:1207#PH:IITG:1403#PH:IITK:1505#PH:IITM:1703#PH:IITI:2202#PH:IITD:1303#PH:IITKgp:1604#PH:IITGN:2003#PH:IITK:1503#PH:IITH:2103#PH:IITR:1805#PH:IITB:1215#PH:IITB:1212#PH:IITB:1202#PH:IITB:1213
-M113Q83, PH, 2003, SC, 9, 1467, 19.33, SC, false, PH613054-M1, 1467, 19.33, --, --, --, 1604-1503-1207-1403-2103-1903-1303-2202-2003-1703-2402-1805-2303, PH:IITKgp:1604#PH:IITK:1503#PH:IITB:1207#PH:IITG:1403#PH:IITH:2103#PH:IITBBS:1903#PH:IITD:1303#PH:IITI:2202#PH:IITGN:2003#PH:IITM:1703#PH:IITJ:2402#PH:IITR:1805#PH:IITRPR:2303
+M104S59, PH, 2003, SC, 9, 1463, 19.33, SC, false, PH511044-M1, 1463, 19.33, --, --, --, 1216-1207-1403-XXXX-1703-2202-1303-1604-2003-1503-2103-1805-1215-XXXX-1202-XXXX, PH:IITB:1216#PH:IITB:1207#PH:IITG:1403#PH:IITK:1505#PH:IITM:1703#PH:IITI:2202#PH:IITD:1303#PH:IITKgp:1604#PH:IITGN:2003#PH:IITK:1503#PH:IITH:2103#PH:IITR:1805#PH:IITB:1215#PH:IITB:1212#PH:IITB:1202#PH:IITB:1213
+M113Q83, PH, 1903, SC, 6, 1467, 19.33, SC, false, PH613054-M1, 1467, 19.33, --, --, --, 1604-1503-1207-1403-2103-1903-1303-2202-2003-1703-2402-1805-2303, PH:IITKgp:1604#PH:IITK:1503#PH:IITB:1207#PH:IITG:1403#PH:IITH:2103#PH:IITBBS:1903#PH:IITD:1303#PH:IITI:2202#PH:IITGN:2003#PH:IITM:1703#PH:IITJ:2402#PH:IITR:1805#PH:IITRPR:2303
 M107D25, PH, 2003, SC, 13, 1467, 19.33, SC, false, PH403199-M1, 1467, 19.33, --, --, --, XXXX-1503-1604-1703-1215-1207-1303-1403-1903-2103-1805-2202-2003-2303-2402, PH:IITK:1505#PH:IITK:1503#PH:IITKgp:1604#PH:IITM:1703#PH:IITB:1215#PH:IITB:1207#PH:IITD:1303#PH:IITG:1403#PH:IITBBS:1903#PH:IITH:2103#PH:IITR:1805#PH:IITI:2202#PH:IITGN:2003#PH:IITRPR:2303#PH:IITJ:2402
 M107F15, MA, 1502, ST, 3, 1487, 20, ST, false, MA327048-M1, 1487, 20, --, --, --, 1206-1302-1502-1804-1702-2002, MA:IITB:1206#MA:IITD:1302#MA:IITK:1502#MA:IITR:1804#MA:IITM:1702#MA:IITGN:2002
 M115R31, PH, 1604, ST, 1, 1494, 19, ST, false, PH406097-M1, 1494, 19, --, --, --, 1604-1903-1403-2103-1703-1503-2202-1303-1805-1207-2402-2003-XXXX-2303-XXXX, PH:IITKgp:1604#PH:IITBBS:1903#PH:IITG:1403#PH:IITH:2103#PH:IITM:1703#PH:IITK:1503#PH:IITI:2202#PH:IITD:1303#PH:IITR:1805#PH:IITB:1207#PH:IITJ:2402#PH:IITGN:2003#PH:IITK:1505#PH:IITRPR:2303#PH:IISc:1104
@@ -2309,7 +1738,7 @@ M118J12, MA, 2203, ST, 5, 2557, 14.67, ST, false, MA315201-M1, 2557, 14.67, --, 
 M103Z33, PH, 1703, ST, 5, 2580, 14.33, ST, false, PH401058-M1, 2580, 14.33, --, --, --, 1207-1303-1604-1503-1703-1403, PH:IITB:1207#PH:IITD:1303#PH:IITKgp:1604#PH:IITK:1503#PH:IITM:1703#PH:IITG:1403
 M110E49, PH, 1202, ST, 5, 2586, 14.33, ST, false, PH615070-M1, 2586, 14.33, --, --, --, 1605-1604-XXXX-1216-1202-1303-1207-1503-1703-1805-1215-1403-1903-2202-2103-2003-2303-2402-1905-XXXX, PH:IITKgp:1605#PH:IITKgp:1604#PH:IISc:1104#PH:IITB:1216#PH:IITB:1202#PH:IITD:1303#PH:IITB:1207#PH:IITK:1503#PH:IITM:1703#PH:IITR:1805#PH:IITB:1215#PH:IITG:1403#PH:IITBBS:1903#PH:IITI:2202#PH:IITH:2103#PH:IITGN:2003#PH:IITRPR:2303#PH:IITJ:2402#PH:IITBBS:1905#PH:IITB:1212
 M120J78, PH, 1215, ST, 1, 2633, 14.33, ST, false, PH212161-M1, 2633, 14.33, --, --, --, 1215-1703-1403-XXXX-XXXX-1903-1303-2003-2103-2202-1604-1805-2303-2402, PH:IITB:1215#PH:IITM:1703#PH:IITG:1403#PH:IITK:1505#PH:IISc:1104#PH:IITBBS:1903#PH:IITD:1303#PH:IITGN:2003#PH:IITH:2103#PH:IITI:2202#PH:IITKgp:1604#PH:IITR:1805#PH:IITRPR:2303#PH:IITJ:2402
-M110A41, CY, 1205, ST, 5, 2647, 19.33, ST, false, CY501052-M0, 2647, 19.33, --, --, --, XXXX-XXXX-1301-XXXX-1205-2201-1701, CY:IITK:1501#CY:IITKgp:1601#CY:IITD:1301#CY:IITR:1803#CY:IITB:1205#CY:IITI:2201#CY:IITM:1701
+M110A41, CY, 2201, ST, 6, 2647, 19.33, ST, false, CY501052-M0, 2647, 19.33, --, --, --, XXXX-XXXX-1301-XXXX-1205-2201-1701, CY:IITK:1501#CY:IITKgp:1601#CY:IITD:1301#CY:IITR:1803#CY:IITB:1205#CY:IITI:2201#CY:IITM:1701
 M119G30, CY, 1601, ST, 1, 2658, 19.33, ST, false, CY102067-M2, 2658, 19.33, --, --, --, 1601-1803-1901-1301-1401-1102-1701-2201-1205-1501-2101, CY:IITKgp:1601#CY:IITR:1803#CY:IITBBS:1901#CY:IITD:1301#CY:IITG:1401#CY:IISc:1102#CY:IITM:1701#CY:IITI:2201#CY:IITB:1205#CY:IITK:1501#CY:IITH:2101
 M103X51, MA, 1702, ST, 3, 2675, 14.33, ST, false, MA304211-M1, 2675, 14.33, --, --, --, 1302-1402-1702-1902-1804, MA:IITD:1302#MA:IITG:1402#MA:IITM:1702#MA:IITBBS:1902#MA:IITR:1804
 M104D98, PH, 1805, ST, 4, 2682, 14, ST, false, PH304222-M1, 2682, 14, --, --, --, 1202-1207-1503-1805-1403-1703-2402, PH:IITB:1202#PH:IITB:1207#PH:IITK:1503#PH:IITR:1805#PH:IITG:1403#PH:IITM:1703#PH:IITJ:2402
@@ -2323,7 +1752,7 @@ M104P83, CY, 1601, ST, 1, 2884, 18, ST, false, CY616183-M2, 2884, 18, --, --, --
 M117Y66, PH, 1403, ST, 1, 2924, 13.33, ST, false, PH406110-M1, 2924, 13.33, --, --, --, 1403-1207-2103, PH:IITG:1403#PH:IITB:1207#PH:IITH:2103
 M107T39, CY, 1901, ST, 2, 2934, 18, ST, false, CY206093-M2, 2934, 18, --, --, --, 1601-1901-1211-2302-2101-2201-1701-1803-2401-2001, CY:IITKgp:1601#CY:IITBBS:1901#CY:IITB:1211#CY:IITRPR:2302#CY:IITH:2101#CY:IITI:2201#CY:IITM:1701#CY:IITR:1803#CY:IITJ:2401#CY:IITGN:2001
 M115J18, CY, 1205, ST, 1, 2951, 17.67, ST, false, CY325124-M2, 2951, 17.67, --, --, --, 1205-1301-1501-1803-1701-1401, CY:IITB:1205#CY:IITD:1301#CY:IITK:1501#CY:IITR:1803#CY:IITM:1701#CY:IITG:1401
-M102T96, CY, 1501, ST, 3, 2965, 17.67, ST, false, CY701138-M2, 2965, 17.67, --, --, --, 1205-1301-1501-1803-1701-1401-1102-1211-1601-2201-2101-2001-2401-2302-1901, CY:IITB:1205#CY:IITD:1301#CY:IITK:1501#CY:IITR:1803#CY:IITM:1701#CY:IITG:1401#CY:IISc:1102#CY:IITB:1211#CY:IITKgp:1601#CY:IITI:2201#CY:IITH:2101#CY:IITGN:2001#CY:IITJ:2401#CY:IITRPR:2302#CY:IITBBS:1901
+M102T96, CY, 1205, ST, 1, 2965, 17.67, ST, false, CY701138-M2, 2965, 17.67, --, --, --, 1205-1301-1501-1803-1701-1401-1102-1211-1601-2201-2101-2001-2401-2302-1901, CY:IITB:1205#CY:IITD:1301#CY:IITK:1501#CY:IITR:1803#CY:IITM:1701#CY:IITG:1401#CY:IISc:1102#CY:IITB:1211#CY:IITKgp:1601#CY:IITI:2201#CY:IITH:2101#CY:IITGN:2001#CY:IITJ:2401#CY:IITRPR:2302#CY:IITBBS:1901
 M103T43, CY, 1701, ST, 1, 2979, 17.67, ST, false, CY405328-M2, 2979, 17.67, --, --, --, 1701-2101-1401-1301-1501-1803-2401-1205-2001-2201, CY:IITM:1701#CY:IITH:2101#CY:IITG:1401#CY:IITD:1301#CY:IITK:1501#CY:IITR:1803#CY:IITJ:2401#CY:IITB:1205#CY:IITGN:2001#CY:IITI:2201
 M120M90, PH, 2103, ST, 2, 2997, 13.33, ST, false, PH207179-M1, 2997, 13.33, --, --, --, 1207-2103-2003-1303-2202, PH:IITB:1207#PH:IITH:2103#PH:IITGN:2003#PH:IITD:1303#PH:IITI:2202
 M105K69, PH, 1403, ST, 3, 3023, 13, ST, false, PH412152-M1, 3023, 13, --, --, --, 1604-1207-1403-1703, PH:IITKgp:1604#PH:IITB:1207#PH:IITG:1403#PH:IITM:1703
@@ -2331,32 +1760,34 @@ M103B42, PH, 2202, ST, 5, 3032, 13, ST, false, PH203232-M1, 3032, 13, --, --, --
 M101S32, CY, 1803, ST, 1, 3048, 17.33, ST, false, CY618055-M0, 3048, 17.33, PH618073-M0, 4130, 10.67, 1803-1701-2101-1601-2201-2401-2001-1901-1501-2302-1401-1301-1205-XXXX-1211-XXXX-XXXX-1102-XXXX-2103-1207-1202-2402-2003-2202-2303-1604-1403-1805-1503-XXXX-1303-1903-1905-XXXX-XXXX-XXXX-XXXX-1215-1216-XXXX, CY:IITR:1803#CY:IITM:1701#CY:IITH:2101#CY:IITKgp:1601#CY:IITI:2201#CY:IITJ:2401#CY:IITGN:2001#CY:IITBBS:1901#CY:IITK:1501#CY:IITRPR:2302#CY:IITG:1401#CY:IITD:1301#CY:IITB:1205#CY:IITB:1210#CY:IITB:1211#CY:IITB:1212#CY:IITB:1213#CY:IISc:1102#PH:IITM:1703#PH:IITH:2103#PH:IITB:1207#PH:IITB:1202#PH:IITJ:2402#PH:IITGN:2003#PH:IITI:2202#PH:IITRPR:2303#PH:IITKgp:1604#PH:IITG:1403#PH:IITR:1805#PH:IITK:1503#PH:IITK:1505#PH:IITD:1303#PH:IITBBS:1903#PH:IITBBS:1905#PH:IITB:1209#PH:IITB:1210#PH:IITB:1212#PH:IITB:1213#PH:IITB:1215#PH:IITB:1216#PH:IISc:1104
 M120U25, PH, 1903, ST, 10, 3091, 13, ST, false, PH406128-M1, 3091, 13, --, --, --, 1403-XXXX-1604-1703-1303-1215-XXXX-1805-2103-1903-2003-2202-2303-2402, PH:IITG:1403#PH:IISc:1104#PH:IITKgp:1604#PH:IITM:1703#PH:IITD:1303#PH:IITB:1215#PH:IITK:1505#PH:IITR:1805#PH:IITH:2103#PH:IITBBS:1903#PH:IITGN:2003#PH:IITI:2202#PH:IITRPR:2303#PH:IITJ:2402
 M103H42, MA, 1402, GEN-PwD, 2, 3094, 13, GEN, true, MA510001-M0, 3094, 13, --, --, --, XXXX-1402-XXXX-1302-1502-1804-2403-2301-1603-2203-2002, MA:IISc:1103#MA:IITG:1402#MA:IITB:1212#MA:IITD:1302#MA:IITK:1502#MA:IITR:1804#MA:IITJ:2403#MA:IITRPR:2301#MA:IITKgp:1603#MA:IITI:2203#MA:IITGN:2002
-M101F76, PH, 1903, ST, 5, 3138, 12.67, ST, false, PH405267-M1, 3138, 12.67, --, --, --, 1604-1605-2303-1905-1903-2103-1403-2402-1805-1215-XXXX-XXXX-1207-1202-XXXX-1503-2202-1703-2003-XXXX-1303, PH:IITKgp:1604#PH:IITKgp:1605#PH:IITRPR:2303#PH:IITBBS:1905#PH:IITBBS:1903#PH:IITH:2103#PH:IITG:1403#PH:IITJ:2402#PH:IITR:1805#PH:IITB:1215#PH:IITB:1212#PH:IITB:1209#PH:IITB:1207#PH:IITB:1202#PH:IITK:1505#PH:IITK:1503#PH:IITI:2202#PH:IITM:1703#PH:IITGN:2003#PH:IISc:1104#PH:IITD:1303
-M121Y93, PH, 2402, ST, 16, 3138, 12.67, ST, false, PH317066-M1, 3138, 12.67, --, --, --, XXXX-2303-1303-1215-1216-XXXX-1503-2103-2202-1805-1207-1703-1403-1604-1903-2402-2003, PH:IISc:1104#PH:IITRPR:2303#PH:IITD:1303#PH:IITB:1215#PH:IITB:1216#PH:IITK:1505#PH:IITK:1503#PH:IITH:2103#PH:IITI:2202#PH:IITR:1805#PH:IITB:1207#PH:IITM:1703#PH:IITG:1403#PH:IITKgp:1604#PH:IITBBS:1903#PH:IITJ:2402#PH:IITGN:2003
+M101F76, PH, 2303, ST, 3, 3138, 12.67, ST, false, PH405267-M1, 3138, 12.67, --, --, --, 1604-1605-2303-1905-1903-2103-1403-2402-1805-1215-XXXX-XXXX-1207-1202-XXXX-1503-2202-1703-2003-XXXX-1303, PH:IITKgp:1604#PH:IITKgp:1605#PH:IITRPR:2303#PH:IITBBS:1905#PH:IITBBS:1903#PH:IITH:2103#PH:IITG:1403#PH:IITJ:2402#PH:IITR:1805#PH:IITB:1215#PH:IITB:1212#PH:IITB:1209#PH:IITB:1207#PH:IITB:1202#PH:IITK:1505#PH:IITK:1503#PH:IITI:2202#PH:IITM:1703#PH:IITGN:2003#PH:IISc:1104#PH:IITD:1303
+M121Y93, PH, 1903, ST, 15, 3138, 12.67, ST, false, PH317066-M1, 3138, 12.67, --, --, --, XXXX-2303-1303-1215-1216-XXXX-1503-2103-2202-1805-1207-1703-1403-1604-1903-2402-2003, PH:IISc:1104#PH:IITRPR:2303#PH:IITD:1303#PH:IITB:1215#PH:IITB:1216#PH:IITK:1505#PH:IITK:1503#PH:IITH:2103#PH:IITI:2202#PH:IITR:1805#PH:IITB:1207#PH:IITM:1703#PH:IITG:1403#PH:IITKgp:1604#PH:IITBBS:1903#PH:IITJ:2402#PH:IITGN:2003
 M105U26, CY, 1401, ST, 1, 3167, 16.67, ST, false, CY407049-M2, 3167, 16.67, --, --, --, 1401-1901-1301-1601-1205-2101-1701-1803-2302, CY:IITG:1401#CY:IITBBS:1901#CY:IITD:1301#CY:IITKgp:1601#CY:IITB:1205#CY:IITH:2101#CY:IITM:1701#CY:IITR:1803#CY:IITRPR:2302
 M120K58, MA, 2102, GEN-PwD, 6, 3189, 12.67, GEN, true, MA412003-M1, 3189, 12.67, --, --, --, 1302-1402-1702-1206-1603-2102-2403-1902-2002-1804-2301-1502, MA:IITD:1302#MA:IITG:1402#MA:IITM:1702#MA:IITB:1206#MA:IITKgp:1603#MA:IITH:2102#MA:IITJ:2403#MA:IITBBS:1902#MA:IITGN:2002#MA:IITR:1804#MA:IITRPR:2301#MA:IITK:1502
-M110G54, CY, 1401, ST, 4, 3201, 16.33, ST, false, CY609030-M2, 3201, 16.33, --, --, --, 1205-1301-1501-1401-1601-1701-2101-2201-2401, CY:IITB:1205#CY:IITD:1301#CY:IITK:1501#CY:IITG:1401#CY:IITKgp:1601#CY:IITM:1701#CY:IITH:2101#CY:IITI:2201#CY:IITJ:2401
+M110G54, CY, 1501, ST, 3, 3201, 16.33, ST, false, CY609030-M2, 3201, 16.33, --, --, --, 1205-1301-1501-1401-1601-1701-2101-2201-2401, CY:IITB:1205#CY:IITD:1301#CY:IITK:1501#CY:IITG:1401#CY:IITKgp:1601#CY:IITM:1701#CY:IITH:2101#CY:IITI:2201#CY:IITJ:2401
 M114W62, PH, 2003, ST, 6, 3261, 12.67, ST, false, PH315071-M1, 3261, 12.67, --, --, --, 1207-1303-2103-1604-1703-2003-1403-1805-2202-1903-1503-2303-2402, PH:IITB:1207#PH:IITD:1303#PH:IITH:2103#PH:IITKgp:1604#PH:IITM:1703#PH:IITGN:2003#PH:IITG:1403#PH:IITR:1805#PH:IITI:2202#PH:IITBBS:1903#PH:IITK:1503#PH:IITRPR:2303#PH:IITJ:2402
 M117S88, PH, 1207, GEN-PwD, 1, 3261, 12.67, GEN, true, PH207001-M1, 3261, 12.67, --, --, --, 1207-2402-1703-1303-1403, PH:IITB:1207#PH:IITJ:2402#PH:IITM:1703#PH:IITD:1303#PH:IITG:1403
 M109G40, MA, 2301, ST, 3, 3282, 12.33, ST, false, MA314205-M1, 3282, 12.33, --, --, --, 2403-2203-2301-1902-1402-1702-1804-XXXX-2102-1214-1206-1302-1502-1603-XXXX, MA:IITJ:2403#MA:IITI:2203#MA:IITRPR:2301#MA:IITBBS:1902#MA:IITG:1402#MA:IITM:1702#MA:IITR:1804#MA:IITB:1213#MA:IITH:2102#MA:IITB:1214#MA:IITB:1206#MA:IITD:1302#MA:IITK:1502#MA:IITKgp:1603#MA:IISc:1103
 M120H32, PH, 1303, GEN-PwD, 3, 3294, 12.33, GEN, true, PH808001-M1, 3294, 12.33, --, --, --, 1503-1805-1303-1604-1903-1207-2003-1403-2103-2202-1703-2303-2402-XXXX-1102, PH:IITK:1503#PH:IITR:1805#PH:IITD:1303#PH:IITKgp:1604#PH:IITBBS:1903#PH:IITB:1207#PH:IITGN:2003#PH:IITG:1403#PH:IITH:2103#PH:IITI:2202#PH:IITM:1703#PH:IITRPR:2303#PH:IITJ:2402#PH:IISc:1104#PH:IISc:1102
+M118E32, PH, 2402, ST, 9, 3294, 12.33, ST, false, PH515081-M1, 3294, 12.33, --, --, --, 1604-1207-2103-1403-1703-1805-2303-1503-2402, PH:IITKgp:1604#PH:IITB:1207#PH:IITH:2103#PH:IITG:1403#PH:IITM:1703#PH:IITR:1805#PH:IITRPR:2303#PH:IITK:1503#PH:IITJ:2402
 M113V54, CY, 1803, ST, 1, 3563, 15, ST, false, CY514106-M2, 3563, 15, --, --, --, 1803-1301-1601-2201-1205-1211-2101-2001-1401-1901-2302-2401-1501, CY:IITR:1803#CY:IITD:1301#CY:IITKgp:1601#CY:IITI:2201#CY:IITB:1205#CY:IITB:1211#CY:IITH:2101#CY:IITGN:2001#CY:IITG:1401#CY:IITBBS:1901#CY:IITRPR:2302#CY:IITJ:2401#CY:IITK:1501
 M112D64, CY, 1211, ST, 3, 3616, 14.67, ST, false, CY514094-M2, 3616, 14.67, --, --, --, 1102-1205-1211-1301-1501-1701-1601-1401-1803-2001-2101-2302-2201-2401-1901, CY:IISc:1102#CY:IITB:1205#CY:IITB:1211#CY:IITD:1301#CY:IITK:1501#CY:IITM:1701#CY:IITKgp:1601#CY:IITG:1401#CY:IITR:1803#CY:IITGN:2001#CY:IITH:2101#CY:IITRPR:2302#CY:IITI:2201#CY:IITJ:2401#CY:IITBBS:1901
 M105E60, PH, 2402, GEN-PwD, 5, 3692, 11.33, GEN, true, PH508003-M1, 3692, 11.33, --, --, --, 1303-1604-1805-1403-2402-1703-1207-1503-2202-XXXX-1903-2003-2303-2103, PH:IITD:1303#PH:IITKgp:1604#PH:IITR:1805#PH:IITG:1403#PH:IITJ:2402#PH:IITM:1703#PH:IITB:1207#PH:IITK:1503#PH:IITI:2202#PH:IISc:1104#PH:IITBBS:1903#PH:IITGN:2003#PH:IITRPR:2303#PH:IITH:2103
 M108F81, CY, 1803, OBC-PwD, 2, 3760, 14, OBC, true, CY311002-M2, 3760, 14, --, --, --, 1301-1803-1501-2201-2001-2401-1701-1205-2101-1401-1901-1601-2302-1102, CY:IITD:1301#CY:IITR:1803#CY:IITK:1501#CY:IITI:2201#CY:IITGN:2001#CY:IITJ:2401#CY:IITM:1701#CY:IITB:1205#CY:IITH:2101#CY:IITG:1401#CY:IITBBS:1901#CY:IITKgp:1601#CY:IITRPR:2302#CY:IISc:1102
 M116Z35, CY, 1905, ST, 1, 3823, 14, ST, false, CY405303-M0, 3823, 14, --, --, --, 1905-1901-1601-2001-1205-1301-1401-2101-2201-1701-1803-2401-1501-2302, CY:IITBBS:1905#CY:IITBBS:1901#CY:IITKgp:1601#CY:IITGN:2001#CY:IITB:1205#CY:IITD:1301#CY:IITG:1401#CY:IITH:2101#CY:IITI:2201#CY:IITM:1701#CY:IITR:1803#CY:IITJ:2401#CY:IITK:1501#CY:IITRPR:2302
-M107A78, CY, 1901, ST, 4, 3852, 13.67, ST, false, CY407062-M2, 3852, 13.67, --, --, --, 1803-1401-1501-1901-1601-1301-1205-2201-2101-1701-1102-2401-2001-2302, CY:IITR:1803#CY:IITG:1401#CY:IITK:1501#CY:IITBBS:1901#CY:IITKgp:1601#CY:IITD:1301#CY:IITB:1205#CY:IITI:2201#CY:IITH:2101#CY:IITM:1701#CY:IISc:1102#CY:IITJ:2401#CY:IITGN:2001#CY:IITRPR:2302
+M107A78, CY, 1401, ST, 2, 3852, 13.67, ST, false, CY407062-M2, 3852, 13.67, --, --, --, 1803-1401-1501-1901-1601-1301-1205-2201-2101-1701-1102-2401-2001-2302, CY:IITR:1803#CY:IITG:1401#CY:IITK:1501#CY:IITBBS:1901#CY:IITKgp:1601#CY:IITD:1301#CY:IITB:1205#CY:IITI:2201#CY:IITH:2101#CY:IITM:1701#CY:IISc:1102#CY:IITJ:2401#CY:IITGN:2001#CY:IITRPR:2302
 M102G17, CY, 1701, ST, 3, 3920, 13.33, ST, false, CY513219-M2, 3920, 13.33, --, --, --, 1401-1803-1701-1601-1301-1501-1205-1211-1901-2001-2101-2201-2401-2302-1102, CY:IITG:1401#CY:IITR:1803#CY:IITM:1701#CY:IITKgp:1601#CY:IITD:1301#CY:IITK:1501#CY:IITB:1205#CY:IITB:1211#CY:IITBBS:1901#CY:IITGN:2001#CY:IITH:2101#CY:IITI:2201#CY:IITJ:2401#CY:IITRPR:2302#CY:IISc:1102
 M120C14, CY, 2001, ST, 2, 3940, 13.33, ST, false, CY609165-M2, 3940, 13.33, --, --, --, 1301-2001-1803-1501-2302-1701-2101-1401-1601-1102-1205-2401-1901-2201, CY:IITD:1301#CY:IITGN:2001#CY:IITR:1803#CY:IITK:1501#CY:IITRPR:2302#CY:IITM:1701#CY:IITH:2101#CY:IITG:1401#CY:IITKgp:1601#CY:IISc:1102#CY:IITB:1205#CY:IITJ:2401#CY:IITBBS:1901#CY:IITI:2201
 M103Q87, CY, 2101, ST, 2, 3971, 13.33, ST, false, CY319207-M2, 3971, 13.33, --, --, --, 1803-2101-2201-2302-1205-1301-2001-2401-1601, CY:IITR:1803#CY:IITH:2101#CY:IITI:2201#CY:IITRPR:2302#CY:IITB:1205#CY:IITD:1301#CY:IITGN:2001#CY:IITJ:2401#CY:IITKgp:1601
 M110N49, CY, 1901, GEN-PwD, 3, 3971, 13.33, GEN, true, CY604001-M2, 3971, 13.33, --, --, --, 1601-1211-1901-2302-1205-1301-1401-2001-2101-2201-1501-1701-1803-2401-1905-XXXX, CY:IITKgp:1601#CY:IITB:1211#CY:IITBBS:1901#CY:IITRPR:2302#CY:IITB:1205#CY:IITD:1301#CY:IITG:1401#CY:IITGN:2001#CY:IITH:2101#CY:IITI:2201#CY:IITK:1501#CY:IITM:1701#CY:IITR:1803#CY:IITJ:2401#CY:IITBBS:1905#CY:IITB:1212
-M108D70, CY, 2401, ST, 4, 4010, 13.33, ST, false, CY102018-M2, 4010, 13.33, --, --, --, 1901-1601-1803-2401, CY:IITBBS:1901#CY:IITKgp:1601#CY:IITR:1803#CY:IITJ:2401
+M108D70, CY, 1901, ST, 1, 4010, 13.33, ST, false, CY102018-M2, 4010, 13.33, --, --, --, 1901-1601-1803-2401, CY:IITBBS:1901#CY:IITKgp:1601#CY:IITR:1803#CY:IITJ:2401
 M110M37, CY, 2302, GEN-PwD, 7, 4030, 13, GEN, true, CY510003-M2, 4030, 13, --, --, --, 1501-1301-1601-1701-1205-1901-2302, CY:IITK:1501#CY:IITD:1301#CY:IITKgp:1601#CY:IITM:1701#CY:IITB:1205#CY:IITBBS:1901#CY:IITRPR:2302
 M119G15, CY, 2401, GEN-PwD, 10, 4111, 12.67, GEN, true, CY801002-M2, 4111, 12.67, --, --, --, 1803-1205-1501-1301-2001-1401-1601-1701-2302-2401-1901-1211, CY:IITR:1803#CY:IITB:1205#CY:IITK:1501#CY:IITD:1301#CY:IITGN:2001#CY:IITG:1401#CY:IITKgp:1601#CY:IITM:1701#CY:IITRPR:2302#CY:IITJ:2401#CY:IITBBS:1901#CY:IITB:1211
 M120P46, CY, 2001, ST, 1, 4261, 12.33, ST, false, CY616118-M2, 4261, 12.33, --, --, --, 2001-1211-1401-1301-1102-1501-1701-1901-1803-2201-1601-2401-2302, CY:IITGN:2001#CY:IITB:1211#CY:IITG:1401#CY:IITD:1301#CY:IISc:1102#CY:IITK:1501#CY:IITM:1701#CY:IITBBS:1901#CY:IITR:1803#CY:IITI:2201#CY:IITKgp:1601#CY:IITJ:2401#CY:IITRPR:2302
 M105T85, CY, 1701, ST, 6, 4407, 11.67, ST, false, CY608047-M2, 4407, 11.67, --, --, --, 1601-1301-1211-1501-1401-1701-1803-1901-2401-2201-2101-2302-1102-2001, CY:IITKgp:1601#CY:IITD:1301#CY:IITB:1211#CY:IITK:1501#CY:IITG:1401#CY:IITM:1701#CY:IITR:1803#CY:IITBBS:1901#CY:IITJ:2401#CY:IITI:2201#CY:IITH:2101#CY:IITRPR:2302#CY:IISc:1102#CY:IITGN:2001
 M116T65, CY, 2101, ST, 7, 4488, 11.33, ST, false, CY508111-M2, 4488, 11.33, --, --, --, 1501-1301-1205-1701-1601-1803-2101-1901-2201-2001-1211-XXXX-XXXX-XXXX-1102-1101-2401-2302-1401-1905, CY:IITK:1501#CY:IITD:1301#CY:IITB:1205#CY:IITM:1701#CY:IITKgp:1601#CY:IITR:1803#CY:IITH:2101#CY:IITBBS:1901#CY:IITI:2201#CY:IITGN:2001#CY:IITB:1211#CY:IITB:1213#CY:IITB:1210#CY:IITB:1212#CY:IISc:1102#CY:IISc:1101#CY:IITJ:2401#CY:IITRPR:2302#CY:IITG:1401#CY:IITBBS:1905
-M116A26, CY, 2201, ST, 5, 4524, 11.33, ST, false, CY604160-M2, 4524, 11.33, --, --, --, 1901-1601-1803-1401-2201-2302-2401, CY:IITBBS:1901#CY:IITKgp:1601#CY:IITR:1803#CY:IITG:1401#CY:IITI:2201#CY:IITRPR:2302#CY:IITJ:2401
+M118H67, CY, 2401, ST, 3, 4499, 11.33, ST, false, CY313247-M2, 4499, 11.33, --, --, --, 1301-1501-2401-1601-1803, CY:IITD:1301#CY:IITK:1501#CY:IITJ:2401#CY:IITKgp:1601#CY:IITR:1803
+M116A26, CY, 2302, ST, 6, 4524, 11.33, ST, false, CY604160-M2, 4524, 11.33, --, --, --, 1901-1601-1803-1401-2201-2302-2401, CY:IITBBS:1901#CY:IITKgp:1601#CY:IITR:1803#CY:IITG:1401#CY:IITI:2201#CY:IITRPR:2302#CY:IITJ:2401
 -----------------------------------------------------------
 ApplicationId, Allocated-Paper, Allocated-Program, Allocated-Quota, Allocated-Program-Choice, Allocated-Paper-Rank, Allocated-Paper-Mark,  Category, PwD-status, Reg1-ID, Reg1-Rank, Reg1-Marks, Reg2-ID, Reg2-Rank2,  Reg2-Marks,  ValidChoices, Original-Choice
 M113G34, --, --, --, --, --, -- , GEN, false, PH313296-M1, 970, 22.67, --, --, --, 1503-2402-2003-2202-1303-1207-1403-1805-2103-1703, PH:IITK:1503#PH:IITJ:2402#PH:IITGN:2003#PH:IITI:2202#PH:IITD:1303#PH:IITB:1207#PH:IITG:1403#PH:IITR:1805#PH:IITH:2103#PH:IITM:1703
@@ -2655,7 +2086,6 @@ M112F91, --, --, --, --, --, -- , SC, false, BT501009-M0, 1815, 13, --, --, --, 
 M108F92, --, --, --, --, --, -- , GEN, false, MS511079-M2, 125, 36.67, --, --, --, 1203, MS:IITB:1203
 M105T13, --, --, --, --, --, -- , ST, false, BT616050-M2, 1482, 14.67, --, --, --, 1802, BT:IITR:1802
 M104Z14, --, --, --, --, --, -- , GEN, false, BT204011-M0, 436, 22.67, --, --, --, XXXX-1204, BT:IITB:1210#BT:IITB:1204
-M113W66, --, --, --, --, --, -- , GEN, false, PH605292-M1, 267, 35, --, --, --, XXXX-XXXX-1215-1604-1303-1403-1703-2103-1903-2003-2202-1805-2303-2402, PH:IISc:1104#PH:IITK:1505#PH:IITB:1215#PH:IITKgp:1604#PH:IITD:1303#PH:IITG:1403#PH:IITM:1703#PH:IITH:2103#PH:IITBBS:1903#PH:IITGN:2003#PH:IITI:2202#PH:IITR:1805#PH:IITRPR:2303#PH:IITJ:2402
 M115K90, --, --, --, --, --, -- , GEN, false, PH613138-M1, 1006, 22.33, --, --, --, 1903-1207-1215-1303-2003-1403-2103-1503-XXXX-1604-1703-1805-2303-1905-1202-XXXX-XXXX-XXXX-XXXX-1216-1605, PH:IITBBS:1903#PH:IITB:1207#PH:IITB:1215#PH:IITD:1303#PH:IITGN:2003#PH:IITG:1403#PH:IITH:2103#PH:IITK:1503#PH:IITK:1505#PH:IITKgp:1604#PH:IITM:1703#PH:IITR:1805#PH:IITRPR:2303#PH:IITBBS:1905#PH:IITB:1202#PH:IITB:1210#PH:IITB:1209#PH:IITB:1212#PH:IITB:1213#PH:IITB:1216#PH:IITKgp:1605
 M101V35, --, --, --, --, --, -- , GEN, false, PH601116-M1, 445, 30, --, --, --, XXXX-XXXX-XXXX-XXXX-1216-XXXX-1215-1703-1207-1303-1805-1604-1503-2103-1903-1403-2003-2402-2202-2303-1102-1905, PH:IISc:1104#PH:IITB:1212#PH:IITB:1210#PH:IITB:1213#PH:IITB:1216#PH:IITK:1505#PH:IITB:1215#PH:IITM:1703#PH:IITB:1207#PH:IITD:1303#PH:IITR:1805#PH:IITKgp:1604#PH:IITK:1503#PH:IITH:2103#PH:IITBBS:1903#PH:IITG:1403#PH:IITGN:2003#PH:IITJ:2402#PH:IITI:2202#PH:IITRPR:2303#PH:IISc:1102#PH:IITBBS:1905
 M119E85, --, --, --, --, --, -- , GEN, false, MA309176-M1, 597, 28.67, --, --, --, XXXX-1302-1402-1206-1502-1804-1603-1702-2102-2002-1902-2301-2403-2203, MA:IISc:1103#MA:IITD:1302#MA:IITG:1402#MA:IITB:1206#MA:IITK:1502#MA:IITR:1804#MA:IITKgp:1603#MA:IITM:1702#MA:IITH:2102#MA:IITGN:2002#MA:IITBBS:1902#MA:IITRPR:2301#MA:IITJ:2403#MA:IITI:2203
@@ -2667,7 +2097,6 @@ M107A18, --, --, --, --, --, -- , OBC, false, MA809199-M1, 754, 26.33, --, --, -
 M102K28, --, --, --, --, --, -- , GEN, false, CY610153-M2, 875, 37, --, --, --, 2302-2401-2201-1901-2001-2101, CY:IITRPR:2302#CY:IITJ:2401#CY:IITI:2201#CY:IITBBS:1901#CY:IITGN:2001#CY:IITH:2101
 M112N43, --, --, --, --, --, -- , GEN, false, PH410156-M1, 449, 30, --, --, --, 1303-1207-1604-1403-1503-1805-2303-2402-2003-2103-2202-1703, PH:IITD:1303#PH:IITB:1207#PH:IITKgp:1604#PH:IITG:1403#PH:IITK:1503#PH:IITR:1805#PH:IITRPR:2303#PH:IITJ:2402#PH:IITGN:2003#PH:IITH:2103#PH:IITI:2202#PH:IITM:1703
 M112Y13, --, --, --, --, --, -- , GEN, false, BT205287-M2, 679, 19.67, --, --, --, 1204-1101-1802-XXXX, BT:IITB:1204#BT:IISc:1101#BT:IITR:1802#BT:IITB:1210
-M114S87, --, --, --, --, --, -- , OBC, false, MA511175-M1, 485, 30.33, --, --, --, 1206-1302-1502-1804-2002-1702-1402-2203-2301-2403-2102-1603, MA:IITB:1206#MA:IITD:1302#MA:IITK:1502#MA:IITR:1804#MA:IITGN:2002#MA:IITM:1702#MA:IITG:1402#MA:IITI:2203#MA:IITRPR:2301#MA:IITJ:2403#MA:IITH:2102#MA:IITKgp:1603
 M108F98, --, --, --, --, --, -- , ST, false, GG407078-M2, 788, 22.33, --, --, --, 1201-1801-1904-1602, GG:IITB:1201#GG:IITR:1801#GG:IITBBS:1904#GG:IITKgp:1602
 M101B35, --, --, --, --, --, -- , GEN, false, CY605086-M2, 294, 49.67, --, --, --, 1803-1401-2001-1901-2201-2302-2401-2101, CY:IITR:1803#CY:IITG:1401#CY:IITGN:2001#CY:IITBBS:1901#CY:IITI:2201#CY:IITRPR:2302#CY:IITJ:2401#CY:IITH:2101
 M106R27, --, --, --, --, --, -- , GEN, false, MA409004-M0, 615, 28.33, MS409004-M0, 113, 38, 1203-1905-1214-XXXX, MS:IITB:1203#MS:IITBBS:1905#MS:IITB:1214#MS:IISc:1103
@@ -2929,7 +2358,6 @@ M107R91, --, --, --, --, --, -- , ST, false, GG513037-M2, 415, 35.33, --, --, --
 M122J61, --, --, --, --, --, -- , GEN, false, BL807144-M1, 451, 33.33, --, --, --, 1101, BL:IISc:1101
 M108V10, --, --, --, --, --, -- , GEN, false, PH505015-M1, 551, 28, --, --, --, XXXX-XXXX, PH:IITK:1505#PH:IITB:1213
 M104Y48, --, --, --, --, --, -- , GEN, false, BL607197-M1, 544, 31.67, --, --, --, 1101-XXXX-1102, BL:IISc:1101#BL:IITB:1210#BL:IISc:1102
-M107F68, --, --, --, --, --, -- , OBC, false, PH403201-M1, 690, 26, --, --, --, 1207-1303-1604-1703-1403-XXXX-XXXX-1215-1903-1805-2003-2103-2202-2402-1216-2303-1202-XXXX-1605, PH:IITB:1207#PH:IITD:1303#PH:IITKgp:1604#PH:IITM:1703#PH:IITG:1403#PH:IISc:1104#PH:IITK:1505#PH:IITB:1215#PH:IITBBS:1903#PH:IITR:1805#PH:IITGN:2003#PH:IITH:2103#PH:IITI:2202#PH:IITJ:2402#PH:IITB:1216#PH:IITRPR:2303#PH:IITB:1202#PH:IITB:1209#PH:IITKgp:1605
 M113S45, --, --, --, --, --, -- , GEN, false, BL101054-M0, 591, 30.67, BT101054-M0, 715, 19.33, 1101-1204-XXXX-1802, BL:IISc:1101#BT:IITB:1204#BL:IITB:1210#BT:IITR:1802
 M106X15, --, --, --, --, --, -- , SC, false, BL603129-M0, 2337, 13.33, --, --, --, 1101, BL:IISc:1101
 M117C25, --, --, --, --, --, -- , GEN, false, CY323110-M2, 296, 49.67, --, --, --, 1301-1803-1401-1205-1901-2001-2101-1501-2201-1601-1701-2302-2401, CY:IITD:1301#CY:IITR:1803#CY:IITG:1401#CY:IITB:1205#CY:IITBBS:1901#CY:IITGN:2001#CY:IITH:2101#CY:IITK:1501#CY:IITI:2201#CY:IITKgp:1601#CY:IITM:1701#CY:IITRPR:2302#CY:IITJ:2401
@@ -3406,7 +2834,6 @@ M118J69, --, --, --, --, --, -- , GEN, false, MA310224-M1, 1689, 18.67, --, --, 
 M118S21, --, --, --, --, --, -- , SC, false, PH615090-M1, 1802, 17.67, --, --, --, 2202, PH:IITI:2202
 M109B92, --, --, --, --, --, -- , GEN, false, MA314202-M1, 1423, 20.33, --, --, --, 2203-2301-2403-XXXX-1804-2102-1902-2002-1402-1702-1603-1502-1302-XXXX-1206-1214-XXXX, MA:IITI:2203#MA:IITRPR:2301#MA:IITJ:2403#MA:IITB:1213#MA:IITR:1804#MA:IITH:2102#MA:IITBBS:1902#MA:IITGN:2002#MA:IITG:1402#MA:IITM:1702#MA:IITKgp:1603#MA:IITK:1502#MA:IITD:1302#MA:IITB:1212#MA:IITB:1206#MA:IITB:1214#MA:IISc:1103
 M121Q36, --, --, --, --, --, -- , GEN, false, BL312020-M0, 410, 34, BT312019-M0, 151, 29, 1204-1802-XXXX-1102-XXXX, BT:IITB:1204#BT:IITR:1802#BT:IITB:1210#BL:IISc:1102#BT:IITB:1213
-M107K22, --, --, --, --, --, -- , OBC, false, GG603281-M2, 114, 56, --, --, --, 1201-1602-1801-1904-1905, GG:IITB:1201#GG:IITKgp:1602#GG:IITR:1801#GG:IITBBS:1904#GG:IITBBS:1905
 M104P62, --, --, --, --, --, -- , GEN, false, PH807081-M1, 658, 26.33, --, --, --, 2402-2202-2003-2103-1403-1805-1703-1503-1303-2303, PH:IITJ:2402#PH:IITI:2202#PH:IITGN:2003#PH:IITH:2103#PH:IITG:1403#PH:IITR:1805#PH:IITM:1703#PH:IITK:1503#PH:IITD:1303#PH:IITRPR:2303
 M112H66, --, --, --, --, --, -- , OBC, false, PH406058-M1, 1209, 21, --, --, --, 1403-1903-2402-2303-2202-2103-2003, PH:IITG:1403#PH:IITBBS:1903#PH:IITJ:2402#PH:IITRPR:2303#PH:IITI:2202#PH:IITH:2103#PH:IITGN:2003
 M105Y11, --, --, --, --, --, -- , GEN, false, MA326194-M1, 337, 33.67, --, --, --, 2301-1804-XXXX-2403-2203-1402-1302-2102-XXXX-1902-2002-1702-1603-1502, MA:IITRPR:2301#MA:IITR:1804#MA:IITB:1212#MA:IITJ:2403#MA:IITI:2203#MA:IITG:1402#MA:IITD:1302#MA:IITH:2102#MA:IITB:1213#MA:IITBBS:1902#MA:IITGN:2002#MA:IITM:1702#MA:IITKgp:1603#MA:IITK:1502
@@ -3484,7 +2911,6 @@ M109F16, --, --, --, --, --, -- , GEN, false, BL409006-M0, 348, 35.67, --, --, -
 M105F79, --, --, --, --, --, -- , GEN, false, BL411010-M0, 541, 31.67, BT411010-M0, 516, 21.67, 1101-1101-1802, BL:IISc:1101#BT:IISc:1101#BT:IITR:1802
 M109S63, --, --, --, --, --, -- , GEN, false, MA509133-M1, 667, 27.67, --, --, --, 2203-1804-2403-2301-XXXX-1206-XXXX-XXXX-1214-1302-2002-1502-1702-2102-1402-1902-1905-1603, MA:IITI:2203#MA:IITR:1804#MA:IITJ:2403#MA:IITRPR:2301#MA:IISc:1103#MA:IITB:1206#MA:IITB:1212#MA:IITB:1213#MA:IITB:1214#MA:IITD:1302#MA:IITGN:2002#MA:IITK:1502#MA:IITM:1702#MA:IITH:2102#MA:IITG:1402#MA:IITBBS:1902#MA:IITBBS:1905#MA:IITKgp:1603
 M108P57, --, --, --, --, --, -- , OBC, false, MA303285-M0, 1353, 21, --, --, --, 1206, MA:IITB:1206
-M114Y59, --, --, --, --, --, -- , OBC, false, PH305277-M1, 690, 26, --, --, --, 1805-1403-1703-1303-2003-2402-1604-2202-1503-1207-2303-1903-1102-2103, PH:IITR:1805#PH:IITG:1403#PH:IITM:1703#PH:IITD:1303#PH:IITGN:2003#PH:IITJ:2402#PH:IITKgp:1604#PH:IITI:2202#PH:IITK:1503#PH:IITB:1207#PH:IITRPR:2303#PH:IITBBS:1903#PH:IISc:1102#PH:IITH:2103
 M121N97, --, --, --, --, --, -- , GEN, false, MS211136-M2, 367, 21.33, --, --, --, 1504-1203, MS:IITK:1504#MS:IITB:1203
 M109J31, --, --, --, --, --, -- , GEN, false, MA307064-M1, 597, 28.67, --, --, --, 1302-1804-2301-2403-1502-2102-2203-1206-XXXX-1902-1402-2002-1603-1702, MA:IITD:1302#MA:IITR:1804#MA:IITRPR:2301#MA:IITJ:2403#MA:IITK:1502#MA:IITH:2102#MA:IITI:2203#MA:IITB:1206#MA:IITB:1212#MA:IITBBS:1902#MA:IITG:1402#MA:IITGN:2002#MA:IITKgp:1603#MA:IITM:1702
 M102P47, --, --, --, --, --, -- , GEN, false, PH607052-M1, 707, 25.67, --, --, --, 1403-1805-1703-2103-2003-2202-2402-2303-1903-XXXX-XXXX-XXXX, PH:IITG:1403#PH:IITR:1805#PH:IITM:1703#PH:IITH:2103#PH:IITGN:2003#PH:IITI:2202#PH:IITJ:2402#PH:IITRPR:2303#PH:IITBBS:1903#PH:IITK:1505#PH:IITB:1213#PH:IITB:1212
@@ -3730,7 +3156,6 @@ M120N88, --, --, --, --, --, -- , GEN, false, BT301268-M0, 796, 18.67, --, --, -
 M111H74, --, --, --, --, --, -- , GEN, false, CY612068-M2, 1071, 34, --, --, --, 2302-2401-XXXX-XXXX-1901-1301-1102-1401-1601-2001-1701, CY:IITRPR:2302#CY:IITJ:2401#CY:IITB:1213#CY:IITB:1212#CY:IITBBS:1901#CY:IITD:1301#CY:IISc:1102#CY:IITG:1401#CY:IITKgp:1601#CY:IITGN:2001#CY:IITM:1701
 M108S96, --, --, --, --, --, -- , GEN, false, CY703062-M2, 1828, 25.67, --, --, --, 1701-2401-2101-XXXX-1803-1301-1205-1501-1401-2001-1211-1101-1102-1905-1901-XXXX-2201-1601-2302-XXXX, CY:IITM:1701#CY:IITJ:2401#CY:IITH:2101#CY:IITB:1213#CY:IITR:1803#CY:IITD:1301#CY:IITB:1205#CY:IITK:1501#CY:IITG:1401#CY:IITGN:2001#CY:IITB:1211#CY:IISc:1101#CY:IISc:1102#CY:IITBBS:1905#CY:IITBBS:1901#CY:IITB:1212#CY:IITI:2201#CY:IITKgp:1601#CY:IITRPR:2302#CY:IITB:1210
 M121W89, --, --, --, --, --, -- , GEN, true, BT801001-M0, 1344, 15.33, --, --, --, 1204-1802, BT:IITB:1204#BT:IITR:1802
-M108U14, --, --, --, --, --, -- , GEN, false, PH305094-M1, 267, 35, --, --, --, XXXX-1303-1403-2003-1202-XXXX-1215-1703-1805-2202-XXXX-2103-1216-1903-1604-1605-2402-2303, PH:IISc:1104#PH:IITD:1303#PH:IITG:1403#PH:IITGN:2003#PH:IITB:1202#PH:IITK:1505#PH:IITB:1215#PH:IITM:1703#PH:IITR:1805#PH:IITI:2202#PH:IITB:1209#PH:IITH:2103#PH:IITB:1216#PH:IITBBS:1903#PH:IITKgp:1604#PH:IITKgp:1605#PH:IITJ:2402#PH:IITRPR:2303
 M121X38, --, --, --, --, --, -- , GEN, false, BT705026-M0, 288, 25.67, --, --, --, 1101-XXXX-1802, BT:IISc:1101#BT:IITB:1213#BT:IITR:1802
 M103V81, --, --, --, --, --, -- , GEN, false, BL301052-M0, 461, 33, --, --, --, 1101, BL:IISc:1101
 M108Z19, --, --, --, --, --, -- , OBC, false, MA314196-M1, 1437, 20.33, --, --, --, 1702-XXXX-1302-1603-1206-1902-2102-1502-2203-1402-2403-1804-2002-2301, MA:IITM:1702#MA:IISc:1103#MA:IITD:1302#MA:IITKgp:1603#MA:IITB:1206#MA:IITBBS:1902#MA:IITH:2102#MA:IITK:1502#MA:IITI:2203#MA:IITG:1402#MA:IITJ:2403#MA:IITR:1804#MA:IITGN:2002#MA:IITRPR:2301
@@ -3783,7 +3208,6 @@ M118T10, --, --, --, --, --, -- , GEN, false, CY804009-M2, 1964, 24.33, --, --, 
 M119C14, --, --, --, --, --, -- , GEN, false, MA614038-M1, 385, 32.67, --, --, --, 1206-1502-1302-1702-2102-1902-1402-2301-2002-1603-1804-XXXX-2203-2403, MA:IITB:1206#MA:IITK:1502#MA:IITD:1302#MA:IITM:1702#MA:IITH:2102#MA:IITBBS:1902#MA:IITG:1402#MA:IITRPR:2301#MA:IITGN:2002#MA:IITKgp:1603#MA:IITR:1804#MA:IISc:1103#MA:IITI:2203#MA:IITJ:2403
 M119C43, --, --, --, --, --, -- , OBC, false, PH410210-M1, 1449, 19.33, --, --, --, 1207-1403-1604-2103-1903-2202-2303-2402-2003-1703-1503-1805-1303-XXXX-1605-1202-1905-1216-1215-XXXX-XXXX-XXXX-XXXX-XXXX-1102-1101, PH:IITB:1207#PH:IITG:1403#PH:IITKgp:1604#PH:IITH:2103#PH:IITBBS:1903#PH:IITI:2202#PH:IITRPR:2303#PH:IITJ:2402#PH:IITGN:2003#PH:IITM:1703#PH:IITK:1503#PH:IITR:1805#PH:IITD:1303#PH:IITK:1505#PH:IITKgp:1605#PH:IITB:1202#PH:IITBBS:1905#PH:IITB:1216#PH:IITB:1215#PH:IISc:1104#PH:IITB:1209#PH:IITB:1212#PH:IITB:1213#PH:IITB:1210#PH:IISc:1102#PH:IISc:1101
 M102Z65, --, --, --, --, --, -- , GEN, false, MA309054-M1, 301, 34.67, --, --, --, 1302-XXXX-1902-1603-2301-1804-2403-1502-2002-2203-2102-1206-1402-1702, MA:IITD:1302#MA:IISc:1103#MA:IITBBS:1902#MA:IITKgp:1603#MA:IITRPR:2301#MA:IITR:1804#MA:IITJ:2403#MA:IITK:1502#MA:IITGN:2002#MA:IITI:2203#MA:IITH:2102#MA:IITB:1206#MA:IITG:1402#MA:IITM:1702
-M105D50, --, --, --, --, --, -- , OBC, false, PH114125-M1, 690, 26, --, --, --, 1805-1403-1303-2202-1903-2103-2003-2402, PH:IITR:1805#PH:IITG:1403#PH:IITD:1303#PH:IITI:2202#PH:IITBBS:1903#PH:IITH:2103#PH:IITGN:2003#PH:IITJ:2402
 M107J58, --, --, --, --, --, -- , GEN, false, BL325003-M0, 55, 50, BT325003-M0, 206, 27.33, 1101-XXXX, BL:IISc:1101#BT:IITB:1213
 M116A38, --, --, --, --, --, -- , GEN, false, BL205145-M0, 995, 25.33, --, --, --, XXXX-1101-1102, BL:IITB:1210#BL:IISc:1101#BL:IISc:1102
 M108A25, --, --, --, --, --, -- , GEN, false, BL204130-M1, 560, 31.33, --, --, --, XXXX-1101, BL:IITB:1210#BL:IISc:1101
@@ -3825,7 +3249,6 @@ M102M26, --, --, --, --, --, -- , GEN, false, MA301352-M1, 1645, 19, --, --, --,
 M112Q54, --, --, --, --, --, -- , OBC, false, MA320107-M0, 742, 26.33, --, --, --, XXXX-1502-1206-1702-1302-1804-1402-1603-1214-2102-2203-2002-2301-1902-2403-XXXX-XXXX-1905, MA:IISc:1103#MA:IITK:1502#MA:IITB:1206#MA:IITM:1702#MA:IITD:1302#MA:IITR:1804#MA:IITG:1402#MA:IITKgp:1603#MA:IITB:1214#MA:IITH:2102#MA:IITI:2203#MA:IITGN:2002#MA:IITRPR:2301#MA:IITBBS:1902#MA:IITJ:2403#MA:IITB:1212#MA:IITB:1213#MA:IITBBS:1905
 M110M97, --, --, --, --, --, -- , GEN, false, PH305149-M1, 597, 27, --, --, --, 2402-XXXX-2303-1216-XXXX-1605-2202-2003-1903-2103-1805-1403-1604-1207-1303-1703, PH:IITJ:2402#PH:IITK:1505#PH:IITRPR:2303#PH:IITB:1216#PH:IISc:1104#PH:IITKgp:1605#PH:IITI:2202#PH:IITGN:2003#PH:IITBBS:1903#PH:IITH:2103#PH:IITR:1805#PH:IITG:1403#PH:IITKgp:1604#PH:IITB:1207#PH:IITD:1303#PH:IITM:1703
 M114P48, --, --, --, --, --, -- , GEN, false, MA509245-M0, 747, 26.33, MS509133-M0, 338, 22.33, XXXX-XXXX-1804-2203-2301-1902-2403-2002-1603-1402, MA:IITB:1212#MA:IITB:1213#MA:IITR:1804#MA:IITI:2203#MA:IITRPR:2301#MA:IITBBS:1902#MA:IITJ:2403#MA:IITGN:2002#MA:IITKgp:1603#MA:IITG:1402
-M110G70, --, --, --, --, --, -- , GEN, false, MA307073-M1, 271, 35.33, --, --, --, 2102-1402-1804-2002-2203-1603-1502-2403-1702-1902-1302-XXXX, MA:IITH:2102#MA:IITG:1402#MA:IITR:1804#MA:IITGN:2002#MA:IITI:2203#MA:IITKgp:1603#MA:IITK:1502#MA:IITJ:2403#MA:IITM:1702#MA:IITBBS:1902#MA:IITD:1302#MA:IISc:1103
 M103M29, --, --, --, --, --, -- , GEN, false, PH304188-M1, 1006, 22.33, --, --, --, 2103-2202-1805-2402-1903-1403-2303-1703-XXXX-1207-1503-1303-1604, PH:IITH:2103#PH:IITI:2202#PH:IITR:1805#PH:IITJ:2402#PH:IITBBS:1903#PH:IITG:1403#PH:IITRPR:2303#PH:IITM:1703#PH:IISc:1104#PH:IITB:1207#PH:IITK:1503#PH:IITD:1303#PH:IITKgp:1604
 M102R80, --, --, --, --, --, -- , GEN, false, CY323282-M2, 770, 38.67, --, --, --, 1301-1803-1401-2001-1501-1601, CY:IITD:1301#CY:IITR:1803#CY:IITG:1401#CY:IITGN:2001#CY:IITK:1501#CY:IITKgp:1601
 M114A46, --, --, --, --, --, -- , SC, false, PH616092-M1, 4101, 10.67, --, --, --, XXXX-XXXX-2202-1605-2003-1805-2402-1403-1905, PH:IISc:1104#PH:IITK:1505#PH:IITI:2202#PH:IITKgp:1605#PH:IITGN:2003#PH:IITR:1805#PH:IITJ:2402#PH:IITG:1403#PH:IITBBS:1905
@@ -4416,7 +3839,6 @@ M103D44, --, --, --, --, --, -- , GEN, false, MA809148-M0, 447, 31.33, --, --, -
 M107N58, --, --, --, --, --, -- , GEN, false, BL411103-M0, 659, 29.67, --, --, --, 1102-1101-XXXX, BL:IISc:1102#BL:IISc:1101#BL:IITB:1210
 M105Z94, --, --, --, --, --, -- , OBC, false, CY514003-M2, 2136, 23, --, --, --, 1205-1301-1501-1401-2001-1701-2101-1803-2401, CY:IITB:1205#CY:IITD:1301#CY:IITK:1501#CY:IITG:1401#CY:IITGN:2001#CY:IITM:1701#CY:IITH:2101#CY:IITR:1803#CY:IITJ:2401
 M117E21, --, --, --, --, --, -- , OBC, false, MA315154-M1, 1684, 19, --, --, --, XXXX-1206-1214-1302-1502-1902-1603-1804-1702-2002-2403-2203-2301-2102-1402-XXXX-XXXX-1905, MA:IISc:1103#MA:IITB:1206#MA:IITB:1214#MA:IITD:1302#MA:IITK:1502#MA:IITBBS:1902#MA:IITKgp:1603#MA:IITR:1804#MA:IITM:1702#MA:IITGN:2002#MA:IITJ:2403#MA:IITI:2203#MA:IITRPR:2301#MA:IITH:2102#MA:IITG:1402#MA:IITB:1213#MA:IITB:1212#MA:IITBBS:1905
-M103E70, --, --, --, --, --, -- , OBC, false, PH610319-M1, 690, 26, --, --, --, 1605-1202-XXXX-1604-1215-1303-1703-1805-1403-1903-2103-2303-2003, PH:IITKgp:1605#PH:IITB:1202#PH:IITB:1209#PH:IITKgp:1604#PH:IITB:1215#PH:IITD:1303#PH:IITM:1703#PH:IITR:1805#PH:IITG:1403#PH:IITBBS:1903#PH:IITH:2103#PH:IITRPR:2303#PH:IITGN:2003
 M110Z87, --, --, --, --, --, -- , OBC, false, BL103033-M0, 200, 40, --, --, --, 1101-1102-XXXX, BL:IISc:1101#BL:IISc:1102#BL:IITB:1210
 M115P10, --, --, --, --, --, -- , SC, false, BT308113-M2, 2084, 11.67, --, --, --, XXXX-1802-1204, BT:IITB:1210#BT:IITR:1802#BT:IITB:1204
 M104Z84, --, --, --, --, --, -- , GEN, false, PH322132-M1, 1265, 20.67, --, --, --, 1303-1503-1207-1202-XXXX-1805-1703-2103-2003-1403-2202-2402-1215-XXXX-1604-1605-XXXX-XXXX-XXXX-1216-2303, PH:IITD:1303#PH:IITK:1503#PH:IITB:1207#PH:IITB:1202#PH:IISc:1104#PH:IITR:1805#PH:IITM:1703#PH:IITH:2103#PH:IITGN:2003#PH:IITG:1403#PH:IITI:2202#PH:IITJ:2402#PH:IITB:1215#PH:IITK:1505#PH:IITKgp:1604#PH:IITKgp:1605#PH:IITB:1209#PH:IITB:1213#PH:IITB:1212#PH:IITB:1216#PH:IITRPR:2303
@@ -5035,7 +4457,6 @@ M104A63, --, --, --, --, --, -- , GEN, false, MA304217-M1, 468, 30.67, --, --, -
 M109M38, --, --, --, --, --, -- , GEN, false, BL610095-M0, 34, 53.33, BT610055-M0, 293, 25.33, 1101-XXXX, BL:IISc:1101#BL:IITB:1210
 M111A43, --, --, --, --, --, -- , OBC, false, CY705064-M2, 2168, 22.67, --, --, --, 1501-1102-1301-1701-1205-1211-1401-1601-1803-2101-2001-2401-2201-2302-1901, CY:IITK:1501#CY:IISc:1102#CY:IITD:1301#CY:IITM:1701#CY:IITB:1205#CY:IITB:1211#CY:IITG:1401#CY:IITKgp:1601#CY:IITR:1803#CY:IITH:2101#CY:IITGN:2001#CY:IITJ:2401#CY:IITI:2201#CY:IITRPR:2302#CY:IITBBS:1901
 M108Y77, --, --, --, --, --, -- , SC, false, BT206026-M0, 2171, 11, --, --, --, 1204-XXXX-XXXX-1802-1101, BT:IITB:1204#BT:IITB:1210#BT:IITB:1213#BT:IITR:1802#BT:IISc:1101
-M118H67, --, --, --, --, --, -- , ST, false, CY313247-M2, 4499, 11.33, --, --, --, 1301-1501-2401-1601-1803, CY:IITD:1301#CY:IITK:1501#CY:IITJ:2401#CY:IITKgp:1601#CY:IITR:1803
 M103T23, --, --, --, --, --, -- , GEN, false, MA806004-M0, 976, 24, --, --, --, XXXX, MA:IISc:1103
 M118A81, --, --, --, --, --, -- , GEN, false, PH413105-M1, 1282, 20.33, --, --, --, 1604-1403-XXXX-1303-XXXX-1215-2103-1903-2003-1703-1805-2303-2202-2402, PH:IITKgp:1604#PH:IITG:1403#PH:IITK:1505#PH:IITD:1303#PH:IISc:1104#PH:IITB:1215#PH:IITH:2103#PH:IITBBS:1903#PH:IITGN:2003#PH:IITM:1703#PH:IITR:1805#PH:IITRPR:2303#PH:IITI:2202#PH:IITJ:2402
 M102K65, --, --, --, --, --, -- , GEN, false, PH702020-M1, 1303, 20.33, --, --, --, XXXX-1703-1101-1215-1216-1207-1102-1202-XXXX-2402-1604-2202-1805, PH:IISc:1104#PH:IITM:1703#PH:IISc:1101#PH:IITB:1215#PH:IITB:1216#PH:IITB:1207#PH:IISc:1102#PH:IITB:1202#PH:IITB:1210#PH:IITJ:2402#PH:IITKgp:1604#PH:IITI:2202#PH:IITR:1805
@@ -5451,7 +4872,6 @@ M120E27, --, --, --, --, --, -- , GEN, false, MA211142-M1, 1457, 20.33, --, --, 
 M103W93, --, --, --, --, --, -- , GEN, false, MA105102-M0, 1406, 20.67, --, --, --, XXXX-1214-1402-1206-1502-1603-1302-2002-2102-1702-1902-2203-1804-2301-2403, MA:IISc:1103#MA:IITB:1214#MA:IITG:1402#MA:IITB:1206#MA:IITK:1502#MA:IITKgp:1603#MA:IITD:1302#MA:IITGN:2002#MA:IITH:2102#MA:IITM:1702#MA:IITBBS:1902#MA:IITI:2203#MA:IITR:1804#MA:IITRPR:2301#MA:IITJ:2403
 M111B55, --, --, --, --, --, -- , GEN, false, MA608168-M1, 1704, 18.67, --, --, --, 1214-1402-1603-1502-2102-1702-1302-1905-1902-2002-1804-2301-2403-2203, MA:IITB:1214#MA:IITG:1402#MA:IITKgp:1603#MA:IITK:1502#MA:IITH:2102#MA:IITM:1702#MA:IITD:1302#MA:IITBBS:1905#MA:IITBBS:1902#MA:IITGN:2002#MA:IITR:1804#MA:IITRPR:2301#MA:IITJ:2403#MA:IITI:2203
 M111W38, --, --, --, --, --, -- , SC, false, CY809157-M2, 4164, 12.67, --, --, --, 1301-1803-2101-1501-2201-2001-1205-1401-1701-2401-1601-1901-1102-2302, CY:IITD:1301#CY:IITR:1803#CY:IITH:2101#CY:IITK:1501#CY:IITI:2201#CY:IITGN:2001#CY:IITB:1205#CY:IITG:1401#CY:IITM:1701#CY:IITJ:2401#CY:IITKgp:1601#CY:IITBBS:1901#CY:IISc:1102#CY:IITRPR:2302
-M118E32, --, --, --, --, --, -- , ST, false, PH515081-M1, 3294, 12.33, --, --, --, 1604-1207-2103-1403-1703-1805-2303-1503-2402, PH:IITKgp:1604#PH:IITB:1207#PH:IITH:2103#PH:IITG:1403#PH:IITM:1703#PH:IITR:1805#PH:IITRPR:2303#PH:IITK:1503#PH:IITJ:2402
 M117N69, --, --, --, --, --, -- , SC, false, MA201170-M1, 1894, 17.67, --, --, --, 1502-1603-2002-1804-1902-XXXX-1206-1402-2102-2403-2301-1702-2203, MA:IITK:1502#MA:IITKgp:1603#MA:IITGN:2002#MA:IITR:1804#MA:IITBBS:1902#MA:IISc:1103#MA:IITB:1206#MA:IITG:1402#MA:IITH:2102#MA:IITJ:2403#MA:IITRPR:2301#MA:IITM:1702#MA:IITI:2203
 M122A41, --, --, --, --, --, -- , GEN, false, BL105013-M0, 803, 27.67, BT105013-M0, 181, 28, 1204-1802-1101-XXXX, BT:IITB:1204#BT:IITR:1802#BT:IISc:1101#BT:IITB:1210
 M109H48, --, --, --, --, --, -- , GEN, false, GG602024-M2, 124, 54.67, --, --, --, 1602-1904-1905, GG:IITKgp:1602#GG:IITBBS:1904#GG:IITBBS:1905
@@ -5656,7 +5076,6 @@ M116C75, --, --, --, --, --, -- , GEN, false, MA513134-M1, 806, 25.67, --, --, -
 M115D11, --, --, --, --, --, -- , SC, false, BL301188-M0, 1068, 24.33, BT301188-M0, 2460, 9.67, XXXX-1101, BT:IITB:1213#BL:IISc:1101
 M108K41, --, --, --, --, --, -- , GEN, false, GG601194-M2, 212, 48, --, --, --, 1905, GG:IITBBS:1905
 M107Q26, --, --, --, --, --, -- , OBC, false, PH611303-M1, 1102, 21.67, --, --, --, XXXX-1503-1207-1303-1703-1604-1403-1805-2003-2103-1202-1605-2202, PH:IITK:1505#PH:IITK:1503#PH:IITB:1207#PH:IITD:1303#PH:IITM:1703#PH:IITKgp:1604#PH:IITG:1403#PH:IITR:1805#PH:IITGN:2003#PH:IITH:2103#PH:IITB:1202#PH:IITKgp:1605#PH:IITI:2202
-M111J36, --, --, --, --, --, -- , GEN, false, PH302179-M1, 261, 35.33, --, --, --, 1503-1207-1303-1805-1703-1403-1604-2202-2003-2103-XXXX-1215-XXXX-1216, PH:IITK:1503#PH:IITB:1207#PH:IITD:1303#PH:IITR:1805#PH:IITM:1703#PH:IITG:1403#PH:IITKgp:1604#PH:IITI:2202#PH:IITGN:2003#PH:IITH:2103#PH:IISc:1104#PH:IITB:1215#PH:IITK:1505#PH:IITB:1216
 M112T48, --, --, --, --, --, -- , OBC, false, PH512056-M0, 1082, 21.67, --, --, --, 1216-1503-1207-1303-1805-1202-1403-1703-XXXX-1215-XXXX-1604-2202-2103-1605-2402-2003-XXXX-XXXX-XXXX-XXXX-1102-1903-2303-1905, PH:IITB:1216#PH:IITK:1503#PH:IITB:1207#PH:IITD:1303#PH:IITR:1805#PH:IITB:1202#PH:IITG:1403#PH:IITM:1703#PH:IITK:1505#PH:IITB:1215#PH:IISc:1104#PH:IITKgp:1604#PH:IITI:2202#PH:IITH:2103#PH:IITKgp:1605#PH:IITJ:2402#PH:IITGN:2003#PH:IITB:1212#PH:IITB:1209#PH:IITB:1213#PH:IITB:1210#PH:IISc:1102#PH:IITBBS:1903#PH:IITRPR:2303#PH:IITBBS:1905
 M112F44, --, --, --, --, --, -- , GEN, false, MA205011-M1, 911, 24.67, --, --, --, 1206-1702-2102-2403-2002-1502-1804-1302-1402-2301, MA:IITB:1206#MA:IITM:1702#MA:IITH:2102#MA:IITJ:2403#MA:IITGN:2002#MA:IITK:1502#MA:IITR:1804#MA:IITD:1302#MA:IITG:1402#MA:IITRPR:2301
 M104V13, --, --, --, --, --, -- , GEN, false, CY319227-M2, 278, 50.33, --, --, --, 1102-1205-1301-1501-1803-1701-1211-XXXX-XXXX-1901-2001-1401-1601-2201-2101-2302, CY:IISc:1102#CY:IITB:1205#CY:IITD:1301#CY:IITK:1501#CY:IITR:1803#CY:IITM:1701#CY:IITB:1211#CY:IITB:1212#CY:IITB:1210#CY:IITBBS:1901#CY:IITGN:2001#CY:IITG:1401#CY:IITKgp:1601#CY:IITI:2201#CY:IITH:2101#CY:IITRPR:2302
@@ -5806,6 +5225,7 @@ M108C37, --, --, --, --, --, -- , GEN, false, GG603308-M2, 125, 54.67, --, --, -
 M118Y64, --, --, --, --, --, -- , OBC, false, PH313464-M1, 992, 22.67, --, --, --, 2303-2402-1903-1403-2103-2202-XXXX-1303-1805-1703-2003-1604-XXXX-1503, PH:IITRPR:2303#PH:IITJ:2402#PH:IITBBS:1903#PH:IITG:1403#PH:IITH:2103#PH:IITI:2202#PH:IITB:1212#PH:IITD:1303#PH:IITR:1805#PH:IITM:1703#PH:IITGN:2003#PH:IITKgp:1604#PH:IISc:1104#PH:IITK:1503
 M119T58, --, --, --, --, --, -- , SC, false, BT801030-M0, 732, 19.33, --, --, --, 1802-1204-XXXX-XXXX-1101, BT:IITR:1802#BT:IITB:1204#BT:IITB:1210#BT:IITB:1213#BT:IISc:1101
 M102J44, --, --, --, --, --, -- , GEN, false, PH111067-M1, 1114, 21.67, --, --, --, XXXX-1207-1215-1703-2103-1303-1903-1403-2202-1503-XXXX-1604-1805-2402-1905-XXXX-XXXX-2003-1605-2303-1216-1202, PH:IISc:1104#PH:IITB:1207#PH:IITB:1215#PH:IITM:1703#PH:IITH:2103#PH:IITD:1303#PH:IITBBS:1903#PH:IITG:1403#PH:IITI:2202#PH:IITK:1503#PH:IITK:1505#PH:IITKgp:1604#PH:IITR:1805#PH:IITJ:2402#PH:IITBBS:1905#PH:IITB:1212#PH:IITB:1209#PH:IITGN:2003#PH:IITKgp:1605#PH:IITRPR:2303#PH:IITB:1216#PH:IITB:1202
+M101U33, --, --, --, --, --, -- , GEN, false, PH205171-M1, 180, 38.33, --, --, --, 1207-1303-XXXX-2003-1215, PH:IITB:1207#PH:IITD:1303#PH:IISc:1104#PH:IITGN:2003#PH:IITB:1215
 M110Q97, --, --, --, --, --, -- , GEN, false, BL320073-M0, 359, 35.33, BT320070-M0, 61, 34.67, 1204-1802-1101-XXXX-XXXX-1101-XXXX, BT:IITB:1204#BT:IITR:1802#BT:IISc:1101#BT:IITB:1210#BT:IITB:1213#BL:IISc:1101#BL:IITB:1210
 M103P55, --, --, --, --, --, -- , GEN, false, MA322086-M1, 393, 32.67, --, --, --, 1804-XXXX-1214-XXXX-1502-XXXX-1206-1302-1702-1603-2403-1402-2203-2102-1902-2301-2002-1905-1101, MA:IITR:1804#MA:IISc:1103#MA:IITB:1214#MA:IITB:1212#MA:IITK:1502#MA:IITB:1213#MA:IITB:1206#MA:IITD:1302#MA:IITM:1702#MA:IITKgp:1603#MA:IITJ:2403#MA:IITG:1402#MA:IITI:2203#MA:IITH:2102#MA:IITBBS:1902#MA:IITRPR:2301#MA:IITGN:2002#MA:IITBBS:1905#MA:IISc:1101
 M101Z51, --, --, --, --, --, -- , GEN, false, BT210003-M0, 613, 20.33, --, --, --, XXXX, BT:IITB:1213
@@ -6031,7 +5451,6 @@ M103J92, --, --, --, --, --, -- , GEN, false, PH607112-M1, 675, 26.33, --, --, -
 M118V37, --, --, --, --, --, -- , GEN, false, PH614116-M1, 493, 29, --, --, --, XXXX-XXXX-1215-1604-1903-1503-1207-1703-2303-1403-1303-1805-2003-2103-2202-2402-1605-XXXX-1216-1905-1202-XXXX-XXXX-XXXX-1102-1101, PH:IISc:1104#PH:IITK:1505#PH:IITB:1215#PH:IITKgp:1604#PH:IITBBS:1903#PH:IITK:1503#PH:IITB:1207#PH:IITM:1703#PH:IITRPR:2303#PH:IITG:1403#PH:IITD:1303#PH:IITR:1805#PH:IITGN:2003#PH:IITH:2103#PH:IITI:2202#PH:IITJ:2402#PH:IITKgp:1605#PH:IITB:1209#PH:IITB:1216#PH:IITBBS:1905#PH:IITB:1202#PH:IITB:1212#PH:IITB:1210#PH:IITB:1213#PH:IISc:1102#PH:IISc:1101
 M101X97, --, --, --, --, --, -- , GEN, false, BT112001-M0, 519, 21.67, --, --, --, XXXX-1802-1101, BT:IITB:1210#BT:IITR:1802#BT:IISc:1101
 M117Q17, --, --, --, --, --, -- , OBC, false, MA315174-M1, 845, 25.33, --, --, --, 1206-1302-1502-1214-1702-1804-1603-XXXX-2002-1402-2203-2403-2102-1902-2301, MA:IITB:1206#MA:IITD:1302#MA:IITK:1502#MA:IITB:1214#MA:IITM:1702#MA:IITR:1804#MA:IITKgp:1603#MA:IISc:1103#MA:IITGN:2002#MA:IITG:1402#MA:IITI:2203#MA:IITJ:2403#MA:IITH:2102#MA:IITBBS:1902#MA:IITRPR:2301
-M111G77, --, --, --, --, --, -- , GEN, false, PH327246-M1, 267, 35, --, --, --, 1403-2202-2103-2003-2402-1805-1703-1303-1207-1503, PH:IITG:1403#PH:IITI:2202#PH:IITH:2103#PH:IITGN:2003#PH:IITJ:2402#PH:IITR:1805#PH:IITM:1703#PH:IITD:1303#PH:IITB:1207#PH:IITK:1503
 M108M87, --, --, --, --, --, -- , OBC, false, PH313194-M1, 1422, 19.67, --, --, --, 1303-1503-2402-1805-1207-2003-2103-2202-1604-1703-2303-1903-XXXX-1403, PH:IITD:1303#PH:IITK:1503#PH:IITJ:2402#PH:IITR:1805#PH:IITB:1207#PH:IITGN:2003#PH:IITH:2103#PH:IITI:2202#PH:IITKgp:1604#PH:IITM:1703#PH:IITRPR:2303#PH:IITBBS:1903#PH:IISc:1104#PH:IITG:1403
 M122Z20, --, --, --, --, --, -- , GEN, false, BT307036-M0, 729, 19.33, --, --, --, 1802-1204-1101-XXXX, BT:IITR:1802#BT:IITB:1204#BT:IISc:1101#BT:IITB:1210
 M102H43, --, --, --, --, --, -- , GEN, false, CY607033-M2, 1578, 27.67, --, --, --, 1102-1601-1501-2302-1301-1205-1701-1803-2001-1401-2101-2401-1901-1211-2201-XXXX-1905-XXXX-XXXX-1101, CY:IISc:1102#CY:IITKgp:1601#CY:IITK:1501#CY:IITRPR:2302#CY:IITD:1301#CY:IITB:1205#CY:IITM:1701#CY:IITR:1803#CY:IITGN:2001#CY:IITG:1401#CY:IITH:2101#CY:IITJ:2401#CY:IITBBS:1901#CY:IITB:1211#CY:IITI:2201#CY:IITB:1210#CY:IITBBS:1905#CY:IITB:1212#CY:IITB:1213#CY:IISc:1101
@@ -6248,80 +5667,85 @@ M107R67, --, --, --, --, --, -- , GEN, false, CY322019-M2, 537, 43.67, --, --, -
 M108H70, --, --, --, --, --, -- , GEN, false, CY302105-M2, 586, 42.67, --, --, --, 1211-1803-1301-2302-1401-2401-2101-1701-1601-2201-2001-1901-1102, CY:IITB:1211#CY:IITR:1803#CY:IITD:1301#CY:IITRPR:2302#CY:IITG:1401#CY:IITJ:2401#CY:IITH:2101#CY:IITM:1701#CY:IITKgp:1601#CY:IITI:2201#CY:IITGN:2001#CY:IITBBS:1901#CY:IISc:1102
 M106A74, --, --, --, --, --, -- , GEN, false, PH611190-M1, 607, 27, --, --, --, XXXX-1403-2103-2003-1905-1903-1102-1604-2303-1605-XXXX-XXXX, PH:IITK:1505#PH:IITG:1403#PH:IITH:2103#PH:IITGN:2003#PH:IITBBS:1905#PH:IITBBS:1903#PH:IISc:1102#PH:IITKgp:1604#PH:IITRPR:2303#PH:IITKgp:1605#PH:IITB:1212#PH:IITB:1213
 -----------------------------------------------------------
-CY, Allocated: 441, Total: 1356
-PH, Allocated: 423, Total: 1344
+CY, Allocated: 442, Total: 1356
+PH, Allocated: 431, Total: 1344
 BT, Allocated: 76, Total: 725
 BL, Allocated: 10, Total: 664
-MA, Allocated: 389, Total: 1211
+MA, Allocated: 391, Total: 1211
 MS, Allocated: 94, Total: 322
-GG, Allocated: 113, Total: 273
+GG, Allocated: 114, Total: 273
 -----------------------------------------------------------
 Total Seats Avilable (all programs): 1598
-Total Seats Avilable (After Seat Reduction Due to Supernemeri): GEN: 780, OBC: 416, SC: 237, ST: 127, GEN-PwD: 21, OBC-PwD: 4, SC-PwD: 1, ST-PwD: 0, TOTAL: 1586
-Total Allocation: 1546
-Total Not Allocation: 3888
+Total Seats Avilable (After Seat Reduction Due to Supernemeri): GEN: 784, OBC: 422, SC: 237, ST: 128, GEN-PwD: 21, OBC-PwD: 4, SC-PwD: 1, ST-PwD: 0, TOTAL: 1597
+Total Allocation: 1558
+Total Not Allocation: 3876
 Total candidate: 5434
 -----------------------------------------------------------
 Application_id, Seat_allotted, Paper, Quota, Choice_no, Rank, Marks
 M101V31, 2301, MA, GEN, 4, 20, 54.33
 M104G72, 1703, PH, GEN, 5, 34, 50.67
-M112Y64, 1215, PH, GEN, 2, 99, 42.67
-M106Q70, 1202, PH, GEN, 1, 127, 40.67
+M106N88, 1702, MA, GEN, 6, 101, 44
+M107K22, 1905, GG, OBC, 5, 114, 56
 M101K47, 2003, PH, GEN, 8, 142, 40
+M106F38, 1215, PH, GEN, 1, 142, 40
 M104H60, 2003, PH, GEN, 7, 146, 39.67
+M103T31, 1805, PH, GEN, 7, 161, 39
+M101T55, 1901, CY, GEN, 2, 173, 55.67
 M101F44, 1402, MA, GEN, 5, 211, 37.33
 M118K80, 2103, PH, GEN, 12, 219, 36.33
-M111N80, 2202, PH, GEN, 11, 240, 36
+M101N64, 2303, PH, GEN, 16, 235, 36
 M110U74, 2002, MA, GEN, 8, 244, 36.33
-M106Q11, 2202, PH, GEN, 8, 246, 35.67
 M108P48, 1903, PH, GEN, 5, 252, 35.67
-M103C40, 2303, PH, GEN, 14, 256, 35.33
-M111H43, 2403, MA, GEN, 10, 259, 35.67
-M105B46, 2402, PH, GEN, 10, 265, 35
+M103C40, 1903, PH, GEN, 3, 256, 35.33
+M107X67, 2202, PH, GEN, 14, 258, 35.33
+M111J36, 2202, PH, GEN, 8, 261, 35.33
 M102N50, 2203, MA, GEN, 14, 268, 35.33
+M110G70, 2403, MA, GEN, 8, 271, 35.33
 M115J77, 1601, CY, OBC, 5, 394, 47
 M105P62, 1401, CY, OBC, 3, 419, 46
-M110N43, 2202, PH, OBC, 4, 647, 26.67
-M102C39, 2103, PH, OBC, 5, 663, 26.33
-M118D80, 1605, PH, SC, 14, 776, 25
+M117Y95, 1902, MA, OBC, 5, 455, 31
+M101Q92, 2203, MA, OBC, 12, 468, 30.67
+M114S87, 2403, MA, OBC, 10, 485, 30.33
+M107F68, 2003, PH, OBC, 11, 690, 26
+M114Y59, 2303, PH, OBC, 11, 690, 26
+M105D50, 2103, PH, OBC, 6, 690, 26
+M103E70, 2103, PH, OBC, 11, 690, 26
+M118D80, 2303, PH, SC, 15, 776, 25
 M101Q38, 1904, GG, ST, 2, 786, 22.33
 M108P30, 1604, PH, SC, 1, 852, 24
-M102D76, 1303, PH, SC, 4, 952, 23
-M113Z20, 1403, PH, SC, 5, 961, 23
-M105U73, 1703, PH, SC, 11, 1220, 21
-M110A41, 1205, CY, ST, 5, 2647, 19.33
-M102T96, 1501, CY, ST, 3, 2965, 17.67
-M110G54, 1401, CY, ST, 4, 3201, 16.33
+M110Q44, 1703, PH, SC, 2, 1282, 20.33
+M115F17, 2103, PH, SC, 1, 1349, 20
+M113F85, 2202, PH, SC, 4, 1438, 19.33
+M104S59, 2003, PH, SC, 9, 1463, 19.33
+M113Q83, 1903, PH, SC, 6, 1467, 19.33
+M110A41, 2201, CY, ST, 6, 2647, 19.33
+M101F76, 2303, PH, ST, 3, 3138, 12.67
+M121Y93, 1903, PH, ST, 15, 3138, 12.67
+M118E32, 2402, PH, ST, 9, 3294, 12.33
 M113V54, 1803, CY, ST, 1, 3563, 15
-M107A78, 1901, CY, ST, 4, 3852, 13.67
-M108D70, 2401, CY, ST, 4, 4010, 13.33
-M116A26, 2201, CY, ST, 5, 4524, 11.33
-1202: M106Q70
-1205: M110A41
-1215: M112Y64
-1303: M102D76
-1401: M105P62, M110G54
+1215: M106F38
+1401: M105P62
 1402: M101F44
-1403: M113Z20
-1501: M102T96
 1601: M115J77
 1604: M108P30
-1605: M118D80
-1703: M104G72, M105U73
+1702: M106N88
+1703: M104G72, M110Q44
 1803: M113V54
-1901: M107A78
-1903: M108P48
+1805: M103T31
+1901: M101T55
+1902: M117Y95
+1903: M108P48, M103C40, M113Q83, M121Y93
 1904: M101Q38
+1905: M107K22
 2002: M110U74
-2003: M101K47, M104H60
-2103: M118K80, M102C39
-2201: M116A26
-2202: M111N80, M106Q11, M110N43
-2203: M102N50
+2003: M101K47, M104H60, M107F68, M104S59
+2103: M118K80, M105D50, M103E70, M115F17
+2201: M110A41
+2202: M107X67, M111J36, M113F85
+2203: M102N50, M101Q92
 2301: M101V31
-2303: M103C40
-2401: M108D70
-2402: M105B46
-2403: M111H43
-Total 33 Not in last-draft Allocation
+2303: M101N64, M114Y59, M118D80, M101F76
+2402: M118E32
+2403: M110G70, M114S87
+Total 41 Not in last-draft Allocation
 -----------------------------------------------------------

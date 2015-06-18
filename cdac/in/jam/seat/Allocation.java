@@ -28,6 +28,7 @@ public class Allocation{
 
 	static private Map<String, QuotaReadjust> readjustQuotas = new HashMap<String, QuotaReadjust>();
 	static private Map<String, Draft> draftAllocation =  new TreeMap<String, Draft>();
+	static private Map<String, LastRoundApplicant> lastRoundAllocation =  new TreeMap<String, LastRoundApplicant>();
 
 	private void reset(){
 
@@ -134,31 +135,35 @@ public class Allocation{
 	void readLastRoundAllocation(String file, boolean header){
 
 		BufferedReader br = null;
+
 		try{
 
 			br = new BufferedReader( new FileReader(new File(file) ) );
 			String line = null;
+
 			while( (line = br.readLine()) != null ){
 				if( header ){
 					header = false;
 					continue;
 				}
 				String[] tokens = line.split(",");
-				String statusId = tokens[6].trim();
 
-				if( statusId.equals("3") ){	
-		
-					// do the allocation;
+				String applicationId = tokens[0].trim();
+				String program = tokens[1].trim();
+				String paper = tokens[2].trim();
+				String quota = tokens[3].trim();
+				String choiceNo = tokens[4].trim();
+				String upgrade =  tokens[5].trim();
+				String provisional = tokens[6].trim();
+				String acceptancePath = tokens[7].trim(); 
+				String declarationPath = tokens[8].trim();
+				String undertakingPath = tokens[9].trim();
+				String challanPath = tokens[10].trim();
 
-					String applicationId = tokens[0].trim();
-					String program = tokens[1].trim();
-					String paper = tokens[2].trim();
-					String quota = tokens[3].trim();
-					String auto_upgrade =  tokens[4].trim();
-					String is_provisional = tokens[5].trim();
+				String statusId = tokens[11].trim();
 
-				}
-
+				lastRoundAllocation.put(applicationId, new LastRoundApplicant( applicationId, program, paper, quota, choiceNo, upgrade, provisional,acceptancePath, declarationPath, undertakingPath, challanPath, statusId));
+				//System.out.println(applicationId+","+ program +","+ paper +", "+ quota +", "+ choiceNo+", "+upgrade +", "+ provisional +", "+acceptancePath+", "+ declarationPath+", "+ undertakingPath+", "+ challanPath+", "+ statusId );
 			}
 
 
@@ -248,6 +253,7 @@ public class Allocation{
 						applicant.ranks.put( rank2.paperCode, rank2);
 					}
 
+
 					if( rank1 != null && rank1.enrollmentId.equals( applicationId ) ){
 						List<Applicant> applicants = paperWiseApplicant.get( rank1.paperCode );
 						if( applicants == null)	
@@ -285,6 +291,64 @@ public class Allocation{
 			}
 		}
 	}		
+
+	void lastRoundAllocation(){
+
+			int allocation  =0;
+
+			for(Applicant applicant: applicants){
+
+					LastRoundApplicant lastRoundApplicant = lastRoundAllocation.get( applicant.applicationId );	
+
+					if( lastRoundApplicant == null )
+						continue;
+				
+					if( lastRoundApplicant.statusId == 3 || lastRoundApplicant.statusId == 2 ){
+						
+							allocation++;
+
+							String paper = lastRoundApplicant.paper;
+							String program = lastRoundApplicant.program;
+							String quotaType = lastRoundApplicant.quota;
+
+							String []toks = quotaType.split("-", -1);
+							if( toks.length == 2){
+									quotaType = toks[0].trim()+"PWD";	
+							}
+
+							Map<String, Course> courses = coursesMap.get( paper );
+							Course course = courses.get( program );	
+							Quota quota = course.quotas.get( quotaType );	
+
+							if( ( quota.seat - quota.allocated )  > 0 ){
+
+									quota.allocate( applicant );
+									applicant.allocatedQuota = quota;
+									applicant.isAllocated = true;
+									applicant.isSupernumeri = false;
+									applicant.allocatedChoice =  lastRoundApplicant.choiceNo;
+									applicant.isProvisional = lastRoundApplicant.isProvisional;
+									applicant.autoUpgrade = lastRoundApplicant.autoUpgrade; 
+
+									applicant.acceptancePath = lastRoundApplicant.acceptancePath;
+									applicant.challanPath = lastRoundApplicant.challanPath;
+									applicant.declarationPath = lastRoundApplicant.declarationPath;
+									applicant.undertakingPath = lastRoundApplicant.undertakingPath;
+
+									if( applicant.autoUpgrade )
+											applicant.statusId = 3;
+									else
+											applicant.statusId = 4;
+
+									applicant.isSubmitted = true;
+							}					
+
+							if( ! (lastRoundApplicant.statusId == 3 ||  lastRoundApplicant.statusId == 2)  )
+									applicant.statusId = lastRoundApplicant.statusId;
+					}
+			}	
+			System.out.println("Total allocation accepted form last Round: "+allocation);
+	}
 
 	void readCourse(String file, boolean fileHeader){
 
@@ -453,10 +517,22 @@ public class Allocation{
 			}
 
 			quota.allocate( applicant );
+
 			applicant.allocatedQuota = quota;
 			applicant.isAllocated = true;
 			applicant.allocatedChoice = choiceNo;
 			applicant.isSupernumeri = false;
+
+			applicant.isSubmitted = false;
+			applicant.isProvisional = false;
+			applicant.autoUpgrade = true;
+
+			applicant.statusId = 1;
+
+			applicant.acceptancePath = "";	
+			applicant.declarationPath = "";
+			applicant.undertakingPath = "";	
+			
 			return true;
 
 		}
@@ -491,6 +567,10 @@ public class Allocation{
 		List<FreeSeat> freedSeats = new ArrayList<FreeSeat>();
 
 		for(Applicant applicant: applicants){
+
+			if( !applicant.autoUpgrade || applicant.statusId == 5 ){	
+				continue;
+			}
 
 			for( int choiceNo = 0; choiceNo < applicant.validChoices.length && choiceNo <= applicant.allocatedChoice; choiceNo++){
 
@@ -535,7 +615,9 @@ public class Allocation{
 		for(FreeSeat freeSeat: freedSeats){
 			freeSeat.free();
 		}
+
 		freedSeats = null;
+
 		return flag; 
 	}
 
@@ -550,6 +632,9 @@ public class Allocation{
 			Map<String, Course> courses = coursesMap.get( paper );
 
 			for(Applicant applicant: applicants){
+
+				if( !applicant.autoUpgrade )
+					continue;
 
 				for(int i = 0; i < (applicant.allocatedChoice - 1) && i < applicant.validChoices.length; i++){
 					Course course = courses.get( applicant.validChoices[i] );
@@ -598,7 +683,10 @@ public class Allocation{
 
 			for(Applicant applicant: applicants){
 
-				for(int i = 0; i < (applicant.allocatedChoice - 1) && i < applicant.validChoices.length; i++){
+				if( !applicant.autoUpgrade )
+					continue;
+
+				for(int i = 0; i < ( applicant.allocatedChoice - 1) && i < applicant.validChoices.length; i++){
 
 					Course course = courses.get( applicant.validChoices[i] );
 
@@ -619,18 +707,27 @@ public class Allocation{
 						if( quota != null){
 
 							String key = quota.name+""+quota.programCode+""+quota.paper;
+
 							QuotaReadjust readjustQuota = readjustQuotas.get(key);
+
 							if( readjustQuota == null){
-								readjustQuota = new QuotaReadjust( quota.name, quota.programCode, quota.paper );																 }
+
+								readjustQuota = new QuotaReadjust( quota.name, quota.programCode, quota.paper );																  }
 
 							while( quota.closingRank == applicant.ranks.get(paper).rank ){
+
 								Applicant app = quota.allocatedCandidate.remove( quota.allocatedCandidate.size() - 1); 
 								System.out.println(app.applicationId+", "+app.allocatedQuota.name+", "+app.allocatedQuota.paper+", "+app.allocatedQuota.programCode+", "+app.ranks.get( app.allocatedQuota.paper ).rank );				
 								quota.updateOpeningClosingRank();
 								readjustQuota.number++;
 							}
-							readjustQuotas.put( key, readjustQuota );
-							return true;
+
+							if( readjustQuota.number > 0 ){
+								readjustQuotas.put( key, readjustQuota );
+								return true;
+							}else{
+								return false;
+							}
 						}
 
 					}else{
@@ -740,6 +837,7 @@ public class Allocation{
 	private boolean readjustment(){
 
 		boolean flag = supernumeriIssue(); 
+
 		if( flag ){
 			System.out.println("---------------- Seat To Be Reducted for: "+readjustQuotas.size()+" Courses ---------------");
 			Set<String> quotas = readjustQuotas.keySet();
@@ -776,11 +874,15 @@ public class Allocation{
 		reset();	
 
 		System.out.println("-----------------------Data Reading -----------------------");
+
 		readCourse("./data/seat-matrix.csv", true);
 		readApplicantRank("./data/ranks.csv", true);
+		readLastRoundAllocation("./data/lastRoundAllocation.csv", true);
 		readApplicant("./data/applicant-choices.csv", true);
 		SortApplicants();
-		readLastRoundAllocation("./data/lastRoundAllocation.csv", true);
+
+		lastRoundAllocation();
+
 		System.out.println("-----------------------------------------------------------");
 		System.out.println("Total Seats After Reading: "+totalSeats());
 		System.out.println("-----------------------------------------------------------");
@@ -898,6 +1000,7 @@ public class Allocation{
 
 				i++;
 			}
+
 			allocation.readDraft("./data/round1.csv", true);
 			allocation.read();
 			allocation.allocation( 1 );    

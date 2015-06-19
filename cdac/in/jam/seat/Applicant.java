@@ -52,6 +52,16 @@ class SortByPaperRank implements Comparator<Applicant> {
 		Rank rank1 = applicant1.ranks.get(paper);
 		Rank rank2 = applicant2.ranks.get(paper);
 
+        if( rank1.rank == rank2.rank ){
+            if( applicant1.lastroundseat == applicant2.lastroundseat ){
+                   return 0;
+            }
+            if( applicant1.lastroundseat )
+                return  -1;
+            else 
+                 return 1;        
+        }    
+
        	return rank1.rank - rank2.rank;
     }
 }
@@ -66,12 +76,19 @@ class SortByAllocatedPaperRank implements Comparator<Applicant> {
         Rank rank1 = applicant1.ranks.get( applicant1.allocatedQuota.paper );
         Rank rank2 = applicant2.ranks.get( applicant2.allocatedQuota.paper );
 
+        if( rank1.rank == rank2.rank ){
+            if( applicant1.lastroundseat == applicant2.lastroundseat ){
+                   return 0;
+            }
+            if( applicant1.lastroundseat )
+                return  -1;
+            else 
+                 return 1;        
+        }    
+
         return rank1.rank - rank2.rank;
     }
 }
-
-
- 
 
 public class Applicant{
 
@@ -88,6 +105,7 @@ public class Applicant{
 	boolean autoUpgrade;
 	boolean isProvisional;
 	boolean isSubmitted;
+    boolean lastroundseat;
 
 	String originalChoices;
 	String [] validChoices;
@@ -110,6 +128,7 @@ public class Applicant{
 		this.isProvisional = false;
 		this.autoUpgrade = true;	
 		this.isSubmitted = false;
+        this.lastroundseat = false;
 
 		this.acceptancePath = "";	
 		this.challanPath = "";

@@ -35,12 +35,12 @@ public class LastRoundApplicant{
 			this.autoUpgrade = false;
 			this.isProvisional = false;
 		
-			if( autoUpgrade.equals("t") || isProvisional.equals("true") ){
-				this.isProvisional = true;
+			if( autoUpgrade.equals("t") || autoUpgrade.equals("true") ){
+				this.autoUpgrade = true;
 			}
 
 			if( isProvisional.equals("t") || isProvisional.equals("true") ){
-				this.autoUpgrade = true;
+				this.isProvisional = true;
 			}
 	}
 

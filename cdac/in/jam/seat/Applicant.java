@@ -70,9 +70,6 @@ class SortByAllocatedPaperRank implements Comparator<Applicant> {
     }
 }
 
-
- 
-
 public class Applicant{
 
 	String  applicationId;
@@ -88,6 +85,7 @@ public class Applicant{
 	boolean autoUpgrade;
 	boolean isProvisional;
 	boolean isSubmitted;
+	boolean lastRoundSeat;
 
 	String originalChoices;
 	String [] validChoices;
@@ -110,6 +108,7 @@ public class Applicant{
 		this.isProvisional = false;
 		this.autoUpgrade = true;	
 		this.isSubmitted = false;
+		this.lastRoundSeat = false;
 
 		this.acceptancePath = "";	
 		this.challanPath = "";
@@ -155,27 +154,26 @@ public class Applicant{
 	}
 
 	static void printHeaderAllocation(boolean flag){
-		System.out.println("Application_id, Seat_allotted, Paper, Quota, Choice_no, Rank, Marks");
+		System.out.println("Application_id, Seat_allotted, Paper, Quota, Choice_no, Rank, Marks, statusId");
 	}
 
 	static void printHeaderAllocation(){
-		System.out.println("Application_id, Seat_allotted, Paper, Quota, Choice_no, Rank, Marks, Round, Is_accepted, Is_rejected, Remark");
+		System.out.println("Application_id, Seat_allotted, Paper, Quota, Choice_no, Rank, Marks, Round, Is_accepted, Is_rejected, Remark, StatusId");
 	}
 
 	void printAllocation(String round){
 		System.out.print(applicationId);
 		System.out.print(", "+allocatedQuota.programCode+", "+allocatedQuota.paper+", "+allocatedQuota.printname+", "+( allocatedChoice + 1 )); 	
-		System.out.println(", "+ranks.get( allocatedQuota.paper ).rank+", "+ranks.get( allocatedQuota.paper ).marks+", "+round+", null, null, null"); 	
 	}
 
 	void printAllocation(boolean flag){
 		System.out.print(applicationId);
 		System.out.print(", "+allocatedQuota.programCode+", "+allocatedQuota.paper+", "+allocatedQuota.printname+", "+( allocatedChoice + 1 )); 	
-		System.out.println(", "+ranks.get( allocatedQuota.paper ).rank+", "+ranks.get( allocatedQuota.paper ).marks); 	
+		System.out.println(", "+ranks.get( allocatedQuota.paper ).rank+", "+ranks.get( allocatedQuota.paper ).marks+", "+statusId); 	
 	}
 
 	static void printHeaderForPaper(){
-		System.out.println("ApplicationId, RegistrationId, Paper, Paper-Rank, Paper-Mark, Category, PwD-status, Original-Choice, ValidChoices");
+		System.out.println("ApplicationId, RegistrationId, Paper, Paper-Rank, Paper-Mark, Category, PwD-status, Original-Choice, ValidChoices, StatusId");
 	}	
 
 	void printSortedPaperWise(String paper){
@@ -188,15 +186,16 @@ public class Applicant{
 				System.out.print(validChoices[i].trim());	
 			}
 		}
-		System.out.println();	
+		System.out.println(", "+statusId);	
 	}
 
 	static void header(){
-		System.out.println("ApplicationId, Allocated-Paper, Allocated-Program, Allocated-Quota, Allocated-Program-Choice, Allocated-Paper-Rank, Allocated-Paper-Mark,  Category, PwD-status, Reg1-ID, Reg1-Rank, Reg1-Marks, Reg2-ID, Reg2-Rank2,  Reg2-Marks,  ValidChoices, Original-Choice");
+		System.out.println("ApplicationId, Allocated-Paper, Allocated-Program, Allocated-Quota, Allocated-Program-Choice, Allocated-Paper-Rank, Allocated-Paper-Mark,  Category, PwD-status, Reg1-ID, Reg1-Rank, Reg1-Marks, Reg2-ID, Reg2-Rank2,  Reg2-Marks,  ValidChoices, Original-Choice, statusId");
 	}
 	
 
 	void print(){
+
 		System.out.print(applicationId);
 
 		if( allocatedQuota != null ){
@@ -225,7 +224,7 @@ public class Applicant{
 				System.out.print(validChoices[i].trim());	
 			}
 		}
-        System.out.println(", "+originalChoices);
+        System.out.println(", "+originalChoices+", "+statusId);
 
 	}
 }

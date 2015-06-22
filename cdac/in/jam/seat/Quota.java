@@ -40,7 +40,7 @@ public class Quota{
 		allocatedCandidate.add( applicant ); 
 		allocated++;
 
-		if( allocated > seat ){
+		if( allocated > seat && !applicant.lastRoundSeat ){
 			applicant.isSupernumeri = true;
 			supernumeri++;
 		}    

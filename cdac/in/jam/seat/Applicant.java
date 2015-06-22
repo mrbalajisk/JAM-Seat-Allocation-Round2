@@ -52,6 +52,16 @@ class SortByPaperRank implements Comparator<Applicant> {
 		Rank rank1 = applicant1.ranks.get(paper);
 		Rank rank2 = applicant2.ranks.get(paper);
 
+        if( rank1.rank == rank2.rank ){
+            if( applicant1.lastroundseat == applicant2.lastroundseat ){
+                   return 0;
+            }
+            if( applicant1.lastroundseat )
+                return  -1;
+            else 
+                 return 1;        
+        }    
+
        	return rank1.rank - rank2.rank;
     }
 }
@@ -65,6 +75,16 @@ class SortByAllocatedPaperRank implements Comparator<Applicant> {
 
         Rank rank1 = applicant1.ranks.get( applicant1.allocatedQuota.paper );
         Rank rank2 = applicant2.ranks.get( applicant2.allocatedQuota.paper );
+
+        if( rank1.rank == rank2.rank ){
+            if( applicant1.lastroundseat == applicant2.lastroundseat ){
+                   return 0;
+            }
+            if( applicant1.lastroundseat )
+                return  -1;
+            else 
+                 return 1;        
+        }    
 
         return rank1.rank - rank2.rank;
     }
@@ -85,7 +105,11 @@ public class Applicant{
 	boolean autoUpgrade;
 	boolean isProvisional;
 	boolean isSubmitted;
+<<<<<<< HEAD
 	boolean lastRoundSeat;
+=======
+    boolean lastroundseat;
+>>>>>>> 4c294fd04fc33d985e5c7ad52705bc7d3b1da9fd
 
 	String originalChoices;
 	String [] validChoices;
@@ -108,7 +132,11 @@ public class Applicant{
 		this.isProvisional = false;
 		this.autoUpgrade = true;	
 		this.isSubmitted = false;
+<<<<<<< HEAD
 		this.lastRoundSeat = false;
+=======
+        this.lastroundseat = false;
+>>>>>>> 4c294fd04fc33d985e5c7ad52705bc7d3b1da9fd
 
 		this.acceptancePath = "";	
 		this.challanPath = "";

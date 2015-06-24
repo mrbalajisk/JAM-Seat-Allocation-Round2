@@ -27,7 +27,7 @@ public class Allocation{
 	private boolean flagSuperNumeri = false;
 	private boolean SuperNumeriReduced = false;
 	public static boolean printAllocation = false;
-	public static String  round = "round1";
+	public static String  round = "round2";
 
 	static private Map<String, QuotaReadjust> readjustQuotas = new HashMap<String, QuotaReadjust>();
 	static private Map<String, Draft> draftAllocation =  new TreeMap<String, Draft>();
@@ -348,14 +348,16 @@ public class Allocation{
 							Map<String, Course> courses = coursesMap.get( paper );
 							Course course = courses.get( program );	
 							Quota quota = course.quotas.get( quotaType );	
+
 							applicant.autoUpgrade = lastRoundApplicant.autoUpgrade; 
 
 							if( applicant.autoUpgrade )
-								applicant.statusId = 3;
-							else
 								applicant.statusId = 4;
+							else
+								applicant.statusId = 3;
 
 							applicant.isSubmitted = true;
+
 							applicant.lastRoundSeat = true;
 
 							quota.allocate( applicant );
@@ -374,14 +376,15 @@ public class Allocation{
 							applicant.undertakingPath = lastRoundApplicant.undertakingPath;
 
 							if( quota.allocated > quota.seat && quotaType.indexOf("PwD") < 0 ){
-								System.out.println("Program name:"+ course.programCode+" quotaType: "+quotaType );	
+
+                                quota.seat++;
 								Quota qu = course.quotas.get( quotaType+"PWD" );					
 								qu.seat--;
+							//	System.out.println("Converted Seat form Program name:"+ course.programCode+" quotaType: "+quotaType+" From: "+quotaType+"PWD");	
 							}
 
 					}
 			}	
-
 			System.out.println("Total allocation accepted form last Round: "+allocation);
 	}
 
@@ -574,7 +577,11 @@ public class Allocation{
 					applicant.isProvisional = false;
 					applicant.lastRoundSeat = false;
 					applicant.isSubmitted = false;
-					applicant.statusId = 1;
+
+                    if( applicant.statusId == 4)
+                         applicant.statusId = 3;   
+                    else if( applicant.statusId != 3 )
+					    applicant.statusId = 1;
 			    }
 
 				applicant.allocatedChoice = choiceNo;

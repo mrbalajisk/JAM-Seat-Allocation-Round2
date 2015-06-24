@@ -1,0 +1,23 @@
+-- Seat To Be Reducted for: 8 Courses ----
+2401,CY, GEN, 2
+1401,CY, GEN, 2
+1703,PH, GEN, 1
+1604,PH, GEN, 1
+2202,PH, ST, 1
+1101,BL, GEN, 1
+1804,MA, GEN, 1
+2102,MA, SC, 1
+---------------------------------------------
+CY, Allocated: 435, Total: 1337
+PH, Allocated: 427, Total: 1303
+BT, Allocated: 76, Total: 714
+BL, Allocated: 9, Total: 656
+MA, Allocated: 389, Total: 1186
+GG, Allocated: 114, Total: 263
+MS, Allocated: 94, Total: 320
+---------------------------------------------
+Total Seats Avilable (all programs): 1598
+Total Seats Avilable (After Seat Reduction Due to Supernemeri): GEN: 776, OBC: 422, SC: 237, ST: 127, GEN-PwD: 21, OBC-PwD: 4, SC-PwD: 1, ST-PwD: 0, TOTAL: 1588
+Total Allocation: 1544
+Total Not Allocation: 3782
+Total candidate: 5326

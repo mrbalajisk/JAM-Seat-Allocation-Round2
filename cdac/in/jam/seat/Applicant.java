@@ -154,29 +154,30 @@ public class Applicant{
 	}
 
 	static void printHeaderAllocation(boolean flag){
-		System.out.println("Application_id, Seat_allotted, Paper, Quota, Choice_no, Rank, Marks, statusId");
+		System.out.println("Application_id, Seat_allotted, Paper, Quota, Choice_no, Rank, Marks, StatusId, Auto Upgrade");
 	}
 
 	static void printHeaderAllocation(){
-		System.out.println("Application_id, Seat_allotted, Paper, Quota, Choice_no, Rank, Marks, Round, Is_accepted, Is_rejected, Remark, StatusId");
+		System.out.println("Application_id, Seat_allotted, Paper, Quota, Choice_no, Rank, Marks, Round, Is_accepted, Is_rejected, Remark, StatusId, autoUpgrade");
 	}
 
 	void printAllocation(String round){
 		System.out.print(applicationId);
-		System.out.print(", "+allocatedQuota.programCode+", "+allocatedQuota.paper+", "+allocatedQuota.printname+", "+( allocatedChoice + 1 )); 	
+		System.out.print(", "+allocatedQuota.programCode+", "+allocatedQuota.paper+", "+allocatedQuota.printname+", "+( allocatedChoice + 1 )); 	   System.out.println(", "+ranks.get( allocatedQuota.paper ).rank+", "+ranks.get( allocatedQuota.paper ).marks+", "+round+", null, null, null,"+ statusId+", "+autoUpgrade);
 	}
 
 	void printAllocation(boolean flag){
 		System.out.print(applicationId);
 		System.out.print(", "+allocatedQuota.programCode+", "+allocatedQuota.paper+", "+allocatedQuota.printname+", "+( allocatedChoice + 1 )); 	
-		System.out.println(", "+ranks.get( allocatedQuota.paper ).rank+", "+ranks.get( allocatedQuota.paper ).marks+", "+statusId); 	
+		System.out.println(", "+ranks.get( allocatedQuota.paper ).rank+", "+ranks.get( allocatedQuota.paper ).marks+", "+statusId+", "+autoUpgrade); 	
 	}
 
 	static void printHeaderForPaper(){
-		System.out.println("ApplicationId, RegistrationId, Paper, Paper-Rank, Paper-Mark, Category, PwD-status, Original-Choice, ValidChoices, StatusId");
+		System.out.println("ApplicationId, RegistrationId, Paper, Paper-Rank, Paper-Mark, Category, PwD-status, Original-Choice, ValidChoices, StatusId, Auto-Upgrade");
 	}	
 
 	void printSortedPaperWise(String paper){
+
 		System.out.print(applicationId+", "+ranks.get( paper ).registrationNo+", "+paper+", "+ranks.get( paper ).rank+", "+ranks.get( paper ).marks+", "+category+", "+isPd+", "+originalChoices);
 		System.out.print(", ");
 		for(int i =0 ; i < validChoices.length; i++){
@@ -186,11 +187,11 @@ public class Applicant{
 				System.out.print(validChoices[i].trim());	
 			}
 		}
-		System.out.println(", "+statusId);	
+		System.out.println(", "+statusId+", "+autoUpgrade);	
 	}
 
 	static void header(){
-		System.out.println("ApplicationId, Allocated-Paper, Allocated-Program, Allocated-Quota, Allocated-Program-Choice, Allocated-Paper-Rank, Allocated-Paper-Mark,  Category, PwD-status, Reg1-ID, Reg1-Rank, Reg1-Marks, Reg2-ID, Reg2-Rank2,  Reg2-Marks,  ValidChoices, Original-Choice, statusId");
+		System.out.println("ApplicationId, Allocated-Paper, Allocated-Program, Allocated-Quota, Allocated-Program-Choice, Allocated-Paper-Rank, Allocated-Paper-Mark,  Category, PwD-status, Reg1-ID, Reg1-Rank, Reg1-Marks, Reg2-ID, Reg2-Rank2,  Reg2-Marks,  ValidChoices, Original-Choice, statusId, AutoUpgrade");
 	}
 	
 
@@ -224,7 +225,7 @@ public class Applicant{
 				System.out.print(validChoices[i].trim());	
 			}
 		}
-        System.out.println(", "+originalChoices+", "+statusId);
+        System.out.println(", "+originalChoices+", "+statusId+", "+autoUpgrade);
 
 	}
 }

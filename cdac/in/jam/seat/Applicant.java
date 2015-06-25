@@ -165,12 +165,12 @@ public class Applicant{
 	}
 
 	static void printHeaderAllocation(){
-		System.out.println("Application_id, Seat_allotted, Paper, Quota, Choice_no, Rank, Marks, Round, Is_accepted, Is_rejected, Remark, StatusId, autoUpgrade");
+		System.out.println("Application_id, Seat_allotted, Paper, Quota, Choice_no, Rank, Marks, Round, isProvisional, StatusId, autoUpgrade");
 	}
 
 	void printAllocation(String round){
 		System.out.print(applicationId);
-		System.out.print(", "+allocatedQuota.programCode+", "+allocatedQuota.paper+", "+allocatedQuota.printname+", "+( allocatedChoice + 1 )); 	   System.out.println(", "+ranks.get( allocatedQuota.paper ).rank+", "+ranks.get( allocatedQuota.paper ).marks+", "+round+", null, null, null,"+ statusId+", "+autoUpgrade);
+		System.out.print(", "+allocatedQuota.programCode+", "+allocatedQuota.paper+", "+allocatedQuota.printname+", "+( allocatedChoice + 1 )); 	   System.out.println(", "+ranks.get( allocatedQuota.paper ).rank+", "+ranks.get( allocatedQuota.paper ).marks+", "+round+","+isProvisional+","+ statusId+", "+autoUpgrade);
 	}
 
 	void printAllocation(boolean flag){

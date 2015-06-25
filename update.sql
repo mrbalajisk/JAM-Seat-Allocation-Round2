@@ -1,0 +1,7 @@
+UPDATE sa_applicant set seat_preference_allocation = 'PH:IITD:1303:I#PH:IITB:1207:V#PH:IITK:1503:I#PH:IITM:1703:I#PH:IITR:1805:I#PH:IITI:2202:I#PH:IITGN:2003:I#PH:IITH:2103:I#PH:IITJ:2402:I#PH:IISc:1104:I' where application_id = 'M104H60';
+UPDATE sa_applicant set seat_preference_allocation = 'GG:IITKgp:1602:V#GG:IITR:1801:V#GG:IITBBS:1904:V#GG:IITBBS:1905:I' where application_id = 'M106H94';
+UPDATE sa_applicant set seat_preference_allocation = 'MA:IISc:1103:I#MA:IITB:1206:V#MA:IITD:1302:I#MA:IITKgp:1603:V#MA:IITK:1502:V#MA:IITM:1702:V#MA:IITR:1804:V' where application_id = 'M105A29';
+UPDATE sa_applicant set seat_preference_allocation = 'MA:IITR:1804:V#MA:IITI:2203:V#MA:IITBBS:1902:V#MA:IITG:1402:V#MA:IITGN:2002:V#MA:IITH:2102:V#MA:IITRPR:2301:V#MA:IITJ:2403:I#MA:IITB:1213:I#MA:IITBBS:1905:V' where application_id = 'M105T55';
+UPDATE sa_applicant set seat_preference_allocation = 'PH:IITM:1703:I#PH:IITB:1207:V#PH:IITK:1503:V#PH:IITD:1303:I#PH:IITH:2103:V#PH:IITG:1403:V#PH:IITR:1805:V#PH:IITI:2202:V#PH:IITB:1212:I#PH:IITGN:2003:V#PH:IITJ:2402:V' where application_id = 'M101D16';
+UPDATE sa_applicant set seat_preference_allocation = 'PH:IITB:1216:V#PH:IITKgp:1605:V#PH:IITR:1805:V#PH:IITG:1403:V#PH:IITKgp:1604:V#PH:IITH:2103:V#PH:IITM:1703:V#PH:IITBBS:1903:V#PH:IITRPR:2303:I#PH:IITGN:2003:V#PH:IITB:1207:V#PH:IITD:1303:V#PH:IITK:1503:V#PH:IITB:1202:V' where application_id = 'M115Y15';
+UPDATE sa_applicant set seat_preference_allocation = 'PH:IITB:1207:V#PH:IISc:1104:V#PH:IITD:1303:I#PH:IITK:1503:I#PH:IITR:1805:I' where application_id = 'M101J85';

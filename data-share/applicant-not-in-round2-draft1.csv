@@ -1,0 +1,28 @@
+Application_id, Seat_allotted, Paper, Quota, Choice_no, Rank, Marks, StatusId, Auto Upgrade
+M112E94, 1503, PH, GEN, 1, 69, 44.67, 3, true
+M105A29, 1603, MA, GEN, 4, 95, 44.67, 4, true
+M103C14, 1302, MA, GEN, 1, 96, 44.33, 3, true
+M108U35, 1905, GG, GEN, 6, 97, 58.33, 1, true
+M104T57, 1502, MA, GEN, 3, 100, 44.33, 3, true
+M117E60, 1702, MA, GEN, 6, 163, 39.67, 3, true
+M105T55, 1905, MA, GEN, 10, 281, 35.33, 4, true
+M106W60, 2403, MA, GEN, 14, 283, 35, 3, true
+M110W69, 2402, PH, GEN, 11, 297, 34, 1, true
+M112U53, 2402, PH, GEN, 7, 301, 34, 1, true
+M101D16, 2103, PH, OBC, 5, 410, 30.67, 4, true
+M107C15, 1303, PH, OBC, 3, 420, 30.33, 3, true
+M117Q73, 1703, PH, OBC, 8, 595, 27.33, 3, true
+M106F45, 1905, PH, OBC, 4, 669, 26.33, 1, true
+1302: M103C14
+1303: M107C15
+1502: M104T57
+1503: M112E94
+1603: M105A29
+1702: M117E60
+1703: M117Q73
+1905: M108U35, M105T55, M106F45
+2103: M101D16
+2402: M110W69, M112U53
+2403: M106W60
+Total 14 Not in last-draft Allocation
+-----------------------------------------------------------

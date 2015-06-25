@@ -363,11 +363,14 @@ public class Allocation{
 							quota.allocate( applicant );
 
 							applicant.allocatedQuota = quota;
+							applicant.lastRoundQuota = quota.name;
 
 							applicant.isAllocated = true;
 							applicant.isSupernumeri = false;
 
 							applicant.allocatedChoice =  lastRoundApplicant.choiceNo;
+							applicant.lastRoundChoiceNo = applicant.allocatedChoice;
+
 							applicant.isProvisional = lastRoundApplicant.isProvisional;
 
 							applicant.acceptancePath = lastRoundApplicant.acceptancePath;

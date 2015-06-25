@@ -1,4 +1,4 @@
-Application_id, Seat_allotted, Paper, Quota, Choice_no, Rank, Marks, Round, Is_accepted, Is_rejected, Remark, StatusId, Auto-Upgrade
+Application_id, Seat_allotted, Paper, Quota, Choice_no, Rank, Marks, Round, Is_accepted, Is_rejected, Remark, StatusId, autoUpgrade
 M105E77, 1503, PH, GEN, 1, 1, 84, round2, null, null, null,3, false
 M111T73, 1302, MA, GEN, 1, 1, 75.67, round2, null, null, null,3, false
 M103J31, 1201, GG, GEN, 1, 1, 86, round2, null, null, null,3, false
@@ -287,7 +287,6 @@ M108T13, 1301, CY, GEN, 1, 55, 65, round2, null, null, null,3, false
 M108R33, 1206, MA, SC, 1, 55, 48, round2, null, null, null,3, false
 M104D20, 1205, CY, GEN, 2, 55, 65, round2, null, null, null,3, true
 M101D81, 1302, MA, GEN, 1, 55, 48, round2, null, null, null,3, false
-M101J85, 1503, PH, GEN, 4, 55, 47.33, round2, null, null, null,1, true
 M113K85, 1208, GG, OBC, 2, 55, 64.33, round2, null, null, null,3, false
 M108C59, 1905, MS, GEN, 5, 56, 45.67, round2, null, null, null,4, true
 M104X96, 1604, PH, GEN, 1, 56, 47, round2, null, null, null,3, false
@@ -342,7 +341,7 @@ M101T64, 1302, MA, GEN, 2, 68, 47, round2, null, null, null,3, false
 M107Z95, 1303, PH, GEN, 1, 69, 44.67, round2, null, null, null,3, false
 M107K56, 1502, MA, GEN, 2, 69, 47, round2, null, null, null,4, true
 M106N70, 1605, GG, GEN, 4, 69, 62, round2, null, null, null,4, true
-M112E94, 1604, PH, GEN, 3, 69, 44.67, round2, null, null, null,4, true
+M112E94, 1503, PH, GEN, 1, 69, 44.67, round2, null, null, null,3, true
 M105H62, 1602, GG, OBC, 2, 69, 62, round2, null, null, null,3, false
 M111Y81, 1301, CY, GEN, 1, 70, 63.67, round2, null, null, null,3, false
 M117V20, 1301, CY, GEN, 1, 70, 63.67, round2, null, null, null,3, false
@@ -423,7 +422,6 @@ M110Z71, 1601, CY, GEN, 3, 91, 62, round2, null, null, null,3, false
 M103P53, 1302, MA, GEN, 3, 91, 45, round2, null, null, null,3, false
 M107K52, 1904, GG, OBC, 4, 92, 58.67, round2, null, null, null,4, true
 M109D87, 1603, MA, GEN, 3, 92, 44.67, round2, null, null, null,3, false
-M106H94, 1905, GG, GEN, 4, 92, 58.67, round2, null, null, null,1, true
 M102E35, 1802, BT, OBC, 1, 92, 32, round2, null, null, null,3, false
 M111E70, 1202, PH, GEN, 1, 92, 43, round2, null, null, null,3, false
 M106Q91, 1502, MA, GEN, 3, 92, 44.67, round2, null, null, null,3, true
@@ -435,14 +433,15 @@ M117U39, 1503, PH, OBC, 1, 93, 43, round2, null, null, null,3, false
 M106R92, 1601, CY, GEN, 3, 94, 62, round2, null, null, null,3, false
 M105D87, 1601, CY, GEN, 1, 94, 62, round2, null, null, null,3, false
 M110K89, 1213, BT, GEN, 2, 95, 31.67, round2, null, null, null,3, false
-M105A29, 1302, MA, GEN, 3, 95, 44.67, round2, null, null, null,3, true
+M105A29, 1603, MA, GEN, 4, 95, 44.67, round2, null, null, null,4, true
 M109P35, 1503, PH, OBC, 1, 96, 43, round2, null, null, null,3, false
 M105F48, 1904, GG, OBC, 4, 96, 58.33, round2, null, null, null,4, true
-M103C14, 1502, MA, GEN, 2, 96, 44.33, round2, null, null, null,3, true
+M103C14, 1302, MA, GEN, 1, 96, 44.33, round2, null, null, null,3, true
 M104D19, 1601, CY, GEN, 3, 96, 61.67, round2, null, null, null,4, true
 M105D73, 1502, MA, GEN, 2, 96, 44.33, round2, null, null, null,3, true
 M106T95, 1803, CY, GEN, 1, 96, 61.67, round2, null, null, null,3, false
 M105B35, 1206, MA, OBC, 2, 96, 44.33, round2, null, null, null,3, false
+M108U35, 1905, GG, GEN, 6, 97, 58.33, round2, null, null, null,1, true
 M107H38, 1904, GG, OBC, 4, 97, 58.33, round2, null, null, null,4, true
 M104S65, 1503, PH, OBC, 1, 97, 42.67, round2, null, null, null,3, false
 M108D85, 1601, CY, GEN, 1, 98, 61.67, round2, null, null, null,3, false
@@ -451,7 +450,7 @@ M109A29, 1502, MA, GEN, 1, 99, 44.33, round2, null, null, null,3, true
 M107D86, 1601, CY, GEN, 1, 99, 61.33, round2, null, null, null,3, false
 M109Q93, 1503, PH, OBC, 1, 99, 42.67, round2, null, null, null,3, false
 M115H79, 1301, CY, GEN, 1, 100, 61.33, round2, null, null, null,3, false
-M104T57, 1702, MA, GEN, 4, 100, 44.33, round2, null, null, null,4, true
+M104T57, 1502, MA, GEN, 3, 100, 44.33, round2, null, null, null,3, true
 M107R40, 1601, CY, GEN, 2, 100, 61.33, round2, null, null, null,3, false
 M101Y66, 1301, CY, GEN, 4, 100, 61.33, round2, null, null, null,4, true
 M110U71, 1804, MA, GEN, 4, 101, 44, round2, null, null, null,4, true
@@ -576,7 +575,6 @@ M103S66, 1505, PH, GEN, 4, 140, 40, round2, null, null, null,3, false
 M108G26, 1702, MA, GEN, 4, 141, 41, round2, null, null, null,4, true
 M102M59, 1701, CY, GEN, 1, 141, 58.33, round2, null, null, null,3, false
 M104V74, 1701, CY, GEN, 4, 142, 58, round2, null, null, null,4, true
-M101K47, 2402, PH, GEN, 11, 142, 40, round2, null, null, null,1, true
 M106F38, 1604, PH, GEN, 2, 142, 40, round2, null, null, null,3, true
 M107X44, 1301, CY, OBC, 1, 142, 58, round2, null, null, null,4, true
 M102N51, 1702, MA, GEN, 5, 142, 41, round2, null, null, null,3, true
@@ -593,7 +591,6 @@ M102M52, 1803, CY, GEN, 4, 144, 57.67, round2, null, null, null,4, true
 M104A86, 1701, CY, GEN, 4, 144, 57.67, round2, null, null, null,3, true
 M104W70, 1303, PH, GEN, 1, 144, 40, round2, null, null, null,3, true
 M111K18, 1302, MA, OBC, 1, 145, 40.67, round2, null, null, null,3, false
-M104H60, 2402, PH, GEN, 9, 146, 39.67, round2, null, null, null,1, true
 M112C45, 1804, MA, GEN, 4, 146, 40.67, round2, null, null, null,4, true
 M115K28, 1204, BT, SC, 1, 147, 29, round2, null, null, null,3, false
 M104F22, 1303, PH, GEN, 1, 147, 39.67, round2, null, null, null,3, true
@@ -645,7 +642,7 @@ M102E95, 1401, CY, GEN, 6, 161, 56.67, round2, null, null, null,4, true
 M111N30, 1505, PH, GEN, 3, 162, 39, round2, null, null, null,3, false
 M104C67, 1901, CY, GEN, 1, 162, 56.33, round2, null, null, null,3, false
 M101Z68, 1703, PH, GEN, 1, 162, 39, round2, null, null, null,3, false
-M117E60, 1603, MA, GEN, 7, 163, 39.67, round2, null, null, null,4, true
+M117E60, 1702, MA, GEN, 6, 163, 39.67, round2, null, null, null,3, true
 M104H80, 1601, CY, OBC, 1, 163, 56.33, round2, null, null, null,3, false
 M105S98, 1401, CY, GEN, 5, 163, 56.33, round2, null, null, null,4, true
 M102Q76, 1502, MA, OBC, 3, 163, 39.67, round2, null, null, null,4, true
@@ -968,10 +965,10 @@ M103U27, 1802, BT, SC, 2, 279, 25.67, round2, null, null, null,4, true
 M101W83, 1207, PH, OBC, 4, 279, 34.67, round2, null, null, null,3, false
 M108E14, 1804, MA, OBC, 1, 279, 35.33, round2, null, null, null,3, false
 M101Y55, 1604, PH, OBC, 1, 280, 34.67, round2, null, null, null,3, false
-M105T55, 2403, MA, GEN, 8, 281, 35.33, round2, null, null, null,3, true
+M105T55, 1905, MA, GEN, 10, 281, 35.33, round2, null, null, null,4, true
 M101Y44, 1702, MA, OBC, 3, 281, 35.33, round2, null, null, null,4, true
 M101G71, 1903, PH, GEN, 13, 283, 34.67, round2, null, null, null,1, true
-M106W60, 1905, MA, GEN, 21, 283, 35, round2, null, null, null,4, true
+M106W60, 2403, MA, GEN, 14, 283, 35, round2, null, null, null,3, true
 M103A52, 2402, PH, GEN, 6, 283, 34.67, round2, null, null, null,1, true
 M107G80, 1205, CY, OBC, 1, 284, 50, round2, null, null, null,3, false
 M104R86, 1205, CY, OBC, 1, 284, 50, round2, null, null, null,3, false
@@ -991,10 +988,12 @@ M103X12, 1604, PH, OBC, 5, 294, 34.33, round2, null, null, null,3, false
 M104Z45, 2402, PH, GEN, 15, 294, 34.33, round2, null, null, null,1, true
 M105P40, 1603, MA, OBC, 5, 295, 34.67, round2, null, null, null,3, false
 M102Q45, 1203, MS, OBC, 2, 296, 23.67, round2, null, null, null,4, true
+M110W69, 2402, PH, GEN, 11, 297, 34, round2, null, null, null,1, true
 M120D60, 1602, GG, GEN-PwD, 1, 297, 42.67, round2, null, null, null,3, false
 M102P27, 1207, PH, OBC, 2, 300, 34, round2, null, null, null,4, true
 M108K78, 1904, GG, SC, 4, 301, 42.67, round2, null, null, null,1, true
 M102E56, 1303, PH, SC, 1, 301, 34, round2, null, null, null,3, false
+M112U53, 2402, PH, GEN, 7, 301, 34, round2, null, null, null,1, true
 M105B66, 1214, MS, SC, 2, 303, 23.33, round2, null, null, null,4, true
 M114C48, 1203, MS, OBC, 4, 303, 23.33, round2, null, null, null,4, true
 M109S15, 1804, MA, OBC, 3, 304, 34.67, round2, null, null, null,4, true
@@ -1017,7 +1016,6 @@ M103B33, 1905, PH, GEN, 4, 314, 33.67, round2, null, null, null,4, true
 M108X35, 2303, PH, GEN, 16, 314, 33.67, round2, null, null, null,1, true
 M104S13, 1702, MA, OBC, 4, 315, 34.33, round2, null, null, null,4, true
 M110U56, 1804, MA, OBC, 6, 316, 34.33, round2, null, null, null,3, false
-M115Y15, 2303, PH, GEN, 9, 316, 33.33, round2, null, null, null,1, true
 M108T36, 1212, CY, GEN, 15, 317, 49, round2, null, null, null,3, false
 M102S31, 1212, PH, GEN, 9, 320, 33.33, round2, null, null, null,3, false
 M110D57, 1905, PH, GEN, 19, 320, 33.33, round2, null, null, null,4, true
@@ -1118,7 +1116,7 @@ M109S85, 1303, PH, OBC, 3, 403, 31, round2, null, null, null,3, true
 M115M18, 1802, BT, SC, 1, 409, 23, round2, null, null, null,4, true
 M110T73, 1301, CY, SC, 1, 409, 46.33, round2, null, null, null,3, false
 M111U85, 1402, MA, OBC, 5, 410, 32, round2, null, null, null,4, true
-M101D16, 1303, PH, OBC, 4, 410, 30.67, round2, null, null, null,3, true
+M101D16, 2103, PH, OBC, 5, 410, 30.67, round2, null, null, null,4, true
 M113V76, 1301, CY, OBC, 2, 411, 46.33, round2, null, null, null,3, false
 M107R42, 1604, PH, OBC, 4, 413, 30.67, round2, null, null, null,3, false
 M121F76, 1503, PH, SC, 1, 414, 30.67, round2, null, null, null,4, true
@@ -1131,7 +1129,7 @@ M112S29, 1604, PH, OBC, 2, 416, 30.67, round2, null, null, null,3, false
 M102M73, 1805, PH, OBC, 4, 416, 30.67, round2, null, null, null,3, false
 M106K30, 1501, CY, OBC, 1, 416, 46, round2, null, null, null,3, false
 M105P62, 1601, CY, OBC, 1, 419, 46, round2, null, null, null,4, true
-M107C15, 1703, PH, OBC, 4, 420, 30.33, round2, null, null, null,4, true
+M107C15, 1303, PH, OBC, 3, 420, 30.33, round2, null, null, null,3, true
 M101M84, 1216, PH, OBC, 8, 425, 30.33, round2, null, null, null,3, false
 M108R58, 1301, CY, OBC, 1, 426, 46, round2, null, null, null,3, false
 M109M40, 1402, MA, OBC, 7, 427, 31.67, round2, null, null, null,4, true
@@ -1245,7 +1243,7 @@ M102C77, 1205, CY, SC, 3, 592, 42.67, round2, null, null, null,3, false
 M101R72, 2001, CY, OBC, 3, 593, 42.33, round2, null, null, null,3, false
 M112V44, 1301, CY, SC, 2, 593, 42.33, round2, null, null, null,4, true
 M113R48, 1702, MA, SC, 4, 595, 29, round2, null, null, null,4, true
-M117Q73, 1905, PH, OBC, 12, 595, 27.33, round2, null, null, null,4, true
+M117Q73, 1703, PH, OBC, 8, 595, 27.33, round2, null, null, null,3, true
 M106R19, 1802, BT, ST, 2, 596, 20.67, round2, null, null, null,3, false
 M103V87, 2401, CY, OBC, 3, 597, 42.33, round2, null, null, null,4, true
 M107D73, 1701, CY, SC, 2, 597, 42.33, round2, null, null, null,4, true
@@ -1295,6 +1293,7 @@ M107A75, 2303, PH, OBC, 5, 663, 26.33, round2, null, null, null,4, true
 M113X58, 1605, PH, OBC, 7, 663, 26.33, round2, null, null, null,3, false
 M102C39, 2103, PH, OBC, 5, 663, 26.33, round2, null, null, null,3, false
 M117X41, 1504, MS, ST, 2, 665, 14.33, round2, null, null, null,4, true
+M106F45, 1905, PH, OBC, 4, 669, 26.33, round2, null, null, null,1, true
 M104N60, 1602, GG, ST, 1, 673, 25.67, round2, null, null, null,3, true
 M107Y70, 2001, CY, OBC, 11, 674, 40.33, round2, null, null, null,3, true
 M111X39, 2001, CY, OBC, 9, 675, 40.33, round2, null, null, null,3, true
@@ -1323,7 +1322,6 @@ M115C49, 2302, CY, OBC, 8, 718, 39.67, round2, null, null, null,1, true
 M107E13, 1401, CY, SC, 3, 719, 39.67, round2, null, null, null,4, true
 M106E68, 1702, MA, SC, 4, 721, 26.67, round2, null, null, null,4, true
 M110Q36, 1302, MA, ST, 1, 722, 26.67, round2, null, null, null,3, false
-M102N20, 2103, PH, OBC, 7, 723, 25.67, round2, null, null, null,1, true
 M117H22, 1803, CY, SC, 3, 730, 39.33, round2, null, null, null,3, false
 M104S44, 1604, PH, SC, 2, 737, 25.33, round2, null, null, null,4, true
 M104G26, 1804, MA, SC, 5, 737, 26.67, round2, null, null, null,4, true

@@ -98,6 +98,10 @@ public class Applicant{
 	boolean   isAllocated; 
 	boolean   isSupernumeri;
 
+
+	String lastRoundQuota;
+	int lastRoundChoiceNo;
+
 	Applicant(String applicationId, String validChoices, String originalChoice, String dob, String category, String isPd){
 
 		this.applicationId = applicationId;
@@ -108,8 +112,11 @@ public class Applicant{
 		this.isProvisional = false;
 		this.autoUpgrade = true;	
 		this.isSubmitted = false;
-		this.lastRoundSeat = false;
 
+		this.lastRoundSeat = false;
+		this.lastRoundQuota = null;
+		this.lastRoundChoiceNo = -1;
+		
 		this.acceptancePath = "";	
 		this.challanPath = "";
 		this.declarationPath = "";
@@ -191,7 +198,7 @@ public class Applicant{
 	}
 
 	static void header(){
-		System.out.println("ApplicationId, Allocated-Paper, Allocated-Program, Allocated-Quota, Allocated-Program-Choice, Allocated-Paper-Rank, Allocated-Paper-Mark,  Category, PwD-status, Reg1-ID, Reg1-Rank, Reg1-Marks, Reg2-ID, Reg2-Rank2,  Reg2-Marks,  ValidChoices, Original-Choice, statusId, AutoUpgrade");
+		System.out.println("ApplicationId, Allocated-Paper, Allocated-Program, Allocated-Quota, Allocated-Program-Choice, Allocated-Paper-Rank, Allocated-Paper-Mark,  Category, PwD-status, Reg1-ID, Reg1-Rank, Reg1-Marks, Reg2-ID, Reg2-Rank2,  Reg2-Marks,  ValidChoices, Original-Choice, statusId, AutoUpgrade, Quota-Change, Improve-Choice");
 	}
 	
 
@@ -225,7 +232,26 @@ public class Applicant{
 				System.out.print(validChoices[i].trim());	
 			}
 		}
-        System.out.println(", "+originalChoices+", "+statusId+", "+autoUpgrade);
+        System.out.print(", "+originalChoices+", "+statusId+", "+autoUpgrade+", ");
+
+		if( lastRoundQuota != null){
+			
+			if( lastRoundQuota.trim().equals( allocatedQuota.name ) ){
+				System.out.print("No-Quota-Change");
+			}else{
+				System.out.print(lastRoundQuota.trim()+"-TO-"+allocatedQuota.name );
+			}				 
+			
+			if( lastRoundChoiceNo > allocatedChoice ){
+				System.out.print(", Improved ");
+			}else{
+				System.out.print(", Same");
+			}
+
+		}else{
+			System.out.print("NA, NA");
+		}
+		System.out.println();
 
 	}
 }

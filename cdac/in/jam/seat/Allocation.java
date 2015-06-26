@@ -370,7 +370,6 @@ public class Allocation{
 
 							applicant.allocatedChoice =  lastRoundApplicant.choiceNo;
 							applicant.lastRoundChoiceNo = applicant.allocatedChoice;
-
 							applicant.isProvisional = lastRoundApplicant.isProvisional;
 
 							applicant.acceptancePath = lastRoundApplicant.acceptancePath;
@@ -512,9 +511,9 @@ public class Allocation{
 
 	private void printPaperWise(String paper, List<Applicant> applicants){
 
-		Applicant.printHeaderForPaper();
+		Applicant.printHeader1( );
 		for(Applicant applicant: applicants){
-			applicant.printSortedPaperWise(paper);	
+			applicant.print1( paper );	
 		}	
 	}
 
@@ -533,7 +532,6 @@ public class Allocation{
 	}
 
 	void printCourse(){
-
 		Course.printHeader();
 		Set<String> papers = coursesMap.keySet();
 		int totalSeat = 0;
@@ -986,10 +984,12 @@ public class Allocation{
 	private void notInDraft(){
 
 		List<Applicant> applicants = allocationDetails.allocatedApplicants;
-		Applicant.printHeaderAllocation( true );
+		Applicant.printHeader3();
+
 		for(Applicant applicant: applicants){
 
 			String program = applicant.allocatedQuota.programCode;
+
 			Draft draft = draftAllocation.get( program );
 
 			if( draft == null ){
@@ -998,15 +998,15 @@ public class Allocation{
 			}else{
 				if( ! draft.applicants.contains( applicant.applicationId ) ){
 					draft.newapplicants.add( applicant.applicationId );        
-					applicant.printAllocation(true);
+					applicant.print3();
 				}
 			}
 		}
 
 		Set<String> programs = draftAllocation.keySet();
 		int count = 0;
-
 		for(String program: programs){
+
 			List<String> napplicants =  draftAllocation.get( program ).newapplicants;
 			if( napplicants.size() > 0 ){
 				System.out.print(program+": ");
@@ -1023,6 +1023,7 @@ public class Allocation{
 				System.out.println(); 
 			}
 		}    
+
 		System.out.println("Total "+count+" Not in last-draft Allocation" );
 		System.err.println("Total "+count+" Not in last-draft Allocation" );
 	}

@@ -26,11 +26,27 @@ public class LastRoundApplicant{
 			this.quota = quota;	
 			this.choiceNo = Integer.parseInt( choiceNo ) - 1;
 			this.statusId = Integer.parseInt( statusId ); 
+	
+			if( acceptancePath.trim().length() > 0 )
+				this.acceptancePath = acceptancePath;	
+			else
+				this.acceptancePath = null;
+			
+			if( challanPath.trim().length() > 0 )
+				this.challanPath =  challanPath;
+			else
+				this.challanPath =  null;
 
-			this.acceptancePath = acceptancePath;	
-			this.challanPath =  challanPath;
-			this.declarationPath = declarationPath; 
-			this.undertakingPath = undertakingPath; 	
+			if( declarationPath.trim().length() > 0 )
+				this.declarationPath = declarationPath; 
+			else
+				this.declarationPath = null; 
+
+			if( undertakingPath.trim().length() > 0 )
+				this.undertakingPath = undertakingPath; 	
+			else
+				this.undertakingPath = null; 	
+
 
 			this.autoUpgrade = false;
 			this.isProvisional = false;

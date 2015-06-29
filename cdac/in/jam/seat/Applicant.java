@@ -160,14 +160,27 @@ public class Applicant{
 		ranks = new TreeMap<String, Rank>();
 	}
 
+	static void printHeaderTable(){
+		System.out.println("application_id,seat_allotted,paper,quota,choice_no,round,is_submitted,status_id,bank_challan_path,is_provisional,declaration_form_path,undertaking_form_path,auto_upgrade,acceptance_doc_path");
+	}
+
+	void printAllocationTable(String round){
+
+		System.out.print(applicationId+","+allocatedQuota.programCode+","+allocatedQuota.paper+","+allocatedQuota.printname+","+(allocatedChoice+1));
+		System.out.println(","+round+","+isSubmitted+","+statusId+","+challanPath+","+isProvisional+","+declarationPath+","+undertakingPath+","+autoUpgrade+","+acceptancePath);
+
+	}
+
 
 	static void printHeaderAllocation(){
-		System.out.println("Application_id, Seat_allotted, Paper, Quota, Choice_no, Rank, Marks, Round, isProvisional, StatusId, autoUpgrade, acceptancePath, declarationPath, undertakingPath, challanPath");
+		System.out.println("application_id, Seat_allotted, Paper, Quota, Choice_no, Rank, Marks, Round, isProvisional, StatusId, autoUpgrade, acceptancePath, declarationPath, undertakingPath, challanPath");
 	}
 
 	void printAllocation(String round){
+
 		System.out.print(applicationId);
 		System.out.print(", "+allocatedQuota.programCode+", "+allocatedQuota.paper+", "+allocatedQuota.printname+", "+( allocatedChoice + 1 )); 	   System.out.println(", "+ranks.get( allocatedQuota.paper ).rank+", "+ranks.get( allocatedQuota.paper ).marks+", "+round+", "+isProvisional+", "+ statusId+", "+autoUpgrade+", "+acceptancePath+", "+declarationPath+", "+undertakingPath+", "+challanPath);
+
 	}
 
 	static void printHeader1(){

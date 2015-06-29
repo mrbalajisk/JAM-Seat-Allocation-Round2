@@ -48,7 +48,15 @@ public class AllocationDetails{
 	void print(){
 
 		System.out.println("-----------------------------------------------------------");
-		if( Allocation.printAllocation ){
+		if( Allocation.printTable ){
+
+			Applicant.printHeaderTable();
+
+			for(Applicant applicant:  allocatedApplicants){
+				applicant.printAllocationTable( Allocation.round );
+			}
+
+		}else if( Allocation.printAllocation ){
 			Applicant.printHeaderAllocation();
 			for(Applicant applicant:  allocatedApplicants){
 				applicant.printAllocation( Allocation.round );

@@ -27,6 +27,7 @@ public class Allocation{
 	private boolean flagSuperNumeri = false;
 	private boolean SuperNumeriReduced = false;
 	public static boolean printAllocation = false;
+	public static boolean printTable = false;
 	public static String  round = "round2";
 
 	static private Map<String, QuotaReadjust> readjustQuotas = new HashMap<String, QuotaReadjust>();
@@ -501,8 +502,10 @@ public class Allocation{
 		Set<String> papers = paperWiseApplicant.keySet();
 
 		for(String paper: papers){
+
 			allocationDetails.paperwiseAllocations.get(paper).applicants = paperWiseApplicant.get(paper).size();
 		}
+
 		allocationDetails.totalSeatsAfterSeatReduction = totalSeats();
 		Collections.sort( allocationDetails.allocatedApplicants, new SortByAllocatedPaperRank() ) ;
 		allocationDetails.print();	
@@ -571,9 +574,9 @@ public class Allocation{
 				
 				if(	applicant.allocatedChoice > choiceNo){			
 
-					applicant.acceptancePath = "";	
-					applicant.declarationPath = "";
-					applicant.undertakingPath = "";	
+					applicant.acceptancePath = null;	
+					applicant.declarationPath = null;
+					applicant.undertakingPath = null;	
 
 					applicant.isProvisional = false;
 					applicant.lastRoundSeat = false;
@@ -635,8 +638,12 @@ public class Allocation{
 
 						if( allocate("GEN", course, applicant, choiceNo, freedSeats ) ){
 							flag = true;
+
+							//if( applicant.statusId == 3 || applicant.statusId == 4 )
+							//	System.out.println("Quota Change: "+applicant.applicationId);
 							break;    
 						}    
+				
 
 				    }else if ( applicant.autoUpgrade  ) {                                                 /* better-choice */
 
@@ -1041,6 +1048,8 @@ public class Allocation{
 					allocation.SuperNumeriReduced = true;	
 				}else if( args[i].equals("-pa") ){
 					allocation.printAllocation = true;
+				}else if( args[i].equals("-pt") ){
+					allocation.printTable = true;
 				}else if( args[i].equals("-r") ){
 					allocation.round = args[i+1].trim();
 				}else if( args[i].equals("-help") || args[i].equals("?") || args[i].equals("-?") ){
@@ -1049,6 +1058,7 @@ public class Allocation{
 					System.out.println("-?    :  provide all the options" );
 					System.out.println("\"?\"   :  provide all the options" );
 					System.out.println("-pa   :  print output in allocation data format [defalut false] " );
+					System.out.println("-pt   :  print output for 2nd round data upload for table [defalut false] " );
 					System.out.println("-r  <round-name>  :  round name [defalut 'round1'] " );
 					System.out.println("-isup :  supernumeri seat allocation [defalut false] " );
 					System.out.println("-isupr: supernumeri seat reduced  [default false] " );
